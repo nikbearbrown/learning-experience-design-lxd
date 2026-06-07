@@ -1,0 +1,13 @@
+{
+  "name": "experience-design-for-edtech",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Experience Design for EdTech",
+  "scripts": {
+    "svg-to-png": "node SCRIPTS/svg-to-png.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.0",
+    "glob": "^10.0.0"
+  }
+}
