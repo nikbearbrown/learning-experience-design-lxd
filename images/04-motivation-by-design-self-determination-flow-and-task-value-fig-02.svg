@@ -1,0 +1,68 @@
+<!-- Experience Design for EdTech · Chapter 04: Motivation by Design — Figure 02: The Motivation Quality Continuum · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">The Motivation Quality Continuum — 04-motivation-by-design-self-determination-flow-and-task-value</title>
+  <desc>Horizontal spectrum of four motivation segments — amotivation, external regulation, internalized extrinsic, intrinsic — under an arrow of increasing internalization. Beneath each segment, a persistence bar shows what happens when the regulator is removed: nothing to sustain, stops at removal, often persists, persists.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="04-motivation-by-design-self-determination-flow-and-task-value" figure-number="02" figure-title="The Motivation Quality Continuum" figure-slug="motivation-quality-continuum" figure-type="conceptual-map-spectrum" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/04-motivation-by-design-self-determination-flow-and-task-value-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Motivation Quality Continuum</text>
+
+  <!-- internalization arrow -->
+  <text x="350" y="72" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">increasing internalization</text>
+  <line x1="48" y1="84" x2="644" y2="84" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- continuum band: four segments -->
+  <rect x="48" y="104" width="145" height="64" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="120.5" y="140" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#545454">Amotivation</text>
+
+  <rect x="201" y="104" width="145" height="64" fill="#ADADAD" stroke="#ADADAD" stroke-width="1"/>
+  <text x="273.5" y="133" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">External</text>
+  <text x="273.5" y="148" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">regulation</text>
+
+  <rect x="354" y="104" width="145" height="64" fill="#787878" stroke="#787878" stroke-width="1"/>
+  <text x="426.5" y="133" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#FFFFFF">Internalized</text>
+  <text x="426.5" y="148" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#FFFFFF">extrinsic</text>
+
+  <rect x="507" y="104" width="145" height="64" fill="#C8102E" stroke="#C8102E" stroke-width="1"/>
+  <text x="579.5" y="133" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#FFFFFF">Intrinsic</text>
+  <text x="579.5" y="148" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#FFFFFF">motivation</text>
+
+  <!-- persistence question -->
+  <text x="48" y="212" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">What happens when the external regulator is removed?</text>
+  <text x="48" y="228" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">behavior over time per segment · dashed tick = the moment of removal</text>
+
+  <!-- column 1: amotivation — nothing -->
+  <line x1="55.5" y1="262" x2="185.5" y2="262" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="105.5" y1="246" x2="105.5" y2="278" stroke="#787878" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="120.5" y="300" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">no behavior to sustain</text>
+
+  <!-- column 2: external — stops at removal (tee stop, structural) -->
+  <line x1="208.5" y1="262" x2="338.5" y2="262" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="208.5" y="256" width="50" height="6" fill="#2a1a0e"/>
+  <line x1="258.5" y1="250" x2="258.5" y2="268" stroke="#2a1a0e" stroke-width="2"/>
+  <line x1="258.5" y1="246" x2="258.5" y2="278" stroke="#787878" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="273.5" y="300" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">stops when the</text>
+  <text x="273.5" y="314" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">regulator stops</text>
+
+  <!-- column 3: internalized — often persists -->
+  <line x1="361.5" y1="262" x2="491.5" y2="262" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="361.5" y="256" width="50" height="6" fill="#787878"/>
+  <rect x="411.5" y="256" width="50" height="6" fill="#787878" opacity="0.45"/>
+  <line x1="411.5" y1="246" x2="411.5" y2="278" stroke="#787878" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="426.5" y="300" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">often persists</text>
+
+  <!-- column 4: intrinsic — persists -->
+  <line x1="514.5" y1="262" x2="644.5" y2="262" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="514.5" y="256" width="130" height="6" fill="#C8102E"/>
+  <line x1="564.5" y1="246" x2="564.5" y2="278" stroke="#787878" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="579.5" y="300" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">persists — nothing</text>
+  <text x="579.5" y="314" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">external to remove</text>
+
+  <!-- source -->
+  <text x="48" y="368" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">SOURCE: ADAPTED FROM DECI &amp; RYAN, SELF-DETERMINATION THEORY</text>
+
+  <!-- caption -->
+  <text x="32" y="404" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Motivation varies in kind, not just amount: persistence after the regulator disappears rises with internalization.</text>
+</svg>

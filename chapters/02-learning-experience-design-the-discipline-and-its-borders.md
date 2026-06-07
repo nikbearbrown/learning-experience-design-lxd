@@ -21,13 +21,16 @@ Now here is the question the chapter is going to answer honestly rather than def
 
 ---
 
-The field calls itself Learning Experience Design, and its academic synthesis is younger than some of the practitioners teaching it. Jahnke and colleagues frame LXD as the integration of three dimensions — sociocultural (who the learner is, with whom, in what context), pedagogical (how the learning is structured), and technological (through what medium) — arguing that designs fail when any dimension is treated as an afterthought [verify year]. McDonald and Westerberg (2023) offer the formulation I find most defensible: LXD is an *orienting guide* — it helps designers influence human learning by combining evidence about how people learn with human-centered design methods. Note the modesty of "orienting guide." Not a theory. Not a settled method. A stance. Niels Floor, whose *This is Learning Experience Design* (2023) is the field's practitioner canon, places it at the intersection of design disciplines and learning sciences and foregrounds human-centered, goal-oriented, iterative design over the linear develop-and-deliver models that instructional design became associated with in practice.
+The field calls itself Learning Experience Design, and its academic synthesis is younger than some of the practitioners teaching it. Jahnke and colleagues frame LXD as the integration of three dimensions — sociocultural (who the learner is, with whom, in what context), pedagogical (how the learning is structured), and technological (through what medium) — arguing that designs fail when any dimension is treated as an afterthought (Jahnke et al. 2021). McDonald and Westerberg (2023) offer the formulation I find most defensible: LXD is an *orienting guide* — it helps designers influence human learning by combining evidence about how people learn with human-centered design methods. Note the modesty of "orienting guide." Not a theory. Not a settled method. A stance. Niels Floor, whose *This is Learning Experience Design* (2023) is the field's practitioner canon, places it at the intersection of design disciplines and learning sciences and foregrounds human-centered, goal-oriented, iterative design over the linear develop-and-deliver models that instructional design became associated with in practice.
 
-What the synthesis does *not* include is its own original theory. LXD's theoretical pillars — constructivism, experiential learning (Kolb 1984), situated learning (Lave & Wenger 1991), cognitive load theory (Sweller 1988), self-determination theory (Deci & Ryan 2000) — are all imported. A bibliometric review of the field's literature found that LXD has grown by borrowing from UX, instructional design, educational technology, and the learning sciences rather than by consolidating around a canonical theory of its own [verify — confirm single-review source before manuscript freeze]. Whether that is damning or normal for a young applied field is the question this chapter is actually trying to answer.
+What the synthesis does *not* include is its own original theory. LXD's theoretical pillars — constructivism, experiential learning (Kolb 1984), situated learning (Lave & Wenger 1991), cognitive load theory (Sweller 1988), self-determination theory (Deci & Ryan 2000) — are all imported. The field's literature suggests growth by borrowing from UX, instructional design, educational technology, and the learning sciences rather than by consolidating around a canonical theory of its own; the stronger bibliometric version of that claim remains a manuscript-freeze check.
+Whether that is damning or normal for a young applied field is the question this chapter is actually trying to answer.
 
 The cleanest way to locate LXD is not to describe it from the inside but to read what each neighboring field *optimizes for*. Methods travel freely across disciplinary borders — journey maps, personas, formative evaluation, learner analysis appear in all four traditions. What does not travel is the optimization target: the thing the design ultimately maximizes, and is willing to trade other goods to get.
 
-Instructional design optimizes for *performance efficiency* — closing a defined gap between what learners can do now and what the organization needs them to do. Its institutional formation runs through military training, ADDIE, Dick and Carey, and a long tradition of writing measurable objectives before touching a single instructional decision. UX design optimizes for *satisfaction and usability* — "user experience" itself is a designed term, coined in the 1990s by Don Norman to name everything beyond the interface [verify — widely attributed]. Service design optimizes for *systemic experience quality* — its blueprinting method (Stickdorn et al. 2018) maps frontstage and backstage actors, treating the whole service as the unit of analysis. LXD claims to optimize for something none of the others will accept as *the* constraint: *learning*, specifically durable learning, with motivation and usability as supporting variables rather than the goal.
+Instructional design optimizes for *performance efficiency* — closing a defined gap between what learners can do now and what the organization needs them to do. Its institutional formation runs through military training, ADDIE, Dick and Carey, and a long tradition of writing measurable objectives before touching a single instructional decision. UX design optimizes for *satisfaction and usability* — "user experience" itself is a designed term, coined in the 1990s by Don Norman to name everything beyond the interface. Service design optimizes for *systemic experience quality* — its blueprinting method (Stickdorn et al. 2018) maps frontstage and backstage actors, treating the whole service as the unit of analysis. LXD claims to optimize for something none of the others will accept as *the* constraint: *learning*, specifically durable learning, with motivation and usability as supporting variables rather than the goal.
+
+![Figure 2.1 — Four briefs, one problem: ID, UX, service design, and LXD each foreground a different slice of the same situation — only the LXD brief terminates in a delayed learning measure](../images/02-learning-experience-design-the-discipline-and-its-borders-fig-01.png)
 
 That last distinction is the one you need to hold onto, because it is also the source of the field's most serious critique.
 
@@ -37,19 +40,21 @@ The critique, stated most pointedly in practitioner discourse, runs: *LXD is ins
 
 Parts of this critique are simply true. The methods are not new. Learner analysis predates personas. Formative evaluation predates prototyping sprints. Nothing in the LXD canon improves on Sweller or Bjork — it cites them, exactly as ID does. The title inflation is real: employers use the labels interchangeably, and salary data for the two titles overlap almost completely. And the failure mode the critique warns against is common: portfolios full of empathy maps and delight language with no learning outcome anywhere in them — experience design *minus* the constraint.
 
-What the critique misses, on the best current evidence, is that the *centers of gravity* genuinely differ. ID's institutional formation — performance gaps, objectives, efficiency — produces practitioners optimized for alignment; the experience-design lineage produces practitioners who instinctively map journeys, prototype early, and treat emotion and context as design material rather than noise. The bibliometric evidence cuts both ways: it confirms LXD has no canonical theory of its own (point to the critics), and it shows a distinct, growing, cross-citing literature with its own venues, programs, and research questions — institutionalizing whether or not it is theoretically original. Disciplines have been founded on less. UX itself was "just" human factors with better branding for a decade before anyone conceded otherwise. The 2025 Purdue volume *Transdisciplinary Learning Experience Design* is the first edited academic collection treating LXD as canonical — not proof of distinctiveness, but evidence that the institutional machinery is running.
+What the critique misses, on the best current evidence, is that the *centers of gravity* genuinely differ. ID's institutional formation — performance gaps, objectives, efficiency — produces practitioners optimized for alignment; the experience-design lineage produces practitioners who instinctively map journeys, prototype early, and treat emotion and context as design material rather than noise. The literature cuts both ways: LXD has no canonical theory of its own (point to the critics), but it also shows a distinct, growing, cross-citing conversation with its own venues, programs, and research questions — institutionalizing whether or not it is theoretically original. Disciplines have been founded on less. UX itself was "just" human factors with better branding for a decade before anyone conceded otherwise. The 2025 Springer volume *Transdisciplinary Learning Experience Design* is among the first edited academic collections treating LXD as canonical — not proof of distinctiveness, but evidence that the institutional machinery is running.
 
-The question of whether LXD is a discipline is, in part, *not settleable by evidence*, because "is X a discipline" is a sociological fact that hasn't finished happening. What would settle the empirical piece: whether LXD-trained and ID-trained designers, given the same brief, produce measurably different processes, artifacts, or — the question that would actually matter — learning outcomes. No direct comparative study exists [verify]. If you are still in this field in ten years, you may be the one who runs it.
+The question of whether LXD is a discipline is, in part, *not settleable by evidence*, because "is X a discipline" is a sociological fact that hasn't finished happening. What would settle the empirical piece: whether LXD-trained and ID-trained designers, given the same brief, produce measurably different processes, artifacts, or — the question that would actually matter — learning outcomes. I am aware of no direct comparative study; because that is a negative-existence claim, it remains a manuscript-freeze check rather than a settled fact. If you are still in this field in ten years, you may be the one who runs it.
 
 My position, stated once and enforced everywhere in this book: **an emerging discipline, borrowing without consolidation**. The honest answer. The only answer the evidence permits.
 
-<!-- → [INFOGRAPHIC: timeline of LXD's intellectual genealogy — showing constructivism, experiential learning, cognitive load theory, situated learning, and UX/human-centered design as roots feeding into LXD's emergence ~2010s, with "no original theory, borrowed synthesis" as the honest label at the intersection; caption: LXD's theoretical parents are well-established in their own fields. The synthesis is newer than any of them.] -->
+![Figure 2.2 — LXD's intellectual genealogy: constructivism, experiential learning, situated learning, cognitive load theory, self-determination theory, and the UX lineage converging on a synthesis younger than any of its parents](../images/02-learning-experience-design-the-discipline-and-its-borders-fig-02.png)
 
 ---
 
 The most defensible *positive* claim of LXD is about scope. The unit of design is the **experience** — temporal, social, affective, cognitive, and infrastructural — not the content, the artifact, or the session.
 
 Each of those adjectives picks out something a content outline cannot see. *Temporal* means learning happens across an arc. The syllabus shows week three; the experience contains the Sunday-night dread of week three — the anxiety that narrows working memory before the learner opens the module. *Social* means the preceptor, the cohort, the embarrassment tax on asking questions. Situated learning theory (Lave & Wenger 1991) holds that this is not the context of the learning but part of its substance — knowing is inseparable from doing, and doing is inseparable from the community of practice in which it happens. *Affective* means motivation decays on a schedule, and anxiety trades cognitive resources that belong to the learning task; Chapter 4 makes both of these designable rather than just regrettable. *Cognitive* is the load and difficulty machinery of Chapter 3. *Infrastructural* is the six clicks from the scheduling app and the phone the quiz breaks on.
+
+![Figure 2.3 — The experience as the unit of design: temporal, social, affective, cognitive, and infrastructural dimensions running the full length of the learner's arc, none dominant](../images/02-learning-experience-design-the-discipline-and-its-borders-fig-03.png)
 
 This is the scope that justifies the existence of the discipline. An instructional designer working at the level of the objective cannot see the Sunday-night dread. A UX designer working at the level of the interface cannot see the community-of-practice dynamic that makes asking questions feel dangerous. A service designer working at the level of the system blueprint can see both but has no particular stake in whether the learning sticks. The LXD frame is the one that *requires* all of these to be simultaneously in the design conversation, because any of them — unaddressed — can defeat the others.
 
@@ -65,6 +70,8 @@ That last clause is the book's grading mechanic, defined here formally. The **Ev
 
 Now I want to return to the hospital and run the constraint test — three questions that any LXD deliverable should survive — because the test is more useful as a diagnostic than as a hiring filter, and I want you to have it before the studio work begins.
 
+![Figure 2.4 — The constraint test: three diagnostic questions a deliverable must survive — outcome stated before design, decisions constrained by learning evidence, a delayed or transfer measure actually taken](../images/02-learning-experience-design-the-discipline-and-its-borders-fig-04.png)
+
 First question: *what was the intended learning outcome, stated before design began?* This question is devastating in practice. Not "what does the training cover" — what specific thing should the learner be able to do, in what context, at what level of proficiency, and when? The most common answer, when you press the people who commissioned or built the learning experience, is silence followed by something like "they should understand the material." That is not a learning outcome; it is an aspiration. Writing "no outcome was specified before design began" in your studio profile is not a failure — it is the assignment. Most real experiences, if they are honest with themselves, would write that sentence.
 
 Second question: *which design decisions were constrained by evidence about learning?* Not "which features were inspired by design principles" and not "which choices felt right" — which decisions would have come out differently if the designer had read Bjork's work on desirable difficulties, or Cepeda's work on spacing, or Sweller's work on load? If the answer is "the spacing between practice items was reduced because learners complained it felt hard" — that is not an evidence-constrained decision; that is a satisfaction-constrained one. The distinction matters and most portfolios cannot make it, because they lack the disclosure habit.
@@ -73,7 +80,7 @@ Third question: *what would you measure to know if it worked, and did you?* Sati
 
 A portfolio that survives all three questions is doing LXD. A portfolio that fails all three is doing something — maybe good UX, maybe solid ID — but it is not enforcing the constraint that justifies the discipline's existence.
 
-<!-- → [CHART: scatter plot of imagined portfolio population — x-axis: "quality of experience design artifacts," y-axis: "evidence of learning outcomes"; call out the danger zone: high artifact quality, no learning evidence; caption: The engagement trap operates at the portfolio level exactly as it operates at the product level. A beautiful portfolio with no learning evidence is optimized for the wrong outcome.] -->
+![Figure 2.5 — The portfolio danger zone: high artifact quality with no learning evidence — the engagement trap operating at the portfolio level](../images/02-learning-experience-design-the-discipline-and-its-borders-fig-05.png)
 
 ---
 
@@ -132,31 +139,191 @@ The constraint is the thing. Chapter 3 opens with the cognitive architecture: lo
 9. *(Challenge / open-ended)* The chapter says the disciplinary question — "is LXD a real discipline?" — is partly unsettleable by evidence, because disciplines are sociological facts that haven't finished happening. Design the study that would settle the *empirical* piece: what would you measure, using which participants, in which context, to determine whether LXD-trained designers produce different learning outcomes than ID-trained ones? Name the three hardest methodological problems in running that study and say how you would handle each. You do not need to solve them. You need to see them. *What this tests: ability to translate a theoretical debate into a research design, and to distinguish empirical questions from institutional ones.*
 
 ---
+## Chapter 2 Exercises: Learning Experience Design — The Discipline and Its Borders
+**Project:** The Redesign Dossier
+**This chapter adds:** `dossier/02-project-charter.md` — the formal selection and profile of the experience you will redesign, anchored by an optimization-target statement only LXD would sign and the three constraint-test answers.
+---
+### Exercise 1 — When to Use AI
 
-## LLM Exercise
+**The judgment:** In this chapter's work, AI assistance is appropriate for the following tasks:
 
-*Goal: produce the strongest version of your studio project profile by making an LLM argue against your selection — with the guardrail that the model critiques your completed attempt rather than generating one for you.*
+- Restructuring your raw profile notes — the shadowing observations, the owner's emails, your own memory of the experience — into the charter's sections — *Why AI works here:* this is reformatting; the content is yours, and you can check at a glance whether anything was added or lost in the move.
+- Generating feasibility risks and failure scenarios for your learner-access plan (what if the owner stops answering? what if only one learner shows up?) — *Why AI works here:* this is generating options; a long list of risks costs nothing, and you are the only one who can judge which are live for your situation.
+- Drafting interview questions for extracting the intended learning outcome from the experience's owners, exactly as they state it — *Why AI works here:* this is drafting against a clear goal — questions that elicit a quotable answer — and a bad question is obvious the moment you imagine asking it.
 
-Write your one-page studio project profile (Exercise 6) **first**. Then paste the following, with your profile inserted.
+**The tell:** You know you are using AI appropriately when you can evaluate the output — when you have independent criteria to judge whether it is correct, complete, and fit for purpose.
+
+---
+### Exercise 2 — When NOT to Use AI
+
+**The judgment:** In this chapter's work, the following tasks belong to you, not the model — they are the charter's spine, and the model will offer to write all three:
+
+- Writing the optimization-target statement — *Why AI fails here:* this is a values judgment about what your redesign will trade away, and the model reliably flattens the four disciplines' distinctions into marketing copy — "a delightful, learner-centered, outcomes-driven experience" — language every discipline would sign and none would be constrained by. A statement that names no trade is the rebranding critique made true of your own project.
+- Choosing the experience — *Why AI fails here:* missing ground truth. Feasibility turns on facts only you hold: whether you can actually reach three to five real learners twice, whether the owner will talk to you, whether one segment is prototypable. The model will optimize for an interesting-sounding project; the chapter's most common failure — a content area instead of a reachable experience — is precisely what fluent AI suggestions produce.
+- Supplying the intended learning outcome when the owners haven't stated one — *Why AI fails here:* hallucination risk in its most corrosive form. The chapter is explicit that the vagueness is data; an invented-but-plausible outcome papers over the silence and destroys the constraint test's first question before you ever ask it. "No outcome was specified before design began" is a passing answer. A fabricated one is not.
+
+**The tell:** You know you have crossed the line when you are using AI output as your reason for a conclusion rather than as a tool for reaching one. If you could not explain the conclusion without the AI, the AI did the work that should have been yours.
+
+**Series connection:** Tier 4 Metacognitive — classifying design work by its optimization target is metacognition about the discipline itself. The same move applies to the model: it optimizes for your satisfaction with the response, which is exactly why it flattens distinctions into language you will like. Knowing what the tool optimizes for is this chapter's skill, applied twice.
+
+---
+### Exercise 3 — LLM Exercise
+
+**What you're building this chapter:** `dossier/02-project-charter.md` — the charter that governs every later dossier file.
+
+**Tool:** Claude Project — create one now, named "Redesign Dossier," and add `01-evidence-brief.md` as project knowledge; from here on the dossier accumulates as persistent context so no chapter starts from a blank slate.
+
+**The Prompt:**
+```
+I am building the second file of my Redesign Dossier: the project charter for the
+learning experience I will redesign across the rest of this book. My evidence brief
+(01-evidence-brief.md) is in this project's knowledge — read it before responding.
+Your job is to stress-test my selection and then format the charter. You do not choose
+the experience, and you do not write or improve the optimization-target statement.
+Those are mine.
+
+MY DRAFT PROFILE: the experience described as an experience — learner, context, arc,
+infrastructure, social and affective texture; the intended learning outcome exactly as
+its owners state it, quoted directly, or the sentence "no outcome was specified before
+design began"; the current evidence of effectiveness; my learner access (the 3–5 real
+people I can reach, and how); and one sentence on why this experience deserves the
+whole book. I will paste all of this here. If any piece is missing, ask me for it
+before doing anything else.
+
+MY OPTIMIZATION-TARGET STATEMENT, written before this conversation: one or two
+sentences naming what this redesign optimizes for and what I am explicitly willing to
+trade away to get it. I will paste it here.
+
+YOUR TASK, in order:
+1. Interrogate feasibility one question at a time, waiting for my answer each time:
+   Will I really reach these learners twice — once for research, once for co-design?
+   Is one segment of this experience prototypable and testable? Is the intended
+   outcome specific enough that a delayed or transfer measure could exist for it?
+2. Audit my current-evidence section against my own evidence brief in project
+   knowledge: have I classified any engagement metric as learning evidence, or
+   contradicted my own signal inventory? Make me defend each classification — do not
+   reclassify anything for me.
+3. Test my optimization-target statement with this rule: if an instructional designer,
+   a UX designer, and a service designer would all happily sign it, it has no content.
+   Tell me which of them would sign mine and why — then make me sharpen the wording
+   myself. Do not propose improved wording.
+4. Argue, concretely, that I have chosen the WRONG experience — the best honest case
+   for switching. Make me respond before continuing.
+5. Then format the charter as a markdown file named 02-project-charter.md with these
+   sections: Experience Profile (as an experience, not a content outline); Intended
+   Learning Outcome (verbatim quote with source, or "no outcome was specified before
+   design began" — never a paraphrase); Current Evidence of Effectiveness (each item
+   labeled with its engagement dimension and whether any delayed or transfer evidence
+   exists); Optimization-Target Statement (my final wording, character for character);
+   Constraint-Test Answers (the three questions and my answers); Learner Access;
+   Feasibility Risks I Am Accepting.
+6. Do not invent details I have not given you. Do not soften my trade-offs into
+   agreeable language. Where my answer was "none" or "no outcome was specified," that
+   exact wording survives into the file.
+```
+
+**What this produces:** A stress-tested `dossier/02-project-charter.md` whose load-bearing sentences — the selection, the optimization target, the constraint-test answers — are yours, and whose evidence section is consistent with the brief from Chapter 1.
+
+**How to adapt this prompt:**
+- *For your own project:* the charter structure holds for any domain — a bank's compliance training, a CFA-prep course, an engineering team's tooling tutorial. Only the learner-access question changes shape: colleagues you can ping, students you can survey, or customers you need permission to contact. Name which, honestly, in the profile.
+- *For ChatGPT / Gemini:* there is no project knowledge — paste the full text of `01-evidence-brief.md` at the top of the message, and verify the model actually read it by asking it to quote your signal inventory back before step 1. A ChatGPT custom GPT or Gemini Gem can hold the dossier files, but the read-back check still applies.
+- *For a Claude Project:* move the standing rules — never invent details, verbatim quotes survive untouched, the sources-log discipline from Chapter 1 — into the project's custom instructions; the message then carries only your profile and your statement.
+
+**Connection to previous chapters:** The charter builds directly on `01-evidence-brief.md` — step 2 forces the two files to agree about what each signal measures, so the dossier cannot contradict itself by file two.
+
+**Preview of next chapter:** Chapter 3 puts your chosen experience under the load microscope — `dossier/03-load-audit.md`, a friction ledger that decides which difficulty is waste and which is the curriculum.
+
+---
+### Exercise 4 — CLI Exercise
+
+**What you're building this chapter:** Your project charter, validated against a mechanical checklist that catches optimization-target flattening before it hardens into the dossier.
+
+**Tool:** Claude Code — read-and-annotate validation against explicit rules is a job for an agent that can see both dossier files at once and is forbidden to edit prose.
+
+**Skill level:** Beginner — read, flag, report; no file creation beyond comments.
+
+**Setup:**
+- [ ] `dossier/01-evidence-brief.md` complete (Chapter 1, Exercises 3–5)
+- [ ] A draft of `dossier/02-project-charter.md` saved in the project (copy your Exercise 3 output into it, or write one directly)
+- [ ] Claude Code running in the project root; the Chapter 1 CLAUDE.md line in place
+- [ ] Recommended: put the folder under version control (`git init` and commit) so any unauthorized rewrite is visible as a diff
+
+**The Task:**
+```
+Read dossier/02-project-charter.md and dossier/01-evidence-brief.md. Do not modify
+01-evidence-brief.md or any file other than the charter.
+
+Validate the charter against the checklist below. For each failure, insert an HTML
+comment flag (<!-- CHECK: reason -->) on its own line directly above the failing line
+in 02-project-charter.md. Flags only — do not rewrite, fix, reword, or "improve" any
+of my text, and change no other characters in the file.
+
+1. The Intended Learning Outcome section contains either a verbatim quote in quotation
+   marks with its source named, or the exact sentence "no outcome was specified before
+   design began." A paraphrase fails.
+2. Every metric in Current Evidence of Effectiveness is labeled behavioral, affective,
+   or cognitive, and matches how the same signal is classified in 01-evidence-brief.md.
+   Any cross-file mismatch fails.
+3. The Optimization-Target Statement names at least one concrete thing being traded
+   away — a satisfaction, efficiency, or polish cost accepted for the sake of durable
+   learning. A statement with no named trade fails.
+4. Flag every use of "engaging," "delightful," "learner-centered," "innovative," or
+   "seamless" that is not attached to an operational definition or a measure.
+5. All three constraint-test answers are present: the outcome stated before design
+   began; which decisions are evidence-constrained; what would be measured to know it
+   worked, and whether it was.
+
+When finished: print a summary table (checklist item, pass/fail, count of flags and
+their line numbers), then confirm the only file you modified was
+dossier/02-project-charter.md. If the charter file does not exist, stop and tell me —
+do not create one.
+```
+
+**Expected output:** Your charter annotated with `<!-- CHECK -->` flags at each failure, plus a five-row pass/fail summary table.
+
+**What to inspect in the output:**
+- Checklist item 3 first: does your optimization-target statement actually fail it? Most first drafts do, and that flag is the chapter working — the constraint is the discipline, and a statement with no named trade is vibe design in charter form.
+- Item 2's cross-file check: your first two dossier files should already agree about what each signal measures; a mismatch here means one of them is wrong, and you decide which.
+- The diff: confirm the model added only comment lines. An agent that "fixed" your prose while flagging it has overwritten the judgments the file exists to record.
+
+**If it goes wrong:** The most likely failure is silent rewriting — the model smooths your charter's language while inserting flags, because it cannot resist improving prose. Recovery: run `git diff` (or compare against your saved copy), revert every non-comment change, and re-run with the instruction "flags only, change no other characters" quoted back. The durable fix is the version-control step in Setup — make it a habit before any agent touches dossier files.
+
+**CLAUDE.md / AGENTS.md note:** Add: *"Charter and decision files record the learner's judgments. Claude may flag, question, and report — it may never rewrite a quote, a verdict, or an optimization-target statement."*
+
+---
+### Exercise 5 — AI Validation Exercise
+
+**What you're validating:** Your own `dossier/02-project-charter.md` from Exercise 3 — the file every later decision will cite.
+
+**Validation type:** Reasoning chain (a structured document whose claims must hold together and constrain future work).
+
+**Risk level:** Medium-High — a flattened optimization target doesn't break anything visibly; it quietly de-fangs thirteen chapters of decisions by removing the constraint they were supposed to satisfy.
+
+**Setup:** Option (a) — your own output. Have your raw materials beside it: your notes or recording of how the owners actually stated the outcome, and your `01-evidence-brief.md`.
+
+**The Validation Task:**
+- [ ] **Correctness** — is the quoted learning outcome a true verbatim quote? Compare character by character against your notes; models smooth quotes into better sentences, and a smoothed quote is a fabricated one.
+- [ ] **Completeness** — all seven charter sections present, and every honest "none" and "no outcome was specified" survived formatting without being upgraded to something more presentable.
+- [ ] **Scope** — does the charter describe the experience you can actually reach, or did it inflate ("the day-one-to-day-thirty onboarding" becoming "the company's learning culture")? An unreachable charter fails at Chapter 5.
+- [ ] **The four-signatures test (chapter-specific)** — read the optimization-target statement as the hospital's four designers. Would the instructional designer sign it? The UX designer? The service designer? If all four would, it has been flattened into marketing copy; it must name a trade only the fourth brief would accept.
+- [ ] **Vagueness preserved (chapter-specific)** — where the owners' outcome was vague, is the vagueness still visible and quoted? The chapter says the vagueness is data; check that nobody — model or you — papered over it with a plausible invention.
+- [ ] **Failure mode check** — fluent-but-wrong: a charter that reads beautifully and constrains nothing. Agreeable flattening: distinctions dissolved into language everyone likes (this chapter's signature AI failure). Missing ground truth: claims about learners you have not yet met stated as facts rather than labeled assumptions.
+
+**What to do with your findings:** All checks pass — the charter is the dossier's governing file; commit it. One fail — revise that section yourself, then re-run the Exercise 4 checklist as the mechanical second opinion. Multiple fails, especially the four-signatures test — the selection-and-statement work migrated to the model; this is a "When NOT to Use AI" moment. Rewrite the optimization-target statement by hand, then re-run only step 3 of Exercise 3 against it.
+
+**AI Use Disclosure prompt:** This chapter defined the Evidence Disclosure; your charter closes with its AI counterpart, two sentences. Sentence one: what AI produced and how you used it. Sentence two: one specific thing AI could not determine that required your judgment. For example: *"AI stress-tested my selection, audited my evidence classifications against the brief, and formatted the charter; the experience choice, the optimization-target statement, and all constraint-test answers are mine. AI could not determine whether my learner access will survive contact with reality — that feasibility risk, and the decision to accept it, required knowing these specific people and this specific organization."*
+
+**Series connection:** This exercise trains detection of agreeable flattening — the model optimizing for your satisfaction the way the market optimizes for stars. Tier 4 Metacognitive: the same discipline that asks what a five-star rating measures asks what the model's pleasing paraphrase preserved — and what it traded away without telling you.
 
 ---
 
-I am a graduate student in a learning experience design course. I have selected and profiled the learning experience I will redesign over a 15-week studio sequence. Your job is to stress-test my selection — not to improve my prose and not to write any part of the profile for me.
+## References
 
-MY PROFILE (written before this conversation):
-[paste your complete one-page profile: the experience described as an experience; the intended learning outcome as its owners state it; the current evidence of effectiveness; why it deserves fifteen weeks]
+*Added by fact-check pass (2026-06-07). All entries below were verified against primary or authoritative sources; see `factchecks/02-learning-experience-design-the-discipline-and-its-borders-assertions.md` for findings. The bibliometric-review claim and the "no direct comparative study" claim remain UNVERIFIED and are flagged inline; no reference is added for them.*
 
-MY TRACK AND LEARNER ACCESS: [Track A or B; if B, who your 3–5 real learners are and how you will reach them by Week 5]
-
-YOUR TASK, under these rules:
-- Interrogate feasibility one question at a time, waiting for my answer each time: Will I really reach these learners twice (Week 5 research, Week 7 co-design)? Is one segment prototypable by Week 8? Is the intended outcome specific enough that a delayed measure could exist by Week 13?
-- Challenge my "current evidence of effectiveness" section: have I misclassified any engagement metric as learning evidence? Make me defend each classification rather than reclassifying it yourself.
-- Then argue, concretely, that I have chosen the WRONG experience — the best case for switching projects or tracks. Make me respond.
-- Do not rewrite my profile. Do not invent details. If I haven't given you enough to critique, ask.
-- End by requiring me to state, in my own words: my final selection, the one feasibility risk I am accepting, and what I will do in Week 5 if my learner access falls through.
-
-I will submit my original profile, the transcript, and my final selection statement as the studio gate package.
-
----
-
-*Assessable artifact: the gate package. The transcript is reviewed for one thing only: that the selection reasoning and final statement are yours.*
+1. McDonald, J. K., & Westerberg, T. J. Learning Experience Design as an Orienting Guide for Practice: Insights From Designing for Expertise. Journal of Applied Instructional Design, 2023. https://edtechbooks.org/jaid_12_3/LXD_as_an_orienting_guide
+2. Jahnke, I., Earnshaw, Y., Schmidt, M., & Tawfik, A. Theoretical Considerations of Learning Experience Design. EdTech Books, 2021. https://edtechbooks.org/theory_comp_2021/toward_theory_of_LXD_jahnke_earnshaw_schmidt_tawfik
+3. Floor, N. This is Learning Experience Design: What it is, how it works, and why it matters. New Riders, 2023. https://lxd.org/lxdbook/
+4. Norman, D. Where did the term "User Experience" come from? JND.org. https://jnd.org/where-did-the-term-user-experience-ux-come-from/
+5. Stickdorn, M., Hormess, M., Lawrence, A., & Schneider, J. This Is Service Design Doing. O'Reilly, 2018.
+6. Schmidt, M., Earnshaw, Y., Exter, M., Tawfik, A., & Hokanson, B. (Eds.). Transdisciplinary Learning Experience Design: Futures, Synergies, and Innovation. Springer, 2025. https://link.springer.com/book/10.1007/978-3-031-76293-2

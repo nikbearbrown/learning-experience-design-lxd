@@ -23,7 +23,7 @@ Four properties make research learning-relevant, and they become the organizing 
 
 Before you interview anyone this week, write down your design's current assumptions in these four categories. You almost certainly have them — every design does, usually inherited and unexamined. The week's real deliverable is finding out which ones survive contact with real people.
 
-<!-- → [TABLE: side-by-side of the two Brenda documents — columns: attribute type, marketing persona entry, research persona entry, design prediction it enables; caption: The same learner, two documents. One predicts the week-three failure. One does not. What separates them is not effort or empathy — it is which variables the researcher chose to measure.] -->
+![Figure 5.1 — Two documents, one learner: only the persona built from prior knowledge, misconceptions, motivation type, and task-value/cost variables predicts the week-three failure](../images/05-learner-research-personas-misconceptions-and-task-value-mapping-fig-01.png)
 
 ---
 
@@ -55,7 +55,7 @@ The interview technique that surfaces wrong models is the **predict–explain–
 
 Each documented misconception becomes a design input with a location: the wrong model, the journey moment where it will collide with your content, and the design implication — which is almost never "explain harder" or "add a review module." The conceptual-change evidence favors designs that elicit the wrong prediction *first*, before teaching, and then make the confrontation an experience the learner generates rather than a paragraph the designer wrote. A misconception your research has documented is a designable event. One it hasn't is a week-three assessment disaster.
 
-<!-- → [INFOGRAPHIC: predict-explain-confront structure as a flow — three steps with the branching at step 3: "model is shallow → learner updates" vs. "model is load-bearing → learner explains away"; caption: The confront move reveals not just whether a learner holds a misconception but how structurally embedded it is. Both outcomes are research findings.] -->
+![Figure 5.2 — Predict, explain, confront: the step-three branch reveals whether the wrong model is shallow (updates) or load-bearing (explains the evidence away) — both outcomes are research findings](../images/05-learner-research-personas-misconceptions-and-task-value-mapping-fig-02.png)
 
 ---
 
@@ -65,7 +65,7 @@ The **empathy map** organizes one learner's data into quadrants: *says* (verbati
 
 **Motivation typing** applies Chapter 4's constructs as a coding scheme to the interview data. For each learner: which regulation style dominates their account of why they are here — external ("my manager requires it"), identified ("I need to stop being snowed by the analyst"), intrinsic (rare; treasure it when you find it)? Which SDT needs does their current experience feed or starve, in their own telling? And the task-value map — utility, attainment, interest — each scored *visible to this learner* or *invisible*, with the evidence, plus cost in their actual units: interrupted attention, evening hours, the face-threat of being seen struggling. These are not survey fields. They are codes applied to recorded speech, and the quotes are the evidence.
 
-<!-- → [TABLE: empathy map template with the two added lanes — rows: says / thinks / does / feels / knows-wrongly knows / values-costs; caption: The standard four-quadrant tool, amended for learning research. The knows/wrongly-knows separation is the disciplinary move: it prevents misconceptions from disappearing into "prior knowledge" where they become invisible to design.] -->
+![Figure 5.3 — The amended empathy map: the standard says/thinks/does/feels quadrants plus the knows/wrongly-knows and values/costs lanes that make the tool learning research](../images/05-learner-research-personas-misconceptions-and-task-value-mapping-fig-03.png)
 
 ---
 
@@ -79,7 +79,7 @@ Two or three personas, not six. Each should represent a genuinely different desi
 
 Now the shortcut, because it is 2026 and this book will not pretend the shortcut doesn't exist. You can paste a course description into a language model and receive, in seconds, three articulate personas with names, goals, frustrations, and plausible-sounding misconceptions. The field genuinely uses this for early-cycle drafting. Here is the discipline: **an AI-generated persona is a hypothesis document, never a research artifact.** The model produces the centroid of the literature — the misconceptions common in published accounts of learners in general. What it cannot produce is the situated finding: that *your* learners hold a specific variant for a specific reason, or the verbatim quote that wins the design argument, or the discovery that surprises you. The generated persona is fluent, confident, and sourced to nothing: possibly true, evidentially empty.
 
-Legitimate uses: drafting interview protocols, generating candidate misconceptions to probe for in the interview where they get confirmed or killed, stress-testing your real personas for gaps. The illegitimate use is the obvious one. The Evidence Disclosure on your studio assignment requires you to state your learner-data source — "generated" is an automatic fail of the research-grounded label.
+Legitimate uses: drafting interview protocols, generating candidate misconceptions to probe for in the interview where they get confirmed or killed, stress-testing your real personas for gaps. The illegitimate use is the obvious one. The Evidence Disclosure on your studio assignment requires you to state your learner-data source — "generated" is an automatic fail of the research-grounded label. In the series' taxonomy this boundary is Tier 6 — collective intelligence requires real contact with people who have real stakes — and the phase gate that enforces it is simple: AI drafts the protocol; the human meets the learner (see Appendix: The Fundamental Themes).
 
 ---
 
@@ -93,11 +93,13 @@ A team member prompted an LLM for personas and got "Returning Professional Raj" 
 
 Five interviews, 45 minutes each, built around an episode walk-through and predict–explain tasks from the course's own week-three content. The hospital-births item went to all five. Four answered "same at both hospitals," and their *explanations* shared a structure: averages are stable properties; sample size affects effort, not trustworthiness. One student, confronted with a contradicting simulation, explained it away as "a weird random thing" — the law of small numbers defending itself in real time, in 2026, exactly as Tversky and Kahneman predicted it would in 1971. Three of five could execute a full hypothesis test while describing the p-value as "the chance you're wrong." Two described the entire course as "math for the final," utility value invisible, despite each independently telling a work story — a dashboard, a vendor report, an A/B test — where exactly this content decides something they cared about.
 
-<!-- → [CHART: scatter plot of five participants — x-axis: procedural accuracy on hypothesis test task, y-axis: conceptual accuracy on p-value explanation; show the cluster of high procedure / low concept; caption: The procedural-conceptual gap is real and large. Students who execute correctly are not necessarily students who understand. Assessment design that cannot distinguish these is not measuring what it thinks it is measuring.] -->
+![Figure 5.4 — The procedural–conceptual gap: participants who execute the hypothesis test correctly cluster at high procedural and low conceptual accuracy — different constructs an assessment must separate](../images/05-learner-research-personas-misconceptions-and-task-value-mapping-fig-04.png)
 
 The research compresses into two personas. **"Procedural Priya"**: can compute anything in the course; holds the stable-averages model and the meaning-free p-value; identified regulation; utility value high in life, invisible in course; cost profile — evening study, abandons after unexplained failure. **"Compliance Carlos"**: external regulation, minimal prior knowledge, few active misconceptions; at risk from cost, not confusion. Every attribute footnoted to transcript moments.
 
 The team's original brief is then held against the research. "Underprepared" — *fails* for four of five. They are *mis*-prepared. More review content would feed the wrong model more procedure; it cannot dislodge the wrong model underneath. "Time-poor" — *survives*. One design assumption overruled. One confirmed. The research did not validate the brief; it rewrote it. That is what the method is for.
+
+![Figure 5.5 — The Track A research pipeline: inherited assumptions, a failed survey, machine-generated candidate misconceptions dying on contact with five real learners, two evidence-based personas, and a brief partly overruled, partly confirmed](../images/05-learner-research-personas-misconceptions-and-task-value-mapping-fig-05.png)
 
 The limit is honesty about scope: five interviews establish that the stable-averages model is real, structured, and active in this population. They do not establish whether it afflicts 40% or 90% of the 240 enrolled, which matters for how much redesign budget it deserves. That estimate needs instrumentation — Chapter 13 builds a detector from item-response patterns. And interview research over-samples the articulate and the willing. The students who most need the redesign may be the ones who didn't answer the recruiting email. Both limits belong in the Evidence Disclosure rather than rounded away.
 
@@ -141,22 +143,201 @@ Chapter 6 maps the journey the syllabus cannot see. You now know Priya's wrong m
 
 ---
 
-## LLM Exercise
+## Chapter 5 Exercises: Learner Research
 
-*Productive-struggle guardrail: this prompt requires your drafted interview protocol (Exercise 4) as input. Asking an LLM to write your protocol from nothing would hand you literature-typical questions aimed at literature-typical learners — fluent, generic, aimed at nobody you will actually meet. Draft first; then use the model as the pilot participant you cannot burn.*
+**Project:** The Redesign Dossier
+**This chapter adds:** `dossier/05-learner-research.md` — your interview protocol, empathy maps with the knows/wrongly-knows and values/costs lanes, a misconception finding sheet, two or three evidence-based personas with every load-bearing attribute footnoted, and your assumptions page marked survived / overruled / untested. Built from interviews with real learners. Not one learner attribute in this file comes from a model.
 
-Complete Exercise 4 on your own. Then paste the following, with your draft inserted.
+This is the chapter where the AI + 1 division of labor gets its sharpest test, because the chapter itself documents the trap: an AI-generated persona is a hypothesis document, never a research artifact. The exercises below operationalize that rule — AI on the protocol and the synthesis machinery, you and only you on the contact with humans.
+
+### Exercise 1 — When to Use AI
+
+**Task 1 — Red-team your interview protocol.** Draft your protocol first (Exercise 4 above): episode walk-through anchored to a real artifact, predict–explain tasks built from your actual content, a confront move for your highest-stakes suspected misconception, consent script. Then have the model attack it: every question that elicits opinion or self-assessment where an episode or prediction would carry more evidence; every question a learner could answer correctly while holding a wrong model underneath; every leading question; anything in the confront move that would make a participant feel tested rather than researched. *Why AI works here:* critique against stated criteria. The methods rules are explicit in this chapter; the model applies them at speed, and you can check every flag against the same rules it used.
+
+**Task 2 — Generate candidate misconceptions to probe.** Paste your course or topic description and ask for the eight most likely coherent wrong models in this domain, each with the predict–explain question that would surface it. These go into your protocol as probes, where real learners confirm or kill them — the DataWise team did exactly this, and most of the generated candidates died in the interviews, which was the candidates doing their job. *Why AI works here:* hypothesis generation. The model produces the centroid of the published literature, which is precisely what a probe list should start from — provided every candidate's status is "unconfirmed until a real learner exhibits it."
+
+**Task 3 — Rehearse the confront move on a participant you can afford to burn.** Have the model role-play a member of your learner population holding one hidden, coherent misconception, answering your predict–explain questions with the hedges and confident wrong explanations real learners produce. Practice probing the explanation, presenting the contradicting result, and — hardest — not arguing when the model defends itself. *Why AI works here:* simulation for rehearsal. The role-play is a flight simulator for your interviewing technique, and it costs nothing to crash. The simulated participant counts toward your 3–5 interviews never, under any circumstances.
+
+**The tell:** You know you are using AI appropriately when you can evaluate the output — when you have independent criteria to judge whether it is correct, complete, and fit for purpose.
+
+### Exercise 2 — When NOT to Use AI
+
+This is the book's pivotal When-NOT chapter, so the list gets one extra degree of bluntness.
+
+**Task 1 — Do not generate your personas.** Not as a first draft to "refine with data later," not as a placeholder, not because the deadline is close. *Why AI fails here:* missing ground truth. The model produces fluent, confident personas sourced to nothing — the misconceptions common in published accounts of learners in general. It cannot produce the situated finding that *your* learners hold a specific variant for a specific reason, the verbatim quote that wins the design argument, or the discovery that surprises you. The Evidence Disclosure on Studio Assignment #1 requires you to state your learner-data source, and "generated" is an automatic fail of the research-grounded label.
+
+**Task 2 — Do not substitute simulated interviews for real ones.** Five role-played "interviews" produce literature-typical answers from nobody you will ever design for, and they cost you the thing the method exists to deliver: the surprise that rewrites your brief. *Why AI fails here:* this is the Tier 6 boundary, not an efficiency question. Real learners hand you face-threatening data about their own ignorance — an act of trust the chapter's ethics paragraph exists to honor. There is no one inside the simulation to owe that honor to, and nothing inside it that can surprise you the way participant four explaining away a contradicting simulation in real time can.
+
+**Task 3 — Do not let the model fill the thin spots in your synthesis.** An empty *does* quadrant on an empathy map means you interviewed opinions — the artifact is telling you to go back to the field, not to a text box. *Why AI fails here:* hallucination, in its most damaging form — invented evidence. A model asked to "complete" an empathy map will complete it, fluently, with attributes and quotes nobody said. Once invented data enters this file it propagates through the journey map, the triage table, the measurement plan, the final portfolio — all of it citing research that never happened.
+
+**The tell:** When the task is done, close the chat and explain the conclusion — and the evidence behind it — out loud, to a colleague or to the wall. If the explanation is yours, the AI was an instrument. If you could not explain the conclusion without the AI, the AI did the work that should have been yours.
+
+**Series connection:** Tier 6 Collective — real-human contact is the point, and AI cannot interview your learners. A synthesis built on simulated humans is the marketing persona from this chapter's opening, wearing research formatting. (Plus Tier 4: knowing exactly what each tool's output can and cannot serve as evidence for.)
+
+### Exercise 3 — LLM Exercise: Build dossier/05-learner-research.md
+
+This exercise absorbs the chapter's standalone LLM exercise — its two-role red-team is Phase A here — and adds the synthesis discipline for after your fieldwork.
+
+**Tool:** Claude Project "Redesign Dossier," with `dossier/01`–`04` in Project knowledge. The Project persists between Phase A (before your interviews) and Phase B (after), which is the point: same context, weeks apart, no re-explaining your project.
+
+**Before you start:** draft your interview protocol yourself (Exercise 4 above). Asking the model to write it from nothing hands you literature-typical questions aimed at nobody you will actually meet.
+
+Copy-paste prompt:
+
+```
+You are my research-methods partner for the Redesign Dossier project. We are
+building dossier/05-learner-research.md in two phases separated by real
+fieldwork. Read dossier/02-project-charter.md and dossier/04-motivation-audit.md
+first — the audit's CARRY-FORWARD list of ASSUMED cells is what my interviews
+must settle. If those files are not in this Project, ask me to paste them.
+
+One absolute rule for both phases: you never generate learner data. No
+invented quotes, no invented attributes, no invented participants. Where
+information is missing, your only valid outputs are a question for me or the
+marker RETURN-TO-FIELD.
+
+PHASE A — RED-TEAM MY PROTOCOL (before fieldwork). I will paste my draft
+interview protocol: episode walk-through, predict–explain tasks built from my
+actual content, a confront move for my highest-stakes suspected misconception,
+and a consent script. Play two roles in sequence, and do not write new
+interview questions for me at any point.
+
+ROLE 1 — hostile methods reviewer. Flag: (a) every question eliciting opinion
+or self-assessment where an episode, prediction, or observed task would carry
+more evidence; (b) every question a learner could answer correctly while
+holding a wrong model underneath — no explanation probe; (c) every leading
+question that telegraphs the answer I want; (d) anything in my confront move
+that would make a participant feel tested rather than researched. Cite which
+question you mean each time. State the failure and the principle; I do the
+rewriting.
+
+ROLE 2 — pilot participant. Adopt a plausible member of my learner population
+holding ONE coherent misconception relevant to my content (choose it yourself;
+do not reveal it in advance). Answer my predict–explain questions in character,
+with the evasions, hedges, and confident wrong explanations real learners
+produce. Then break character and tell me: which questions surfaced your hidden
+model, which let it hide, and what the transcript would have looked like one
+probe deeper. Then stop — no summary advice, no model protocol. I go interview
+real people; you do not count toward my 3–5.
+
+PHASE B — SYNTHESIZE MY NOTES (after fieldwork). I will paste my typed,
+anonymized interview notes. Rules: (1) use only what is in the notes — every
+attribute you propose must cite its source moment (e.g., "P2, prediction task
+1"); (2) quotes are verbatim strings from my notes, or they are not quotes;
+(3) where a participant's words and behavior conflict, preserve the
+contradiction visibly — the says/does gap is a finding, not a flaw to smooth;
+(4) where a quadrant or category is thin, write RETURN-TO-FIELD, never a
+plausible filler; (5) label every inference INFERENCE and wait for me to accept
+or reject it before it enters the draft.
+
+From the notes, draft: an empathy map per participant (says / thinks / does /
+feels, plus the knows/wrongly-knows and values/costs lanes); a misconception
+finding sheet — each wrong model, its structure, supporting quotes, and the
+journey moment where I predict it bites; motivation typing per participant
+using Chapter 4's codes (regulation style, needs fed or starved, task-value
+visibility, cost in the participant's own units); and 2–3 candidate personas
+ONLY if each represents a genuinely different design problem — different
+misconception structure, motivation type, or cost profile — not a different
+demographic. Every load-bearing attribute footnoted. Then take my pre-research
+assumptions page and mark each assumption survived / overruled / untested,
+citing the note moments that decide it.
+
+Finally, assemble the complete dossier/05-learner-research.md in markdown,
+ending with a section listing every RETURN-TO-FIELD marker and every inference
+I rejected.
+```
+
+**What this produces:** your fifth dossier file — the research package: protocol (revised under fire), empathy maps, misconception finding sheet, footnoted personas, and the assumptions page with verdicts. Every attribute traceable to a note moment; every gap named instead of filled.
+
+**How to adapt:** *Own project:* if your learners are colleagues, the consent script matters more, not less — face-threat is highest where people know each other; anonymize before anything enters the Project. *ChatGPT/Gemini:* run both phases in a ChatGPT Project or Gemini Gem with the dossier files attached; or run Phase A in any chat and start Phase B fresh, pasting your protocol and notes — the rules travel inside the prompt. *Claude Project split:* add the finished file to Project knowledge; Chapter 6 reads it directly.
+
+**Connection to previous chapters:** `dossier/04-motivation-audit.md`'s ASSUMED carry-forward list is your interview target list, and Chapter 4's constructs are the coding scheme the motivation typing applies. `dossier/02-project-charter.md`'s assumptions get their survived/overruled verdicts here — the research does not validate the brief; it rewrites it.
+
+**Preview of next chapter:** the misconception finding sheet's "journey moment where it bites" column is the seed of Chapter 6. `dossier/06-journey-map.md` places your documented wrong models, cost profiles, and motivation types on the learner's actual calendar — and finds where they stack.
+
+### Exercise 4 — CLI Exercise: The Traceability Check
+
+**Tool:** Cowork or Claude Code. Justification: this is a two-file cross-referencing job — every attribute in the synthesis traced against the raw notes — which is exactly what an agent with folder access does precisely and a chat window does sloppily.
+
+**Skill level:** Beginner-plus. Read-only on sources, one report file — but you must prepare the notes file first.
+
+**Setup checklist:**
+- `dossier/05-learner-research.md` (Exercise 3, Phase B output)
+- `dossier/notes/interview-notes.md` — your typed, anonymized notes, the same text you pasted in Phase B
+- Backup or git commit of the dossier folder
+- The `CLAUDE.md` evidence-documents line from Chapter 4's exercise still in place, plus this addition: *"dossier/notes/ contains primary research data. Never summarize, paraphrase, or 'clean' it in place."*
+
+Paste-ready Task block:
+
+```
+Read dossier/05-learner-research.md and dossier/notes/interview-notes.md. Both
+are read-only evidence documents: do not modify them or any other existing
+file.
+
+Create dossier/_checks/05-traceability.md with exactly four sections:
+
+1. ATTRIBUTE TRACE. One row per load-bearing attribute in the personas and
+   empathy maps of 05: the attribute, its cited source (e.g., "P2, prediction
+   task 1"), and the exact passage in interview-notes.md that supports it —
+   quoted, with the line number. Where no supporting passage exists, write
+   NOT FOUND.
+
+2. QUOTE VERIFICATION. Every string presented as a learner quote in 05,
+   checked verbatim against interview-notes.md. Mark each VERBATIM,
+   NEAR-MATCH (show both versions side by side), or NOT FOUND.
+
+3. CONTRADICTION PRESERVATION. List every place in interview-notes.md where a
+   participant's reported words and observed behavior conflict, and state
+   whether that contradiction is visible in 05 or was smoothed away in
+   synthesis.
+
+4. PREVALENCE LANGUAGE. Flag every sentence in 05 that states or implies
+   prevalence — percentages, "most learners," "typically" — since interviews
+   at n = 3–5 establish existence, not prevalence.
+
+Stop after writing this one file. Do not fix anything you find, do not edit
+the sources, do not create any other file.
+```
+
+**Expected output:** one new file, `dossier/_checks/05-traceability.md`, four sections.
+
+**What to inspect:** the NOT FOUND and NEAR-MATCH lists first — every entry is either your sloppy citation or the model's invention, and you need to know which before Chapter 6 builds on this file. Then CONTRADICTION PRESERVATION: if your messiest interview moment is missing from 05, the synthesis smoothed your best finding. Then PREVALENCE LANGUAGE — rewrite any flagged sentence as an existence claim.
+
+**If it goes wrong:** if the check file quotes passages that are not in your notes, the checker itself hallucinated — which is the chapter's lesson arriving uninvited; delete the check file and re-run with *"cite the line number in interview-notes.md for every quoted passage"* made explicit. If the agent edited a source file, restore from backup and confirm both CLAUDE.md lines. If section 1 comes back empty because your personas carry no citations, that is not a tool failure — return to Exercise 3 Phase B and demand the footnotes.
+
+**CLAUDE.md/AGENTS.md note:** the `dossier/notes/` line above is permanent; mirror it in `AGENTS.md` if your agent reads that file instead. Primary data is the one thing in this project no agent may ever touch.
+
+### Exercise 5 — AI Validation Exercise: The Invented-Attribute Hunt
+
+**Validates:** Exercise 3 Phase B output — the model's synthesis of your real notes — against the ground truth only you hold: the notes themselves and your memory of being in the room. Use your own output; this is the one chapter where you personally possess ground truth nobody else has.
+
+**Validation type:** source-tracing validation against primary data you collected.
+
+**Risk level:** **High.** A hallucinated quote in a persona is fabricated research data. Everything downstream — journey map, triage table, measurement plan, final portfolio — inherits whatever enters this file, and the portfolio's Evidence Disclosure stakes your name on its source.
+
+**Setup:** side by side: `dossier/05-learner-research.md`, your raw notes, and the Exercise 4 traceability report if you ran it. One hour. The model was never in the room; you were. That asymmetry is the entire instrument.
+
+**The checklist:**
+- **Correctness.** Does each attribute mean what the notes say? Watch the gap/misconception distinction: "P3 doesn't know X" and "P3 wrongly knows Y" are different findings with different design consequences, and synthesis loves to flatten them into "struggles with X."
+- **Completeness.** Every persona carries all four mandatory categories — prior knowledge, misconceptions with their structure, motivation type, task-value perception including cost — and RETURN-TO-FIELD markers stand wherever your data was thin.
+- **Scope.** Nothing beyond your participants and notes; demographics only where they carry design weight; no prevalence claims from n = 5.
+- **Verbatim quotes (chapter-specific).** Read every quoted string in the file against your notes, out loud. Verbatim, or it loses the quotation marks.
+- **Contradictions preserved (chapter-specific).** Find your single messiest interview moment — the participant who explained the contradicting evidence away, the confident wrong answer delivered fluently — and confirm it survived into the synthesis. The model's drive toward coherent characters is exactly what destroys the says/does gap your method exists to capture.
+- **Failure mode check.** (1) *Fluent-but-wrong:* does a persona read suspiciously like "Returning Professional Raj" — articulate, typical, literature-shaped? Typicality is the signature of the centroid, not of your population. (2) *Invented attributes (chapter-relevant):* any quote, motivation, or biographical detail you cannot find in your notes is fabrication, however plausible — this is the documented AI-persona trap. (3) *Missing ground truth:* any candidate misconception from Exercise 1 Task 2, or any trait of the Phase A role-play participant, appearing in the file without a real participant exhibiting it — the hypothesis list leaking into the findings.
+
+**What to do with findings:** All checks pass — file it and write the disclosure. One fail — cut the attribute or relabel it ASSUMED yourself, and note the fix in the disclosure. Multiple fails — the When-NOT moment, and in this chapter it has a specific shape: re-synthesize by hand from the notes. Empathy mapping at n = 5 is a few hours of human work, and the chapter's quiet point stands — the transcripts, not the personas, are the evidence. When persona and transcript disagree, the transcript wins.
+
+**AI Use Disclosure prompt:** Add exactly two sentences at the top of `dossier/05-learner-research.md`. Sentence one states what the AI produced and what you produced (e.g., *"Claude red-teamed my protocol and formatted the synthesis under source-tracing rules; all learner data comes from [N] interviews I conducted on [dates]."*). Sentence two states what you verified and what remains open (e.g., *"Every quote verified verbatim against my notes; thin spots are marked RETURN-TO-FIELD, not filled."*).
+
+**Series connection:** this exercise trains detection of hallucinated evidence — invented attributes, fabricated quotes, smoothed-over contradictions — the failure mode this chapter documents as the AI-persona trap. The tier is Tier 6 Collective: the validation works only because you did the irreducibly human part, sitting with real learners, and therefore hold ground truth the model cannot have.
 
 ---
 
-You are playing two roles in sequence for a graduate LXD course. I am pasting MY OWN draft learner-interview protocol for [one sentence: your project and learner population]. Do not write new interview questions for me at any point.
+## References
 
-ROLE 1 — Hostile methods reviewer. Flag in my protocol: (a) every question eliciting opinion or self-assessment where an episode, prediction, or observed task would carry more evidence; (b) every question a learner could answer correctly while holding a wrong model underneath (no explanation probe); (c) every leading question that telegraphs the answer I want; (d) anything in my confront move that would make a participant feel tested rather than researched. Cite which question you mean each time. Do not rewrite them — state the failure and the principle, and let me do the rewriting.
+All named studies and instruments in this chapter were fact-checked on 2026-06-07 and confirmed against primary sources. No OUTDATED or CONTRADICTED claims found. See factchecks/05-learner-research-personas-misconceptions-and-task-value-mapping-assertions.md.
 
-ROLE 2 — Pilot participant. Adopt a plausible member of my learner population who holds ONE coherent misconception relevant to my content (choose it yourself; do not reveal it in advance). Answer my predict–explain questions in character, with the evasions, hedges, and confident wrong explanations real learners produce. Then break character and tell me: which of my questions surfaced your hidden misconception, which let you hide it, and what the transcript would have looked like if I had probed one level deeper.
-
-End with nothing else. No summary advice, no model protocol.
-
----
-
-*Assessable artifact: submit (1) your original protocol, (2) the LLM's two-role output, and (3) your revised protocol with margin annotations — for each change, the critique or role-play moment that motivated it; for each rejected critique, why. Graded on the annotations, not the polish: the skill assessed is telling a methods improvement from a fluent suggestion. Then go interview real people; the role-play participant does not count toward your 3–5.*
+1. Tversky, A., & Kahneman, D. Belief in the law of small numbers. *Psychological Bulletin*, 76(2), 105–110, 1971. https://www.semanticscholar.org/paper/894fc603f9b16e775f95045fb805b5d7e6935944 — *The hospital-births vignette used in the chapter is most often cited to Tversky & Kahneman (1974, Science 185:1124–1131); both attributions are sound.*
+2. delMas, R., Garfield, J., Ooms, A., & Chance, B. Assessing students' conceptual understanding after a first course in statistics. *Statistics Education Research Journal*, 6(2), 28–58, 2007.
+3. Spiegelhalter, D. *The Art of Statistics: How to Learn from Data.* Pelican/Basic Books, 2019.
+4. Hubbard, D. W. *How to Measure Anything: Finding the Value of Intangibles in Business* (3rd ed.). Wiley, 2014.

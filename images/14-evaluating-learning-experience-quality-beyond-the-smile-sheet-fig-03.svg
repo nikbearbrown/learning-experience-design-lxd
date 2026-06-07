@@ -1,0 +1,55 @@
+<!--
+  Experience Design for EdTech — Chapter 14, Figure 03
+  The ROI measurement gap: rated important vs. actually measured
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-14-03">
+  <title id="fig-title-14-03">The ROI measurement gap: rated important vs. actually measured — 14-evaluating-learning-experience-quality-beyond-the-smile-sheet</title>
+  <desc>Zero-anchored bar chart: 71 percent of higher-education technology leaders rate measuring ROI on academic technology as important, while 46 percent actually measure it — a 25-point gap. Source: EDUCAUSE ROI QuickPoll 2025.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="14-evaluating-learning-experience-quality-beyond-the-smile-sheet" figure-number="03" figure-title="The ROI measurement gap: rated important vs. actually measured" figure-slug="roi-measurement-gap" figure-type="statistical-quantitative" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/14-evaluating-learning-experience-quality-beyond-the-smile-sheet-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The ROI measurement gap: rated important vs. actually measured</text>
+
+  <!-- plot region -->
+  <rect x="64" y="48" width="596" height="336" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- y axis ticks (0–100, zero shown) -->
+  <g stroke="#787878" stroke-width="0.75">
+    <line x1="58" y1="384" x2="64" y2="384"/>
+    <line x1="58" y1="300" x2="64" y2="300"/>
+    <line x1="58" y1="216" x2="64" y2="216"/>
+    <line x1="58" y1="132" x2="64" y2="132"/>
+    <line x1="58" y1="48" x2="64" y2="48"/>
+  </g>
+  <text x="54" y="388" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="54" y="304" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">25</text>
+  <text x="54" y="220" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">50</text>
+  <text x="54" y="136" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">75</text>
+  <text x="54" y="52" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">100</text>
+  <text x="24" y="216" transform="rotate(-90 24 216)" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">% of leaders</text>
+
+  <!-- bars rise from zero -->
+  <rect x="160" y="145.4" width="120" height="238.6" fill="#C8102E"/>
+  <rect x="380" y="229.4" width="120" height="154.6" fill="#787878"/>
+  <text x="220" y="137" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">71%</text>
+  <text x="440" y="221" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">46%</text>
+
+  <!-- gap bracket -->
+  <line x1="280" y1="145.4" x2="530" y2="145.4" stroke="#787878" stroke-width="0.75" stroke-dasharray="5 4"/>
+  <line x1="500" y1="229.4" x2="530" y2="229.4" stroke="#787878" stroke-width="0.75" stroke-dasharray="5 4"/>
+  <line x1="530" y1="145.4" x2="530" y2="229.4" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="524" y1="145.4" x2="536" y2="145.4" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="524" y1="229.4" x2="536" y2="229.4" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="544" y="183" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">25-pt</text>
+  <text x="544" y="197" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">gap</text>
+
+  <!-- category labels -->
+  <text x="220" y="404" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Rate ROI measurement</text>
+  <text x="220" y="420" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">as important</text>
+  <text x="440" y="404" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Actually measure</text>
+  <text x="440" y="420" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">ROI</text>
+
+  <text x="32" y="444" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Professed value outruns practice by 25 points: most leaders call ROI measurement important; fewer than half do it.</text>
+  <text x="32" y="464" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" letter-spacing="0.08em" fill="#545454">SOURCE: EDUCAUSE ROI QUICKPOLL 2025</text>
+</svg>

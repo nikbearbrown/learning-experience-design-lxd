@@ -1,0 +1,72 @@
+<!--
+  Figure: LXD's Intellectual Genealogy: Borrowed Roots, Young Synthesis
+  Book: Experience Design for EdTech
+  Chapter: 02-learning-experience-design-the-discipline-and-its-borders
+  Figure number: 02 | Type: timeline (convergence diagram) | Priority: Important
+  Date generated: 2026-06-07
+  Source: pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md
+-->
+<svg viewBox="0 0 700 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch02-02">
+  <title id="fig-title-ch02-02">LXD's Intellectual Genealogy: Borrowed Roots, Young Synthesis — 02-learning-experience-design-the-discipline-and-its-borders</title>
+  <desc>LXD's theoretical pillars — constructivism, experiential learning, situated learning, cognitive load theory, self-determination theory — plus the UX lineage are all imported, converging on a synthesis younger than any of its parents (~2010s).</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="02-learning-experience-design-the-discipline-and-its-borders" figure-number="02" figure-title="LXD's Intellectual Genealogy: Borrowed Roots, Young Synthesis" figure-slug="lxd-intellectual-genealogy" figure-type="timeline-convergence" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrow-gray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#ADADAD"/></marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">LXD&#8217;s Intellectual Genealogy: Borrowed Roots, Young Synthesis</text>
+
+  <!-- Theory origin nodes (staggered by date) -->
+  <rect x="40" y="76" width="168" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="124" y="94" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">constructivism</text>
+  <text x="124" y="110" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">early 1900s&#8211;1930s</text>
+
+  <rect x="72" y="136" width="168" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="156" y="154" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">experiential learning</text>
+  <text x="156" y="170" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">Kolb 1984</text>
+
+  <rect x="96" y="196" width="168" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="180" y="214" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">cognitive load theory</text>
+  <text x="180" y="230" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">Sweller 1988</text>
+
+  <rect x="120" y="256" width="168" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="204" y="274" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">situated learning</text>
+  <text x="204" y="290" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">Lave &amp; Wenger 1991</text>
+
+  <rect x="152" y="316" width="168" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="236" y="334" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">self-determination theory</text>
+  <text x="236" y="350" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">Deci &amp; Ryan 2000</text>
+
+  <!-- Design-practice lineage (a different kind: set apart below) -->
+  <rect x="104" y="396" width="168" height="44" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <text x="188" y="414" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">UX / human-centered design</text>
+  <text x="188" y="430" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">1990s</text>
+  <text x="188" y="456" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">(practice, not theory)</text>
+
+  <!-- Convergence paths (distinct all the way in; they never merge) -->
+  <path d="M208,98 C340,98 420,180 504,212" fill="none" stroke="#ADADAD" stroke-width="1.25" marker-end="url(#arrow-gray)"/>
+  <path d="M240,158 C360,158 430,200 504,226" fill="none" stroke="#ADADAD" stroke-width="1.25" marker-end="url(#arrow-gray)"/>
+  <path d="M264,218 C370,218 440,232 504,240" fill="none" stroke="#ADADAD" stroke-width="1.25" marker-end="url(#arrow-gray)"/>
+  <path d="M288,278 C380,278 440,262 504,254" fill="none" stroke="#ADADAD" stroke-width="1.25" marker-end="url(#arrow-gray)"/>
+  <path d="M320,338 C400,338 450,295 504,268" fill="none" stroke="#ADADAD" stroke-width="1.25" marker-end="url(#arrow-gray)"/>
+  <path d="M272,418 C390,418 450,330 504,288" fill="none" stroke="#787878" stroke-width="1.25" marker-end="url(#arrow-gray)"/>
+
+  <!-- LXD synthesis node: dashed outline = borrowing without consolidation -->
+  <rect x="512" y="196" width="156" height="104" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="590" y="228" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">learning experience</text>
+  <text x="590" y="244" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">design</text>
+  <text x="590" y="264" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">~2010s</text>
+  <text x="590" y="284" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">younger than every parent</text>
+
+  <!-- Time axis -->
+  <line x1="40" y1="470" x2="656" y2="470" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="40" y="488" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">earlier</text>
+  <text x="348" y="488" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">(ordered by date; spacing not to scale)</text>
+  <text x="652" y="488" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="end">later</text>
+
+  <!-- Caption -->
+  <text x="32" y="512" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Six imported lineages converge on a synthesis younger than any of its parents. The dashed outline is</text>
+  <text x="32" y="528" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the verdict: borrowing without consolidation &#8212; an emerging discipline, not yet a settled theory.</text>
+</svg>

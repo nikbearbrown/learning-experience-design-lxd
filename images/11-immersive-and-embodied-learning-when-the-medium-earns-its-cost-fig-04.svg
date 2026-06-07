@@ -1,0 +1,60 @@
+<!-- Figure 04 — Five gates, stop at the first failure · Chapter 11: Immersive and Embodied Learning · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-11-04">
+  <title id="fig-title-11-04">Five gates, stop at the first failure — 11-immersive-and-embodied-learning-when-the-medium-earns-its-cost</title>
+  <desc>Five diamond decision gates in fixed order; dashed exits drop from each gate to a shared decline-or-cheaper-embodiment bar, while the pass-through spine reaches the adopt-with-pre-training terminal only after all five gates.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="11-immersive-and-embodied-learning-when-the-medium-earns-its-cost" figure-number="04" figure-title="Five gates, stop at the first failure" figure-slug="five-gates-stop-at-first-failure" figure-type="flowchart" priority="important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/11-immersive-and-embodied-learning-when-the-medium-earns-its-cost-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrowGray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#787878"/></marker>
+  </defs>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Five gates, stop at the first failure</text>
+
+  <!-- gate numbers and question labels -->
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="9" fill="#545454" text-anchor="middle">
+    <text x="100" y="98">1</text><text x="205" y="98">2</text><text x="310" y="98">3</text><text x="415" y="98">4</text><text x="520" y="98">5</text>
+  </g>
+  <g font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e" text-anchor="middle">
+    <text x="100" y="114">spatial / procedural</text><text x="100" y="127">necessity?</text>
+    <text x="205" y="114">act,</text><text x="205" y="127">not just look?</text>
+    <text x="310" y="114">prior experience +</text><text x="310" y="127">pre-training budget?</text>
+    <text x="415" y="114">opportunity</text><text x="415" y="127">cost survivable?</text>
+    <text x="520" y="114">adaptive or</text><text x="520" y="127">instructor layer?</text>
+  </g>
+
+  <!-- entry stub -->
+  <text x="36" y="168" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">XR proposal</text>
+  <line x1="36" y1="180" x2="64" y2="180" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- five diamonds + spine -->
+  <polygon points="100,146 130,180 100,214 70,180" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="130" y1="180" x2="169" y2="180" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <polygon points="205,146 235,180 205,214 175,180" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="235" y1="180" x2="274" y2="180" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <polygon points="310,146 340,180 310,214 280,180" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="340" y1="180" x2="379" y2="180" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <polygon points="415,146 445,180 415,214 385,180" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="445" y1="180" x2="484" y2="180" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <polygon points="520,146 550,180 520,214 490,180" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="550" y1="180" x2="580" y2="180" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- adopt terminal (the narrow path's reward) -->
+  <rect x="584" y="150" width="88" height="60" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="628" y="176" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#C8102E" text-anchor="middle">adopt XR</text>
+  <text x="628" y="192" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454" text-anchor="middle">with pre-training</text>
+
+  <!-- fail exits: dashed, structural -->
+  <line x1="100" y1="214" x2="100" y2="262" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+  <line x1="205" y1="214" x2="205" y2="262" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+  <line x1="310" y1="214" x2="310" y2="262" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+  <line x1="415" y1="214" x2="415" y2="262" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+  <line x1="520" y1="214" x2="520" y2="262" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+
+  <!-- shared exit bar -->
+  <rect x="70" y="268" width="480" height="52" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <text x="310" y="289" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">decline XR — or substitute cheaper embodiment (gesture, manipulatives, desktop sim)</text>
+  <text x="310" y="306" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454" text-anchor="middle">any failed gate exits here, immediately</text>
+
+  <text x="64" y="378" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The five questions run in fixed order and the framework stops at the first failed gate;</text>
+  <text x="64" y="393" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">adoption — always with pre-training — is reachable only through all five.</text>
+</svg>

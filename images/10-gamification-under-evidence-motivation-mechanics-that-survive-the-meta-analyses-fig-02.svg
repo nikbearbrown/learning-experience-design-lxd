@@ -1,0 +1,46 @@
+<!-- Figure 02 — Motivational crowding: three engagement trajectories after launch · Chapter 10: Gamification Under Evidence · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-10-02">
+  <title id="fig-title-10-02">Motivational crowding: three engagement trajectories after launch — 10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses</title>
+  <desc>Line chart with a zero-anchored y-axis: a reward-only curve spikes after launch, plateaus, then falls below the gray pre-launch baseline into a shaded crowding zone; a need-supportive curve (red) rises moderately and sustains; the no-game control stays flat.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses" figure-number="02" figure-title="Motivational crowding: three engagement trajectories after launch" figure-slug="motivational-crowding-trajectories" figure-type="statistical" priority="critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses-cajal.md"/></metadata>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Motivational crowding: three engagement trajectories after launch</text>
+
+  <!-- plot region -->
+  <rect x="64" y="64" width="596" height="248" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- crowding zone: area between baseline and the below-baseline tail (structural negative; gray) -->
+  <path d="M520 230 C 545 258, 590 280, 650 286 L650 230 Z" fill="#ADADAD" opacity="0.4"/>
+
+  <!-- launch marker -->
+  <line x1="120" y1="64" x2="120" y2="312" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="4 3"/>
+  <text x="125" y="78" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">launch</text>
+
+  <!-- no-game control baseline -->
+  <line x1="64" y1="230" x2="660" y2="230" stroke="#787878" stroke-width="1"/>
+  <text x="655" y="222" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="end">no-game control (pre-launch baseline)</text>
+
+  <!-- reward-only trajectory: spike, plateau, fall below baseline (ink) -->
+  <path d="M120 230 C 132 160, 142 110, 175 106 C 240 100, 320 106, 380 118 C 440 130, 480 180, 520 230 C 545 258, 590 280, 650 286" fill="none" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="250" y="92" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">reward-only</text>
+
+  <!-- divergence marker: novelty decay begins -->
+  <circle cx="380" cy="118" r="4.5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="392" y="112" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">novelty decay begins</text>
+
+  <!-- need-supportive trajectory (highlighted series, red) -->
+  <path d="M120 230 C 160 215, 200 185, 260 172 C 340 158, 480 152, 650 150" fill="none" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="540" y="140" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#C8102E">need-supportive</text>
+
+  <!-- crowding zone label -->
+  <text x="648" y="304" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="end">crowding zone: below pre-launch baseline</text>
+
+  <!-- zero floor (axis anchored at zero) -->
+  <line x1="64" y1="312" x2="660" y2="312" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="56" y="316" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+  <text x="46" y="190" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle" transform="rotate(-90 46 190)">voluntary engagement</text>
+  <text x="362" y="334" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">time since launch</text>
+
+  <text x="64" y="378" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Mechanism sketch, not plotted data: reward-only spikes, plateaus, then falls below the pre-launch baseline —</text>
+  <text x="64" y="393" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the crowding signature that distinguishes crowding from boredom; need-supportive design sustains.</text>
+</svg>

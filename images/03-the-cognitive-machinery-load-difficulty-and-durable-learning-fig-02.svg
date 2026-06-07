@@ -1,0 +1,57 @@
+<!--
+  Figure: The Desirable-Difficulty Signature: Worse During Practice, Better When It Counts
+  Book: Experience Design for EdTech
+  Chapter: 03-the-cognitive-machinery-load-difficulty-and-durable-learning
+  Figure number: 02 | Type: statistical-quantitative (grouped bars, schematic) | Priority: Critical
+  Date generated: 2026-06-07
+  Source: pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch03-02">
+  <title id="fig-title-ch03-02">The Desirable-Difficulty Signature: Worse During Practice, Better When It Counts — 03-the-cognitive-machinery-load-difficulty-and-durable-learning</title>
+  <desc>Retrieval practice scores slightly below restudy on an immediate test but substantially above it on a delayed test — the crossover pattern documented by Roediger and Karpicke (2006), whose delayed gap is where the learning lives.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="03-the-cognitive-machinery-load-difficulty-and-durable-learning" figure-number="02" figure-title="The Desirable-Difficulty Signature: Worse During Practice, Better When It Counts" figure-slug="desirable-difficulty-signature" figure-type="statistical-quantitative" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md"/></metadata>
+
+  <!-- Title -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Desirable-Difficulty Signature: Worse in Practice, Better When It Counts</text>
+
+  <!-- Plot region -->
+  <rect x="64" y="72" width="420" height="268" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <line x1="64" y1="145" x2="484" y2="145" stroke="#D4D4D4" stroke-width="0.75"/>
+  <line x1="64" y1="210" x2="484" y2="210" stroke="#D4D4D4" stroke-width="0.75"/>
+  <line x1="64" y1="275" x2="484" y2="275" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- Axes -->
+  <text x="46" y="206" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle" transform="rotate(-90 46 206)">recall accuracy &#8594;</text>
+  <text x="56" y="344" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+
+  <!-- Immediate group: restudy wins, modestly -->
+  <rect x="104" y="126.8" width="56" height="213.2" fill="#ADADAD" stroke="#2a1a0e" stroke-width="0.75"/>
+  <rect x="176" y="147.6" width="56" height="192.4" fill="#C8102E" stroke="#2a1a0e" stroke-width="0.75"/>
+  <!-- Delayed group: retrieval wins, substantially; restudy's fluency decays -->
+  <rect x="312" y="236" width="56" height="104" fill="#ADADAD" stroke="#2a1a0e" stroke-width="0.75"/>
+  <rect x="384" y="178.8" width="56" height="161.2" fill="#C8102E" stroke="#2a1a0e" stroke-width="0.75"/>
+
+  <!-- Baseline -->
+  <line x1="64" y1="340" x2="484" y2="340" stroke="#2a1a0e" stroke-width="1"/>
+
+  <!-- Group labels -->
+  <text x="168" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">immediate test</text>
+  <text x="376" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">delayed test (one week)</text>
+
+  <!-- The delayed gap: where the learning lives -->
+  <line x1="452" y1="179" x2="452" y2="236" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="446" y1="179" x2="458" y2="179" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="446" y1="236" x2="458" y2="236" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="462" y="202" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the gap where</text>
+  <text x="462" y="216" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">learning lives</text>
+
+  <!-- Legend -->
+  <rect x="500" y="76" width="12" height="12" fill="#ADADAD" stroke="#2a1a0e" stroke-width="0.75"/>
+  <text x="518" y="86" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">restudy</text>
+  <rect x="500" y="98" width="12" height="12" fill="#C8102E" stroke="#2a1a0e" stroke-width="0.75"/>
+  <text x="518" y="108" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">retrieval practice</text>
+
+  <!-- Caption + source -->
+  <text x="32" y="382" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Bar heights are schematic of the published direction and relative magnitude, not plotted data.</text>
+  <text x="32" y="402" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">PATTERN: ROEDIGER &amp; KARPICKE 2006</text>
+</svg>

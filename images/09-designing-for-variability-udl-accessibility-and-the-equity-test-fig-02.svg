@@ -1,0 +1,79 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 09-designing-for-variability-udl-accessibility-and-the-equity-test - Figure 02
+  Same Premise, Opposite Architectures: Variability-First vs Adaptive Tracking - two-path branching diagram - priority: Important
+  Generated 2026-06-07 - source: pantry/09-designing-for-variability-udl-accessibility-and-the-equity-test-cajal.md
+-->
+<svg viewBox="0 0 700 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">Same Premise, Opposite Architectures: Variability-First vs Adaptive Tracking — 09-designing-for-variability-udl-accessibility-and-the-equity-test</title>
+  <desc>From the shared premise that learners differ, variability-first design widens one path — four learner-chosen lanes reach the full objective — while adaptive tracking forks the path silently: the remedial route ends short of the full-objective level and its exit is barred (dashed, flat-bar terminator).</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="09-designing-for-variability-udl-accessibility-and-the-equity-test" figure-number="02" figure-title="Same Premise, Opposite Architectures: Variability-First vs Adaptive Tracking" figure-slug="variability-first-vs-adaptive-tracking" figure-type="two-path-branching-diagram" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/09-designing-for-variability-udl-accessibility-and-the-equity-test-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrow-red" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#C8102E"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 9.2 · Same Premise, Opposite Architectures</text>
+
+  <!-- shared premise -->
+  <circle cx="350" cy="84" r="9" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="366" y="80" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#2a1a0e">learners differ</text>
+  <text x="366" y="94" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the shared premise</text>
+  <path d="M341,90 L196,122" fill="none" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <path d="M359,90 L504,122" fill="none" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- divider -->
+  <line x1="350" y1="130" x2="350" y2="455" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="5 4"/>
+
+  <!-- left half: variability-first -->
+  <text x="180" y="140" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">VARIABILITY-FIRST DESIGN</text>
+  <text x="100" y="160" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">text</text>
+  <text x="152" y="160" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">video</text>
+  <text x="208" y="160" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">example</text>
+  <text x="264" y="160" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">practice</text>
+  <path d="M100,168 C100,300 150,350 173,394" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M152,168 C152,290 168,340 178,392" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M208,168 C208,290 196,340 186,392" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M264,168 C264,300 214,350 191,394" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <circle cx="182" cy="416" r="14" fill="#2a1a0e"/>
+  <text x="182" y="452" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">full learning objective — reached by every route</text>
+
+  <!-- right half: adaptive tracking -->
+  <text x="520" y="140" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">ADAPTIVE TRACKING</text>
+  <line x1="520" y1="150" x2="520" y2="207" stroke="#2a1a0e" stroke-width="1.5"/>
+  <circle cx="520" cy="212" r="5" fill="#787878"/>
+  <text x="532" y="172" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">placement decided by</text>
+  <text x="532" y="186" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the system, silently</text>
+  <path d="M524,216 L608,396" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M516,216 L455,328" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="486" y="258" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">remedial route</text>
+  <text x="556" y="258" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">extension route</text>
+
+  <!-- blocked exit (structural: dashed shaft, flat-bar terminator) -->
+  <text x="514" y="288" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">blocked exit</text>
+  <line x1="478" y1="300" x2="548" y2="300" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="551" y1="291" x2="551" y2="309" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="517" y="318" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">requires skills the</text>
+  <text x="517" y="332" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">route never teaches</text>
+
+  <!-- remedial terminal: smaller, hollow, falls short of the level -->
+  <circle cx="450" cy="344" r="9" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="436" y="348" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">lower ceiling</text>
+  <line x1="450" y1="356" x2="450" y2="428" stroke="#ADADAD" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="462" y="390" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">shortfall vs the</text>
+  <text x="462" y="404" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">full objective</text>
+
+  <!-- extension terminal on the level -->
+  <circle cx="612" cy="416" r="14" fill="#2a1a0e"/>
+  <text x="612" y="452" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">full objective</text>
+
+  <!-- full-objective level -->
+  <line x1="80" y1="430" x2="650" y2="430" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="580" y="424" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">full-objective level</text>
+
+  <text x="180" y="482" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">one widened path — choice stays with the learner</text>
+  <text x="520" y="482" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">a forked path — different ceilings, a gated exit</text>
+
+  <text x="32" y="510" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Both architectures begin from the same fact of learner variability; only one holds the destination constant.</text>
+  <text x="32" y="524" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Four lanes are illustrative, not prescriptive; the dashed bar (⊣) marks a blocked path, not a hazard.</text>
+</svg>

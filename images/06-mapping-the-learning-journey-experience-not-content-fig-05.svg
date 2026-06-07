@@ -1,0 +1,71 @@
+<!-- Experience Design for EdTech · Chapter 06: Mapping the Learning Journey — Figure 05: Friction Triage: Remove, Scaffold, Unstack, Keep · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-05">
+  <title id="fig-title-05">Friction Triage: Remove, Scaffold, Unstack, Keep — 06-mapping-the-learning-journey-experience-not-content</title>
+  <desc>Decision tree: an identified friction runs a vertical gauntlet of three ordered tests — packaging or learning, within reach with feedback, stacked with other frictions — exiting left to remove, scaffold, or unstack terminals, with keep as the earned outcome at the foot of the spine.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="06-mapping-the-learning-journey-experience-not-content" figure-number="05" figure-title="Friction Triage: Remove, Scaffold, Unstack, Keep" figure-slug="friction-triage-remove-scaffold-unstack-keep" figure-type="process-flowchart-decision-tree" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/06-mapping-the-learning-journey-experience-not-content-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Friction Triage: Remove, Scaffold, Unstack, Keep</text>
+
+  <!-- entry -->
+  <circle cx="430" cy="70" r="14" fill="#F5F5F5" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="452" y="74" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">friction identified</text>
+  <line x1="430" y1="84" x2="430" y2="106" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- test 1 -->
+  <polygon points="430,110 525,152 430,194 335,152" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="430" y="148" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">effort spent on learning</text>
+  <text x="430" y="162" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">or on packaging?</text>
+  <line x1="335" y1="152" x2="214" y2="152" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="274" y="146" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">packaging</text>
+  <line x1="430" y1="194" x2="430" y2="216" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="438" y="210" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">learning</text>
+
+  <!-- REMOVE terminal (dashed = deletion, structural) -->
+  <rect x="80" y="124" width="130" height="56" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="145" y="148" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">REMOVE</text>
+  <text x="145" y="166" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">expert cost, no learning</text>
+
+  <!-- test 2 -->
+  <polygon points="430,220 525,262 430,304 335,262" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="430" y="258" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">within reach, with</text>
+  <text x="430" y="272" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">feedback close behind?</text>
+  <line x1="335" y1="262" x2="214" y2="262" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="274" y="256" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">out of reach</text>
+  <line x1="430" y1="304" x2="430" y2="326" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="438" y="320" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">within reach</text>
+
+  <!-- SCAFFOLD terminal -->
+  <rect x="80" y="234" width="130" height="56" fill="#F5F5F5" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="145" y="258" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">SCAFFOLD</text>
+  <text x="145" y="276" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">bring it within reach</text>
+
+  <!-- test 3 -->
+  <polygon points="430,330 525,372 430,414 335,372" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="430" y="368" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">stacked with</text>
+  <text x="430" y="382" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">other frictions?</text>
+  <line x1="335" y1="372" x2="214" y2="372" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="274" y="366" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">stacked</text>
+  <line x1="430" y1="414" x2="430" y2="436" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="438" y="430" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">not stacked</text>
+
+  <!-- UNSTACK terminal (two squares pulled apart) -->
+  <rect x="80" y="344" width="130" height="56" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="145" y="368" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">UNSTACK</text>
+  <text x="145" y="386" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">move it in time</text>
+
+  <!-- KEEP terminal (the earned outcome, highlighted, foot of the spine) -->
+  <rect x="365" y="440" width="130" height="56" fill="#C8102E"/>
+  <text x="430" y="464" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#FFFFFF">KEEP</text>
+  <text x="430" y="482" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#FFFFFF" opacity="0.9">the effort is the learning</text>
+
+  <!-- right-side note -->
+  <text x="540" y="146" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">every friction runs</text>
+  <text x="540" y="160" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">the gauntlet in order,</text>
+  <text x="540" y="174" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">once per persona</text>
+
+  <!-- caption -->
+  <text x="32" y="522" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Three ordered tests; keep is the earned outcome, reached only after remove, scaffold, and unstack have each declined the friction.</text>
+</svg>

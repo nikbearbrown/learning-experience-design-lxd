@@ -1,0 +1,77 @@
+<!-- Experience Design for EdTech · Chapter 05: Learner Research — Figure 01: Two Documents, One Learner · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-01">
+  <title id="fig-title-01">Two Documents, One Learner — 05-learner-research-personas-misconceptions-and-task-value-mapping</title>
+  <desc>Comparison panels: a marketing persona with portrait slot and demographic bars connects to nothing, while a research persona's four attributes — prior knowledge, misconceptions, motivation type, task value and cost — send arrows converging on a diamond that predicts the week-3 assessment failure on a three-tick timeline.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="05-learner-research-personas-misconceptions-and-task-value-mapping" figure-number="01" figure-title="Two Documents, One Learner" figure-slug="two-documents-one-learner" figure-type="comparison-panels" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/05-learner-research-personas-misconceptions-and-task-value-mapping-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Two Documents, One Learner</text>
+
+  <!-- left panel: marketing persona -->
+  <rect x="48" y="64" width="230" height="280" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="163" y="88" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#545454">MARKETING PERSONA</text>
+  <circle cx="163" cy="130" r="28" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="72" y="180" width="182" height="26" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="84" y="197" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">age 24–38, urban</text>
+  <rect x="72" y="216" width="182" height="26" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="84" y="233" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">listens to podcasts</text>
+  <rect x="72" y="252" width="182" height="26" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="84" y="269" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">prefers mobile</text>
+  <rect x="72" y="288" width="182" height="26" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="84" y="305" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">busy professional</text>
+  <text x="163" y="362" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">attributes connect to nothing — no prediction</text>
+
+  <!-- right panel: research persona (primary subject, highlighted) -->
+  <rect x="310" y="64" width="230" height="280" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="425" y="88" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#C8102E">RESEARCH PERSONA</text>
+
+  <rect x="324" y="104" width="200" height="46" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="334" y="122" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Prior knowledge</text>
+  <text x="334" y="137" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">computes means; no sampling intuition</text>
+
+  <rect x="324" y="162" width="200" height="46" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="334" y="180" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Misconceptions</text>
+  <text x="334" y="195" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">p-value = “the chance you’re wrong”</text>
+
+  <rect x="324" y="220" width="200" height="46" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="334" y="238" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Motivation type</text>
+  <text x="334" y="253" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">external — the course is required</text>
+
+  <rect x="324" y="278" width="200" height="46" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="334" y="296" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Task value / cost</text>
+  <text x="334" y="311" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">high utility; evening-hours cost</text>
+
+  <!-- prediction arrows converge on the diamond -->
+  <line x1="524" y1="127" x2="571" y2="184" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="524" y1="185" x2="561" y2="196" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="524" y1="243" x2="561" y2="214" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="524" y1="301" x2="571" y2="226" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- prediction diamond -->
+  <text x="600" y="155" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">prediction</text>
+  <polygon points="600,165 645,205 600,245 555,205" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="600" y="202" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">week-3</text>
+  <text x="600" y="215" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">failure</text>
+
+  <!-- drop to timeline -->
+  <line x1="600" y1="245" x2="600" y2="384" stroke="#2a1a0e" stroke-width="1" stroke-dasharray="4 3"/>
+
+  <!-- timeline -->
+  <line x1="360" y1="396" x2="660" y2="396" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="420" y1="390" x2="420" y2="402" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="510" y1="390" x2="510" y2="402" stroke="#2a1a0e" stroke-width="1"/>
+  <rect x="592" y="388" width="16" height="16" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">
+    <text x="420" y="418">wk 1</text><text x="510" y="418">wk 2</text><text x="600" y="418">wk 3</text>
+  </g>
+
+  <!-- failure annotation -->
+  <text x="48" y="394" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">week-3 assessment: means computed correctly,</text>
+  <text x="48" y="408" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">sample-size decisions confidently wrong</text>
+  <line x1="290" y1="398" x2="588" y2="396" stroke="#D4D4D4" stroke-width="1"/>
+
+  <!-- caption -->
+  <text x="32" y="462" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Same learner, same card format — only the persona built from learning-relevant variables predicts the week-3 failure.</text>
+</svg>

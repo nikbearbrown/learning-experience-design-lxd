@@ -1,0 +1,59 @@
+<!--
+  Figure: The Dissociation: In-Session Performance vs. Delayed Retention
+  Book: Experience Design for EdTech
+  Chapter: 01-the-engagement-trap-why-learners-love-products-that-dont-teach
+  Figure number: 01 | Type: statistical-quantitative | Priority: Critical
+  Date generated: 2026-06-07
+  Source: pantry/01-the-engagement-trap-why-learners-love-products-that-dont-teach-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch01-01">
+  <title id="fig-title-ch01-01">The Dissociation: In-Session Performance vs. Delayed Retention — 01-the-engagement-trap-why-learners-love-products-that-dont-teach</title>
+  <desc>Conditions that inflate performance during practice (massed, fluent study) can depress delayed retention, while conditions that depress in-session performance (spaced, effortful practice) improve it — the two lines cross.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="01-the-engagement-trap-why-learners-love-products-that-dont-teach" figure-number="01" figure-title="The Dissociation: In-Session Performance vs. Delayed Retention" figure-slug="the-dissociation-in-session-performance-vs-delayed-retention" figure-type="statistical-quantitative" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/01-the-engagement-trap-why-learners-love-products-that-dont-teach-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Dissociation: In-Session Performance vs. Delayed Retention</text>
+
+  <!-- Plot region -->
+  <rect x="64" y="64" width="440" height="276" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- Y axis label -->
+  <text x="46" y="202" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle" transform="rotate(-90 46 202)">test accuracy &#8594;</text>
+  <text x="56" y="344" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+
+  <!-- X ticks and zone labels -->
+  <line x1="140" y1="340" x2="140" y2="346" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="440" y1="340" x2="440" y2="346" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="140" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">practice (in-session)</text>
+  <text x="440" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">delayed test</text>
+
+  <!-- Crossover halo -->
+  <circle cx="261" cy="161" r="14" fill="none" stroke="#ADADAD" stroke-width="1"/>
+
+  <!-- Massed / fluent line (loses later: gray, hollow markers) -->
+  <line x1="140" y1="105" x2="440" y2="243" stroke="#787878" stroke-width="2"/>
+  <circle cx="140" cy="105" r="4.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="440" cy="243" r="4.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+
+  <!-- Spaced / effortful line (wins where it counts: red, filled markers) -->
+  <line x1="140" y1="174" x2="440" y2="141" stroke="#C8102E" stroke-width="2"/>
+  <circle cx="140" cy="174" r="4.5" fill="#C8102E"/>
+  <circle cx="440" cy="141" r="4.5" fill="#C8102E"/>
+
+  <!-- Direct line labels -->
+  <text x="452" y="138" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#C8102E">spaced / effortful</text>
+  <text x="452" y="154" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">harder now, holds later</text>
+  <text x="452" y="240" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#787878">massed / fluent</text>
+  <text x="452" y="256" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">high in session, fades later</text>
+
+  <!-- Annotation -->
+  <text x="190" y="240" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the early winner</text>
+  <text x="190" y="256" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">loses where it counts</text>
+
+  <!-- Caption -->
+  <text x="32" y="388" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Schematic of a replicated pattern (Soderstrom &amp; Bjork 2015; Cepeda et al. 2006). Line values are</text>
+  <text x="32" y="404" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">illustrative; the crossover itself is the documented finding.</text>
+</svg>

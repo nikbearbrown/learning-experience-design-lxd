@@ -1,0 +1,63 @@
+<!--
+  Experience Design for EdTech — Chapter 13, Figure 02
+  The three metric classes and the no-impersonation rule
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-13-02">
+  <title id="fig-title-13-02">The three metric classes and the no-impersonation rule — 13-instrumenting-the-experience-xapi-analytics-and-adaptive-models</title>
+  <desc>Taxonomy: every metric is behavioral engagement, a cognitive engagement proxy, or learning evidence, ordered left to right by evidential strength. Dashed connectors ending in blocking bars show lower classes may not substitute upward for learning evidence.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="13-instrumenting-the-experience-xapi-analytics-and-adaptive-models" figure-number="02" figure-title="The three metric classes and the no-impersonation rule" figure-slug="three-metric-classes-no-impersonation" figure-type="hierarchy-taxonomy" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/13-instrumenting-the-experience-xapi-analytics-and-adaptive-models-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The three metric classes and the no-impersonation rule</text>
+
+  <!-- root -->
+  <rect x="290" y="72" width="120" height="32" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="92" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Every metric</text>
+
+  <!-- branches -->
+  <line x1="350" y1="104" x2="134" y2="168" stroke="#787878" stroke-width="1"/>
+  <line x1="350" y1="104" x2="350" y2="168" stroke="#787878" stroke-width="1"/>
+  <line x1="350" y1="104" x2="566" y2="168" stroke="#787878" stroke-width="1"/>
+
+  <!-- blocked upward substitutions (structural negation: dashed, terminator bars) -->
+  <path d="M 134 168 Q 295 132 448 144" fill="none" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="452" y1="134" x2="452" y2="154" stroke="#2a1a0e" stroke-width="1.5"/>
+  <path d="M 350 168 Q 396 142 430 158" fill="none" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="434" y1="148" x2="434" y2="166" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="660" y="120" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">&#8867; no upward substitution</text>
+
+  <!-- class nodes -->
+  <rect x="40" y="168" width="188" height="64" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="134" y="194" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Behavioral engagement</text>
+  <text x="134" y="212" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">counted participation</text>
+
+  <rect x="256" y="168" width="188" height="64" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="194" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Cognitive engagement proxy</text>
+  <text x="350" y="212" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">licenses an inference</text>
+
+  <rect x="472" y="168" width="188" height="64" rx="0" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="566" y="194" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Learning evidence</text>
+  <text x="566" y="212" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">delayed, aligned performance</text>
+
+  <!-- exemplar stems and exemplars -->
+  <line x1="134" y1="232" x2="134" y2="272" stroke="#787878" stroke-width="1"/>
+  <line x1="350" y1="232" x2="350" y2="272" stroke="#787878" stroke-width="1"/>
+  <line x1="566" y1="232" x2="566" y2="272" stroke="#787878" stroke-width="1"/>
+
+  <rect x="40" y="272" width="188" height="40" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="134" y="296" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">logins &#183; clicks &#183; minutes</text>
+
+  <rect x="256" y="272" width="188" height="40" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="350" y="296" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">help sought before attempting</text>
+
+  <rect x="472" y="272" width="188" height="40" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="566" y="296" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">transfer task, two weeks later</text>
+
+  <!-- strength gradient -->
+  <text x="350" y="344" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">increasing evidential strength</text>
+  <line x1="40" y1="352" x2="652" y2="352" stroke="#787878" stroke-width="1"/>
+  <polygon points="652,348 660,352 652,356" fill="#787878"/>
+
+  <text x="32" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Every metric belongs to one class; engagement counts and behavioral proxies may not answer the learning question.</text>
+</svg>

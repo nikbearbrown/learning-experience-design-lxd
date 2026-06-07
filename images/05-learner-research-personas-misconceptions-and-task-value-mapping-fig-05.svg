@@ -1,0 +1,82 @@
+<!-- Experience Design for EdTech · Chapter 05: Learner Research — Figure 05: The Track A Research Pipeline · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-05">
+  <title id="fig-title-05">The Track A Research Pipeline — 05-learner-research-personas-misconceptions-and-task-value-mapping</title>
+  <desc>Left-to-right pipeline: inherited assumptions, a failed survey crossed by a slash, an LLM-generated list of six candidate misconceptions, a five-interview filter where four candidates terminate and two survive, and two evidence-based personas; below, a verdict bar shows time-poor confirmed and underprepared overruled.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="05-learner-research-personas-misconceptions-and-task-value-mapping" figure-number="05" figure-title="The Track A Research Pipeline" figure-slug="track-a-research-pipeline" figure-type="process-flowchart" priority="Supplementary" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/05-learner-research-personas-misconceptions-and-task-value-mapping-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Track A Research Pipeline</text>
+
+  <!-- station 1: inherited assumptions -->
+  <rect x="56" y="160" width="72" height="16" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="56" y="182" width="72" height="16" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="56" y="204" width="72" height="16" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="92" y="250" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">inherited assumptions</text>
+  <text x="92" y="266" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">“underprepared,</text>
+  <text x="92" y="279" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">time-poor”</text>
+
+  <line x1="134" y1="190" x2="158" y2="190" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- station 2: failed survey (structural kill-slash) -->
+  <rect x="168" y="165" width="72" height="50" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="166" y1="219" x2="242" y2="161" stroke="#2a1a0e" stroke-width="2"/>
+  <text x="204" y="250" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">survey fails</text>
+  <text x="204" y="266" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">measured the wrong</text>
+  <text x="204" y="279" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">construct, cheaply</text>
+
+  <line x1="246" y1="190" x2="270" y2="190" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- station 3: LLM candidate misconceptions (hollow = hypothesis status) -->
+  <circle cx="296" cy="168" r="7" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="326" cy="162" r="7" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="346" cy="182" r="7" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="296" cy="198" r="7" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="324" cy="202" r="7" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="346" cy="214" r="7" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <text x="316" y="250" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">LLM hypothesis list</text>
+  <text x="316" y="266" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">candidate misconceptions</text>
+  <text x="316" y="279" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">— hypotheses only</text>
+
+  <!-- candidate paths: four die at the boundary (stop ticks), two enter -->
+  <line x1="304" y1="169" x2="380" y2="172" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="304" y1="197" x2="380" y2="196" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="334" y1="162" x2="376" y2="160" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="378" y1="154" x2="378" y2="166" stroke="#787878" stroke-width="1.5"/>
+  <line x1="354" y1="183" x2="376" y2="184" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="378" y1="178" x2="378" y2="190" stroke="#787878" stroke-width="1.5"/>
+  <line x1="332" y1="203" x2="376" y2="208" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="378" y1="202" x2="378" y2="214" stroke="#787878" stroke-width="1.5"/>
+  <line x1="354" y1="214" x2="376" y2="220" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="378" y1="214" x2="378" y2="226" stroke="#787878" stroke-width="1.5"/>
+
+  <!-- station 4: five interviews (the evidence event, highlighted) -->
+  <rect x="384" y="150" width="128" height="84" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="448" y="186" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#C8102E">INTERVIEWS</text>
+  <text x="448" y="204" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">n = 5</text>
+  <text x="448" y="254" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">the evidence event —</text>
+  <text x="448" y="267" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">most candidates die here</text>
+
+  <!-- two survivors continue -->
+  <line x1="512" y1="170" x2="538" y2="170" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="512" y1="216" x2="538" y2="216" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- station 5: evidence-based personas -->
+  <rect x="544" y="150" width="108" height="38" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="598" y="173" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Procedural Priya</text>
+  <rect x="544" y="196" width="108" height="38" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="598" y="219" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Compliance Carlos</text>
+  <text x="598" y="250" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">two evidence-based</text>
+  <text x="598" y="263" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">personas</text>
+
+  <!-- verdict bar: solid = survived, dashed = overruled (structural) -->
+  <text x="48" y="334" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">the original brief, re-judged:</text>
+  <text x="445" y="318" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">“time-poor” — confirmed</text>
+  <line x1="380" y1="330" x2="510" y2="330" stroke="#2a1a0e" stroke-width="4"/>
+  <text x="593" y="318" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">“underprepared” — overruled</text>
+  <line x1="525" y1="330" x2="662" y2="330" stroke="#2a1a0e" stroke-width="3" stroke-dasharray="6 4"/>
+
+  <!-- caption -->
+  <text x="32" y="462" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Assumptions meet evidence: a failed survey, an AI-drafted hypothesis list, five interviews that kill most candidates, a brief partly overruled.</text>
+</svg>

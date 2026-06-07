@@ -1,0 +1,51 @@
+<!--
+  Figure: The Fade: Expertise Reversal as a Trajectory, Not a Setting
+  Book: Experience Design for EdTech
+  Chapter: 03-the-cognitive-machinery-load-difficulty-and-durable-learning
+  Figure number: 04 | Type: conceptual map (crossover trajectory chart) | Priority: Important
+  Date generated: 2026-06-07
+  Source: pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch03-04">
+  <title id="fig-title-ch03-04">The Fade: Expertise Reversal as a Trajectory, Not a Setting — 03-the-cognitive-machinery-load-difficulty-and-durable-learning</title>
+  <desc>As expertise grows, instructional guidance should decline while generative demands rise, crossing in a fade zone where schemas are forming — designing for one point on this axis is the most common implementation error (Kalyuga et al. 2003).</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="03-the-cognitive-machinery-load-difficulty-and-durable-learning" figure-number="04" figure-title="The Fade: Expertise Reversal as a Trajectory, Not a Setting" figure-slug="the-fade-expertise-reversal-trajectory" figure-type="conceptual-map-crossover" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Fade: Expertise Reversal as a Trajectory, Not a Setting</text>
+
+  <!-- Plot region -->
+  <rect x="64" y="64" width="560" height="276" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- Fade zone: a region, not a point (white band on gray field, dashed edges) -->
+  <rect x="300" y="64" width="130" height="276" fill="#FFFFFF"/>
+  <line x1="300" y1="64" x2="300" y2="340" stroke="#ADADAD" stroke-width="0.75" stroke-dasharray="5 4"/>
+  <line x1="430" y1="64" x2="430" y2="340" stroke="#ADADAD" stroke-width="0.75" stroke-dasharray="5 4"/>
+  <text x="365" y="122" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the fade zone</text>
+  <text x="365" y="136" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">supports handed off</text>
+
+  <!-- Guidance curve: high to low (withdrawn scaffolding) -->
+  <path d="M88,112 C260,122 420,260 600,300" fill="none" stroke="#787878" stroke-width="2"/>
+  <rect x="82" y="106" width="12" height="12" fill="#787878"/>
+  <text x="106" y="126" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#787878">guidance (worked examples)</text>
+
+  <!-- Generative-demand curve: low to high (the demand being grown) -->
+  <path d="M88,300 C260,290 420,152 600,112" fill="none" stroke="#C8102E" stroke-width="2"/>
+  <circle cx="600" cy="112" r="5.5" fill="#C8102E"/>
+  <text x="592" y="96" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#C8102E" text-anchor="end">generative demand (retrieval, interleaving)</text>
+
+  <!-- Axes -->
+  <text x="56" y="344" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+  <line x1="64" y1="340" x2="632" y2="340" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="88" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">novice</text>
+  <text x="348" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">growing expertise &#8594;</text>
+  <text x="616" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="end">expert</text>
+  <text x="46" y="202" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle" transform="rotate(-90 46 202)">level of support / demand &#8594;</text>
+
+  <!-- Caption -->
+  <text x="32" y="388" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Curves are conceptual: worked examples help novices and turn redundant-then-harmful with expertise &#8212;</text>
+  <text x="32" y="404" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the crossover interaction of Kalyuga et al. (2003). Designing for one point on this axis is the common error.</text>
+</svg>

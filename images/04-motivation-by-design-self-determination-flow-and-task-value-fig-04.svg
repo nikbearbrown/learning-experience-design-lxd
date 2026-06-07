@@ -1,0 +1,64 @@
+<!-- Experience Design for EdTech · Chapter 04: Motivation by Design — Figure 04: The Expectancy-Value Design Surface · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">The Expectancy-Value Design Surface — 04-motivation-by-design-self-determination-flow-and-task-value</title>
+  <desc>A two-by-two grid of task-value components — utility, attainment, intrinsic value, and cost as the debit quadrant — beside a motivation-budget bar whose thick arrow flows away toward expectancy supports while only a thin arrow reaches the value surface, which stays assumed rather than designed.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="04-motivation-by-design-self-determination-flow-and-task-value" figure-number="04" figure-title="The Expectancy-Value Design Surface" figure-slug="expectancy-value-design-surface" figure-type="conceptual-map-quadrants" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/04-motivation-by-design-self-determination-flow-and-task-value-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Expectancy-Value Design Surface</text>
+
+  <!-- budget bar -->
+  <rect x="80" y="150" width="44" height="170" fill="#787878"/>
+  <text x="102" y="338" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">motivation</text>
+  <text x="102" y="352" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">budget</text>
+
+  <!-- thick arrow: where the budget actually goes (off the value surface) -->
+  <line x1="102" y1="148" x2="102" y2="96" stroke="#2a1a0e" stroke-width="5"/>
+  <polygon points="93,98 111,98 102,80" fill="#2a1a0e"/>
+  <text x="124" y="92" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">expectancy supports &amp; engagement mechanics</text>
+  <text x="124" y="106" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">(where the budget actually goes)</text>
+
+  <!-- thin arrow: what reaches the value surface -->
+  <line x1="124" y1="235" x2="250" y2="235" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="188" y="256" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">task value —</text>
+  <text x="188" y="270" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">assumed, not designed</text>
+
+  <!-- grid header -->
+  <text x="260" y="122" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the four components of task value</text>
+
+  <!-- utility (UL) -->
+  <rect x="260" y="130" width="184" height="114" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="272" y="154" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Utility value</text>
+  <text x="272" y="172" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">serves my goals</text>
+  <ellipse cx="286" cy="216" rx="13" ry="8" fill="#C8102E"/>
+  <text x="306" y="220" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#C8102E">make visible by design</text>
+
+  <!-- attainment (UR) -->
+  <rect x="456" y="130" width="184" height="114" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="468" y="154" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Attainment value</text>
+  <text x="468" y="172" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">matters to my identity</text>
+  <ellipse cx="482" cy="216" rx="13" ry="8" fill="#C8102E"/>
+  <text x="502" y="220" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#C8102E">make visible by design</text>
+
+  <!-- intrinsic (LL) -->
+  <rect x="260" y="256" width="184" height="114" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="272" y="280" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Intrinsic value</text>
+  <text x="272" y="298" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">interests me in itself</text>
+  <ellipse cx="286" cy="342" rx="13" ry="8" fill="#C8102E"/>
+  <text x="306" y="346" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#C8102E">make visible by design</text>
+
+  <!-- cost (LR, the debit quadrant — dashed, structural) -->
+  <rect x="456" y="256" width="184" height="114" fill="#F5F5F5" stroke="#2a1a0e" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="468" y="280" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Cost</text>
+  <text x="468" y="298" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">what I give up —</text>
+  <text x="468" y="312" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the forgotten quadrant</text>
+  <line x1="482" y1="334" x2="482" y2="350" stroke="#2a1a0e" stroke-width="2"/>
+  <polygon points="477,348 487,348 482,356" fill="#2a1a0e"/>
+  <text x="498" y="346" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">a debit against the value account</text>
+
+  <!-- source + caption -->
+  <text x="32" y="386" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">SOURCE: EXPECTANCY-VALUE THEORY, ECCLES &amp; WIGFIELD</text>
+  <text x="32" y="404" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Products spend the motivation budget on expectancy supports while all four value quadrants stay assumed — value is a design surface.</text>
+</svg>

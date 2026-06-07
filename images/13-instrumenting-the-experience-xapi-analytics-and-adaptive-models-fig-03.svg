@@ -1,0 +1,89 @@
+<!--
+  Experience Design for EdTech — Chapter 13, Figure 03
+  Anatomy of an xAPI statement and the Learning Record Store
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-13-03">
+  <title id="fig-title-13-03">Anatomy of an xAPI statement and the Learning Record Store — 13-instrumenting-the-experience-xapi-analytics-and-adaptive-models</title>
+  <desc>Schematic: an xAPI statement assembles actor, verb, and object, optionally extended with result and context. Statements from an LMS, a mobile app, and a simulation converge into one Learning Record Store independent of any single LMS.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="13-instrumenting-the-experience-xapi-analytics-and-adaptive-models" figure-number="03" figure-title="Anatomy of an xAPI statement and the Learning Record Store" figure-slug="xapi-statement-anatomy-lrs" figure-type="structural schematic" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/13-instrumenting-the-experience-xapi-analytics-and-adaptive-models-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Anatomy of an xAPI statement and the Learning Record Store</text>
+
+  <!-- numbered leaders -->
+  <circle cx="200" cy="64" r="9" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="200" y="68" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">1</text>
+  <line x1="200" y1="73" x2="200" y2="88" stroke="#787878" stroke-width="0.75"/>
+  <circle cx="350" cy="64" r="9" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="68" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">2</text>
+  <line x1="350" y1="73" x2="350" y2="88" stroke="#787878" stroke-width="0.75"/>
+  <circle cx="500" cy="64" r="9" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="500" y="68" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">3</text>
+  <line x1="500" y1="73" x2="500" y2="88" stroke="#787878" stroke-width="0.75"/>
+
+  <!-- core statement triple (single highlighted structure) -->
+  <rect x="120" y="88" width="460" height="64" rx="0" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <line x1="280" y1="88" x2="280" y2="152" stroke="#C8102E" stroke-width="1"/>
+  <line x1="420" y1="88" x2="420" y2="152" stroke="#C8102E" stroke-width="1"/>
+  <text x="200" y="112" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Actor</text>
+  <text x="200" y="134" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">Maya R.</text>
+  <text x="350" y="112" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Verb</text>
+  <text x="350" y="134" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">attempted</text>
+  <text x="500" y="112" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Object</text>
+  <text x="500" y="134" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">triage scenario</text>
+
+  <!-- optional slots -->
+  <line x1="330" y1="152" x2="330" y2="184" stroke="#787878" stroke-width="0.75"/>
+  <rect x="268" y="184" width="124" height="48" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="330" y="204" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Result</text>
+  <text x="330" y="222" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">score, duration</text>
+
+  <line x1="500" y1="152" x2="500" y2="184" stroke="#787878" stroke-width="0.75"/>
+  <rect x="438" y="184" width="124" height="48" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="500" y="204" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Context</text>
+  <text x="500" y="222" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">course, session</text>
+
+  <circle cx="248" cy="208" r="9" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="248" y="212" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">4</text>
+  <line x1="257" y1="208" x2="268" y2="208" stroke="#787878" stroke-width="0.75"/>
+  <circle cx="582" cy="208" r="9" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="582" y="212" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">5</text>
+  <line x1="573" y1="208" x2="562" y2="208" stroke="#787878" stroke-width="0.75"/>
+
+  <text x="612" y="196" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">optional</text>
+  <text x="612" y="210" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">slots</text>
+
+  <!-- experience sources -->
+  <text x="64" y="268" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">experience sources</text>
+
+  <rect x="64" y="280" width="144" height="40" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="76" y="290" width="20" height="14" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <line x1="82" y1="304" x2="90" y2="304" stroke="#787878" stroke-width="1"/>
+  <text x="106" y="305" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">LMS</text>
+
+  <rect x="64" y="332" width="144" height="40" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="80" y="340" width="12" height="22" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <text x="106" y="357" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Mobile app</text>
+
+  <rect x="64" y="384" width="144" height="40" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="78" y="396" width="16" height="16" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <line x1="78" y1="396" x2="94" y2="412" stroke="#787878" stroke-width="0.75"/>
+  <text x="106" y="409" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Simulation</text>
+
+  <!-- converging statement flows -->
+  <line x1="208" y1="300" x2="452" y2="346" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="208" y1="352" x2="452" y2="364" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="208" y1="404" x2="452" y2="382" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="332" y="308" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">xAPI statements</text>
+
+  <!-- Learning Record Store cylinder -->
+  <path d="M 460 328 v 80 a 60 10 0 0 0 120 0 v -80" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <ellipse cx="520" cy="328" rx="60" ry="10" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="520" y="366" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Learning Record</text>
+  <text x="520" y="382" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Store (LRS)</text>
+  <text x="596" y="420" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">independent of</text>
+  <text x="596" y="434" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">any single LMS</text>
+
+  <text x="32" y="456" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Every event is one actor&#8211;verb&#8211;object statement; streams from every source converge in one record store.</text>
+</svg>

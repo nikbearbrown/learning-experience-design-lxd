@@ -1,0 +1,58 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 08-prototyping-learning-experiences-from-paper-to-pilot - Figure 02
+  Four Channels Beneath the Surface: The Learning Interaction Test - probe-depth schematic - priority: Critical
+  Generated 2026-06-07 - source: pantry/08-prototyping-learning-experiences-from-paper-to-pilot-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">Four Channels Beneath the Surface: The Learning Interaction Test — 08-prototyping-learning-experiences-from-paper-to-pilot</title>
+  <desc>Five probes descend from the operational surface. The usability probe stops in the observable-behavior layer; four learning-interaction probes — inferred rule, load signature, feedback uptake, motivational read — pass through to the dark layer of what the learner actually believes.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="08-prototyping-learning-experiences-from-paper-to-pilot" figure-number="02" figure-title="Four Channels Beneath the Surface: The Learning Interaction Test" figure-slug="four-channels-beneath-the-surface" figure-type="layered-probe-depth-schematic" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/08-prototyping-learning-experiences-from-paper-to-pilot-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow-gray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#787878"/></marker>
+    <marker id="arrow-red" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#C8102E"/></marker>
+  </defs>
+
+  <text x="32" y="38" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 8.2 · Four Channels Beneath the Surface: The Learning Interaction Test</text>
+
+  <!-- bracket over the four deep probes -->
+  <text x="435" y="60" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#C8102E">THE LEARNING INTERACTION TEST</text>
+  <path d="M235,74 V68 H655 V74" fill="none" stroke="#C8102E" stroke-width="1"/>
+
+  <!-- probe labels -->
+  <text x="120" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#2a1a0e">usability test</text>
+  <text x="120" y="100" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">can they operate it?</text>
+  <text x="255" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#2a1a0e">inferred rule</text>
+  <text x="255" y="100" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">what rule did they infer?</text>
+  <text x="375" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#2a1a0e">load signature</text>
+  <text x="375" y="100" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">where effort goes</text>
+  <text x="495" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#2a1a0e">feedback uptake</text>
+  <text x="495" y="100" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">what they do next</text>
+  <text x="615" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#2a1a0e">motivational read</text>
+  <text x="615" y="100" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">worth it, to them?</text>
+
+  <text x="187" y="144" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">operational surface</text>
+
+  <!-- layer A: observable behavior -->
+  <rect x="72" y="150" width="584" height="90" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="84" y="216" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#545454">OBSERVABLE</text>
+  <text x="84" y="230" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#545454">TASK BEHAVIOR</text>
+
+  <!-- white gap = what usability never reaches -->
+
+  <!-- layer B: actual understanding -->
+  <rect x="72" y="268" width="584" height="88" fill="#2a1a0e"/>
+  <text x="84" y="334" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF">WHAT THE LEARNER ACTUALLY BELIEVES, CARRIES,</text>
+  <text x="84" y="348" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF">DOES WITH FEEDBACK, AND VALUES</text>
+
+  <!-- probes -->
+  <path d="M120,108 L120,194" fill="none" stroke="#787878" stroke-width="1.5" marker-end="url(#arrow-gray)"/>
+  <text x="132" y="204" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">stops at behavior</text>
+  <path d="M255,108 L255,310" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M375,108 L375,310" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M495,108 L495,310" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M615,108 L615,310" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+
+  <text x="32" y="392" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">A learning experience can pass every usability test and still teach the wrong thing.</text>
+  <text x="32" y="406" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The four deeper probes are co-equal channels — their left-to-right order is rhetorical, not a ranking.</text>
+</svg>

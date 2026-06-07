@@ -1,0 +1,67 @@
+<!--
+  Figure: The Ease/Learning Quadrant: Where the Fluency Trap Lives
+  Book: Experience Design for EdTech
+  Chapter: 03-the-cognitive-machinery-load-difficulty-and-durable-learning
+  Figure number: 05 | Type: conceptual map (two-axis quadrant) | Priority: Important
+  Date generated: 2026-06-07
+  Source: pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch03-05">
+  <title id="fig-title-ch03-05">The Ease/Learning Quadrant: Where the Fluency Trap Lives — 03-the-cognitive-machinery-load-difficulty-and-durable-learning</title>
+  <desc>Crossing ease-of-experience against learning-produced yields four quadrants; the redesigned Version B moved the lesson rightward and downward into the easy-and-empty quadrant that engagement dashboards cannot distinguish from success.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="03-the-cognitive-machinery-load-difficulty-and-durable-learning" figure-number="05" figure-title="The Ease/Learning Quadrant: Where the Fluency Trap Lives" figure-slug="ease-learning-quadrant" figure-type="conceptual-map-quadrant" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0,10 L10,0" stroke="#D4D4D4" stroke-width="0.75"/></pattern>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Ease/Learning Quadrant: Where the Fluency Trap Lives</text>
+
+  <!-- Field -->
+  <rect x="88" y="64" width="552" height="266" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <line x1="364" y1="64" x2="364" y2="330" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="4 3"/>
+  <line x1="88" y1="197" x2="640" y2="197" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="4 3"/>
+
+  <!-- Trap quadrant: structural encoding (hatch + dashed border) -->
+  <rect x="364" y="197" width="276" height="133" fill="url(#hatch)" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+
+  <!-- Quadrant labels -->
+  <text x="226" y="92" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">hard &amp; productive</text>
+  <text x="226" y="108" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">desirable difficulty</text>
+  <text x="502" y="92" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">well-scaffolded &amp; effective</text>
+  <text x="502" y="108" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the goal</text>
+  <text x="226" y="296" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">hard &amp; useless</text>
+  <text x="226" y="312" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">extraneous difficulty</text>
+  <text x="502" y="224" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">easy &amp; empty</text>
+  <text x="502" y="240" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the fluency trap lives here</text>
+
+  <!-- Version A: demanding, productive -->
+  <circle cx="200" cy="120" r="6" fill="#2a1a0e"/>
+  <text x="214" y="116" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Version A</text>
+  <text x="214" y="132" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">higher transfer scores</text>
+
+  <!-- Version B: polished, empty -->
+  <circle cx="540" cy="290" r="6" fill="#2a1a0e"/>
+  <text x="528" y="286" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="end">Version B</text>
+  <text x="528" y="302" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="end">smoother; learned less</text>
+
+  <!-- The redesign's actual move: rightward AND downward -->
+  <path d="M212,128 C360,92 540,130 540,278" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="460" y="168" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the redesign&#8217;s actual move</text>
+
+  <!-- Axes from a shared zero origin -->
+  <line x1="88" y1="330" x2="88" y2="68" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="88" y1="330" x2="636" y2="330" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="78" y="344" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+  <text x="364" y="354" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">ease of experience &#8594;</text>
+  <text x="60" y="197" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle" transform="rotate(-90 60 197)">learning produced &#8594;</text>
+
+  <!-- What dashboards can see: the horizontal component only -->
+  <path d="M88,372 L88,378 L640,378 L640,372" fill="none" stroke="#787878" stroke-width="1"/>
+  <text x="364" y="396" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">what engagement dashboards measure: horizontal movement only</text>
+
+  <!-- Caption -->
+  <text x="32" y="432" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Version A sat in productive difficulty; the redesign moved it right and down into the trap quadrant.</text>
+  <text x="32" y="448" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Point placement is inferred &#8212; the chapter assigns quadrants, not coordinates.</text>
+</svg>

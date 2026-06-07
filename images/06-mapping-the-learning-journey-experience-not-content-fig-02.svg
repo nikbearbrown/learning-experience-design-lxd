@@ -1,0 +1,62 @@
+<!-- Experience Design for EdTech · Chapter 06: Mapping the Learning Journey — Figure 02: The Outline Shows a Topic, the Journey Shows a Wall · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">The Outline Shows a Topic, the Journey Shows a Wall — 06-mapping-the-learning-journey-experience-not-content</title>
+  <desc>Comparison: a content outline lists four unremarkable week blocks, while the journey view of the same weeks shows rows one, two, and four nearly empty and week 3 dense with stacked events — tool migration, first group deliverable, first graded assessment, and feedback never yet received — behind a wall band.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="06-mapping-the-learning-journey-experience-not-content" figure-number="02" figure-title="The Outline Shows a Topic, the Journey Shows a Wall" figure-slug="outline-shows-a-topic-journey-shows-a-wall" figure-type="comparison-panels" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/06-mapping-the-learning-journey-experience-not-content-cajal.md"/></metadata>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Outline Shows a Topic, the Journey Shows a Wall</text>
+
+  <!-- left panel: content outline (the instrument that cannot see) -->
+  <rect x="48" y="64" width="252" height="316" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="174" y="88" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">CONTENT OUTLINE VIEW</text>
+  <rect x="70" y="104" width="208" height="48" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="174" y="132" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Week 1 — Introduction</text>
+  <rect x="70" y="170" width="208" height="48" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="174" y="198" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Week 2 — Planning</text>
+  <rect x="70" y="236" width="208" height="48" fill="#F5F5F5" stroke="#787878" stroke-width="1.25"/>
+  <text x="174" y="258" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Week 3 — Stakeholder Analysis</text>
+  <text x="174" y="274" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#ADADAD">— nothing alarming —</text>
+  <rect x="70" y="302" width="208" height="48" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="174" y="330" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Week 4 — Risk</text>
+
+  <!-- tie line between the two week-3 rows -->
+  <line x1="278" y1="260" x2="362" y2="260" stroke="#ADADAD" stroke-width="1"/>
+
+  <!-- right panel: journey view (the instrument that sees, highlighted) -->
+  <rect x="340" y="64" width="320" height="316" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="500" y="88" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#C8102E">JOURNEY VIEW — SAME FOUR WEEKS</text>
+
+  <!-- wall band behind week-3 row (structural) -->
+  <rect x="412" y="232" width="216" height="56" fill="#2a1a0e" opacity="0.06"/>
+  <rect x="412" y="232" width="216" height="56" fill="none" stroke="#2a1a0e" stroke-width="1" stroke-dasharray="6 4"/>
+  <text x="520" y="226" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">the week-3 wall</text>
+
+  <!-- journey rows aligned with outline blocks -->
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#545454">
+    <text x="354" y="132">W1</text><text x="354" y="198">W2</text><text x="354" y="264">W3</text><text x="354" y="330">W4</text>
+  </g>
+  <line x1="380" y1="128" x2="640" y2="128" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="460" cy="128" r="4" fill="#ADADAD"/>
+  <line x1="380" y1="194" x2="640" y2="194" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="530" cy="194" r="4" fill="#ADADAD"/>
+  <line x1="380" y1="260" x2="640" y2="260" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="380" y1="326" x2="640" y2="326" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="490" cy="326" r="4" fill="#ADADAD"/>
+
+  <!-- week-3 events (left to right = Mon, Wed, Fri) -->
+  <circle cx="392" cy="260" r="8" fill="none" stroke="#787878" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <rect x="446" y="253" width="14" height="14" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.25"/>
+  <line x1="443" y1="270" x2="463" y2="250" stroke="#2a1a0e" stroke-width="1.25"/>
+  <circle cx="523" cy="260" r="8" fill="#787878"/>
+  <polygon points="588,250 598,260 588,270 578,260" fill="#2a1a0e"/>
+
+  <!-- event key -->
+  <g font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">
+    <text x="48" y="404"><tspan fill="#2a1a0e">Week 3 in lived time:</tspan>  ◌ three weeks in, no feedback yet received on anything</text>
+    <text x="48" y="420">▣ Mon — tool migration (new account, permissions bug) · ● Wed — first group deliverable, no worked example</text>
+    <text x="48" y="436">◆ Fri — first graded assessment closes before any feedback has arrived</text>
+  </g>
+
+  <!-- caption -->
+  <text x="32" y="464" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The outline cannot see the problem: three frictions stack in the same lived week, visible only in journey time.</text>
+</svg>

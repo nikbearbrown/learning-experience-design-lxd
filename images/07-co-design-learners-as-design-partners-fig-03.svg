@@ -1,0 +1,51 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 07-co-design-learners-as-design-partners - Figure 03
+  The Fluency-Learning Inversion - paired-comparison conceptual diagram - priority: Important
+  Generated 2026-06-07 - source: pantry/07-co-design-learners-as-design-partners-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-03">
+  <title id="fig-title-03">The Fluency–Learning Inversion — 07-co-design-learners-as-design-partners</title>
+  <desc>Two-by-two grid of circles: the fluent condition is rated high in session but tests low after a delay; the effortful condition is rated low in session but tests high. Crossing gray diagonals make the inversion explicit. Circle sizes are ordinal only — no magnitudes are reported.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="07-co-design-learners-as-design-partners" figure-number="03" figure-title="The Fluency–Learning Inversion" figure-slug="fluency-learning-inversion" figure-type="paired-comparison-conceptual-diagram" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/07-co-design-learners-as-design-partners-cajal.md"/></metadata>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 7.3 · The Fluency–Learning Inversion</text>
+
+  <!-- column headers -->
+  <text x="250" y="84" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">FLUENT CONDITION</text>
+  <text x="250" y="99" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">massed, smooth, easy in session</text>
+  <text x="470" y="84" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">EFFORTFUL CONDITION</text>
+  <text x="470" y="99" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">spaced, interleaved, harder in session</text>
+
+  <!-- row labels -->
+  <text x="32" y="155" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">FELT LEARNING</text>
+  <text x="32" y="170" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">self-rated during the session</text>
+  <text x="32" y="305" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">MEASURED LEARNING</text>
+  <text x="32" y="320" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">on the delayed test</text>
+
+  <!-- crossing diagonals (correspondences, no arrowheads) -->
+  <line x1="250" y1="160" x2="470" y2="310" stroke="#ADADAD" stroke-width="0.75"/>
+  <line x1="470" y1="160" x2="250" y2="310" stroke="#ADADAD" stroke-width="0.75"/>
+  <!-- vertical connectors -->
+  <line x1="250" y1="200" x2="250" y2="294" stroke="#D4D4D4" stroke-width="0.75"/>
+  <line x1="470" y1="177" x2="470" y2="271" stroke="#D4D4D4" stroke-width="0.75"/>
+  <!-- dashed time rule -->
+  <line x1="200" y1="235" x2="556" y2="235" stroke="#787878" stroke-width="0.75" stroke-dasharray="5 4"/>
+  <text x="568" y="228" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">in session</text>
+  <text x="568" y="252" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">after a delay</text>
+
+  <!-- circles: size = ordinal direction only -->
+  <circle cx="250" cy="160" r="36" fill="#ADADAD"/>
+  <circle cx="250" cy="310" r="13" fill="#ADADAD"/>
+  <circle cx="470" cy="160" r="13" fill="#C8102E"/>
+  <circle cx="470" cy="310" r="36" fill="#C8102E"/>
+
+  <text x="294" y="164" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">felt high</text>
+  <text x="272" y="314" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">tested low</text>
+  <text x="492" y="164" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">felt low</text>
+  <text x="514" y="314" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">tested high</text>
+
+  <text x="32" y="380" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Circle size shows direction only — the chapter reports no magnitudes, so this diagram is conceptual.</text>
+  <text x="32" y="394" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Fluency feels like learning in session; durable learning shows up only after the delay.</text>
+  <text x="32" y="412" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" letter-spacing="0.08em" fill="#545454">SOURCE: KORNELL &amp; BJORK 2008 · DESLAURIERS ET AL. 2019 · SODERSTROM &amp; BJORK 2015 — DIRECTION ONLY</text>
+</svg>

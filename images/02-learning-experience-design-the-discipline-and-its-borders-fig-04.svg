@@ -1,0 +1,74 @@
+<!--
+  Figure: The Constraint Test: Three Questions Any LXD Deliverable Must Survive
+  Book: Experience Design for EdTech
+  Chapter: 02-learning-experience-design-the-discipline-and-its-borders
+  Figure number: 04 | Type: process flowchart | Priority: Important
+  Date generated: 2026-06-07
+  Source: pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md
+-->
+<svg viewBox="0 0 700 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch02-04">
+  <title id="fig-title-ch02-04">The Constraint Test: Three Questions Any LXD Deliverable Must Survive — 02-learning-experience-design-the-discipline-and-its-borders</title>
+  <desc>A deliverable counts as LXD only if it survives three sequential questions — outcome stated before design, decisions constrained by learning evidence, delayed or transfer measure taken. Failing them means good UX or solid ID, not LXD.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="02-learning-experience-design-the-discipline-and-its-borders" figure-number="04" figure-title="The Constraint Test: Three Questions Any LXD Deliverable Must Survive" figure-slug="the-constraint-test" figure-type="process-flowchart" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="36" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Constraint Test: Three Questions Any LXD Deliverable Must Survive</text>
+
+  <!-- Entry node -->
+  <rect x="210" y="56" width="180" height="40" fill="#F5F5F5" stroke="#787878" stroke-width="1"/>
+  <text x="300" y="80" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">deliverable under review</text>
+  <line x1="300" y1="96" x2="300" y2="112" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Q1 diamond -->
+  <polygon points="196,162 300,116 404,162 300,208" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="300" y="158" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">learning outcome stated</text>
+  <text x="300" y="172" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">before design began?</text>
+  <line x1="300" y1="208" x2="300" y2="232" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="308" y="226" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">yes</text>
+
+  <!-- Q2 diamond -->
+  <polygon points="196,282 300,236 404,282 300,328" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="300" y="278" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">decisions constrained by</text>
+  <text x="300" y="292" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">evidence about learning?</text>
+  <line x1="300" y1="328" x2="300" y2="352" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="308" y="346" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">yes</text>
+
+  <!-- Q3 diamond -->
+  <polygon points="196,402 300,356 404,402 300,448" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="300" y="398" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">delayed or transfer</text>
+  <text x="300" y="412" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">measure actually taken?</text>
+  <line x1="300" y1="448" x2="300" y2="472" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="308" y="466" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">yes</text>
+
+  <!-- Pass terminal (the constraint enforced) -->
+  <rect x="204" y="476" width="192" height="48" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="300" y="496" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">doing LXD</text>
+  <text x="300" y="512" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the constraint is enforced</text>
+
+  <!-- Fail branches: blocked as LXD (T-bar terminations at the capsule edge) -->
+  <text x="412" y="154" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">no</text>
+  <line x1="404" y1="162" x2="546" y2="162" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="548" y1="155" x2="548" y2="169" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="412" y="274" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">no</text>
+  <line x1="404" y1="282" x2="546" y2="282" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="548" y1="275" x2="548" y2="289" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="412" y="394" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">no</text>
+  <line x1="404" y1="402" x2="546" y2="402" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="548" y1="395" x2="548" y2="409" stroke="#2a1a0e" stroke-width="1.5"/>
+
+  <!-- Shared fail destination: competent, but another discipline -->
+  <rect x="552" y="140" width="116" height="284" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="610" y="250" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">competent work</text>
+  <text x="610" y="270" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">maybe good UX,</text>
+  <text x="610" y="286" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">maybe solid ID &#8212;</text>
+  <text x="610" y="302" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">but not LXD:</text>
+  <text x="610" y="318" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the constraint is</text>
+  <text x="610" y="334" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">not enforced</text>
+
+  <!-- Caption -->
+  <text x="32" y="556" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">A deliverable counts as LXD only if it survives all three questions. The shared exit is a compression &#8212;</text>
+  <text x="32" y="572" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the chapter assigns no distinct destination per failed question; failed work may still be good UX or ID.</text>
+</svg>

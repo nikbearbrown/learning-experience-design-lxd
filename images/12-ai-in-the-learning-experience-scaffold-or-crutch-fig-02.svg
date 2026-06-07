@@ -1,0 +1,52 @@
+<!-- Figure 02 — Four operations, one shortcut: what the answer machine bypasses · Chapter 12: AI in the Learning Experience · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-12-02">
+  <title id="fig-title-12-02">Four operations, one shortcut: what the answer machine bypasses — 12-ai-in-the-learning-experience-scaffold-or-crutch</title>
+  <desc>A chain from problem to answer through retrieval, generation, error diagnosis, and persistence; a dashed bypass arc vaults over all four boxes from the same start to the same end — the answer-on-demand shortcut that leaves no learning residue.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="12-ai-in-the-learning-experience-scaffold-or-crutch" figure-number="02" figure-title="Four operations, one shortcut: what the answer machine bypasses" figure-slug="four-operations-one-shortcut" figure-type="mechanism" priority="critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/12-ai-in-the-learning-experience-scaffold-or-crutch-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrowGray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#787878"/></marker>
+  </defs>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Four operations, one shortcut: what the answer machine bypasses</text>
+
+  <!-- bypass arc (equal weight, dashed — effortless, not forceful) -->
+  <path d="M71 210 C 180 92, 520 92, 631 206" fill="none" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+  <text x="352" y="116" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">answer on demand — all four operations skipped at once</text>
+
+  <!-- problem endpoint -->
+  <rect x="36" y="212" width="70" height="58" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <text x="71" y="238" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">problem</text>
+  <text x="71" y="253" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454" text-anchor="middle">as posed</text>
+  <line x1="106" y1="241" x2="122" y2="241" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- the effortful chain -->
+  <rect x="128" y="212" width="96" height="58" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="176" y="238" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">retrieval</text>
+  <text x="176" y="253" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454" text-anchor="middle">recall the method</text>
+  <line x1="224" y1="241" x2="240" y2="241" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <rect x="246" y="212" width="96" height="58" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="294" y="238" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">generation</text>
+  <text x="294" y="253" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454" text-anchor="middle">produce the attempt</text>
+  <line x1="342" y1="241" x2="358" y2="241" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <rect x="364" y="212" width="96" height="58" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="412" y="238" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">error diagnosis</text>
+  <text x="412" y="253" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454" text-anchor="middle">find what broke</text>
+  <line x1="460" y1="241" x2="476" y2="241" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <rect x="482" y="212" width="96" height="58" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="530" y="238" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">persistence</text>
+  <text x="530" y="253" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454" text-anchor="middle">through the impasse</text>
+  <line x1="578" y1="241" x2="594" y2="241" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- answer endpoint -->
+  <rect x="600" y="212" width="64" height="58" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <text x="632" y="245" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">answer</text>
+
+  <text x="352" y="296" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454" text-anchor="middle">the effortful chain that produces durable learning</text>
+
+  <text x="64" y="378" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Both routes share their endpoints; only the path differs. The shortcut is not one bypass but four simultaneous</text>
+  <text x="64" y="393" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">ones — retrieval, generation, error diagnosis, and persistence all skipped, leaving no residue.</text>
+</svg>

@@ -1,0 +1,59 @@
+<!-- Figure 01 — Practice performance and unassisted learning point in opposite directions · Chapter 12: AI in the Learning Experience · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-12-01">
+  <title id="fig-title-12-01">Practice performance and unassisted learning point in opposite directions — 12-ai-in-the-learning-experience-scaffold-or-crutch</title>
+  <desc>Paired dot plot, three conditions against a zero control baseline: GPT-Base practice +48 with exam −17 below zero (hollow marker); GPT-Tutor, in red, practice +127 with exam exactly at zero — parity, never above control.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="12-ai-in-the-learning-experience-scaffold-or-crutch" figure-number="01" figure-title="Practice performance and unassisted learning point in opposite directions" figure-slug="practice-exam-divergence" figure-type="statistical" priority="critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/12-ai-in-the-learning-experience-scaffold-or-crutch-cajal.md"/></metadata>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Practice performance and unassisted learning point in opposite directions</text>
+
+  <!-- plot region (negative region below the zero line stays visible) -->
+  <rect x="64" y="64" width="596" height="254" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- legend -->
+  <polygon points="84,77 90,83 84,89 78,83" fill="#787878"/>
+  <text x="98" y="87" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">practice score (in-tool)</text>
+  <circle cx="226" cy="83" r="5" fill="#787878"/>
+  <text x="238" y="87" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">unassisted exam</text>
+
+  <!-- y hairlines and ticks -->
+  <line x1="64" y1="131.3" x2="660" y2="131.3" stroke="#D4D4D4" stroke-width="0.75"/>
+  <line x1="64" y1="198" x2="660" y2="198" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="56" y="135.3" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">+100</text>
+  <text x="56" y="202" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">+50</text>
+  <text x="56" y="269" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+  <text x="26" y="190" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle" transform="rotate(-90 26 190)">Δ vs no-AI control (%)</text>
+
+  <!-- zero line: the control baseline, the figure's moral axis -->
+  <line x1="64" y1="265" x2="660" y2="265" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="656" y="258" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454" text-anchor="end">no-AI control baseline</text>
+
+  <!-- control pair: both at zero -->
+  <text x="170" y="247" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#545454" text-anchor="middle">0 / 0</text>
+  <polygon points="156,257 164,265 156,273 148,265" fill="#787878"/>
+  <circle cx="184" cy="265" r="8" fill="#787878"/>
+
+  <!-- GPT-Base pair: +48 practice, −17 exam (hollow, below zero — structural negative) -->
+  <line x1="348" y1="201" x2="376" y2="287" stroke="#ADADAD" stroke-width="0.75"/>
+  <polygon points="348,193 356,201 348,209 340,201" fill="#2a1a0e"/>
+  <text x="348" y="185" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">+48</text>
+  <circle cx="376" cy="287" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="376" y="310" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">-17</text>
+
+  <!-- GPT-Tutor pair (highlighted series, red): +127 practice, ≈0 exam -->
+  <line x1="540" y1="95" x2="568" y2="265" stroke="#ADADAD" stroke-width="0.75"/>
+  <polygon points="540,87 548,95 540,103 532,95" fill="#C8102E"/>
+  <text x="540" y="79" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">+127</text>
+  <circle cx="568" cy="265" r="8" fill="#C8102E"/>
+  <text x="592" y="252" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">≈0</text>
+
+  <!-- condition labels -->
+  <g font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">
+    <text x="170" y="338">no-AI control</text>
+    <text x="362" y="338">GPT-Base — unguarded</text>
+    <text x="554" y="338">GPT-Tutor — guardrailed</text>
+  </g>
+
+  <text x="64" y="378" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Deltas vs the no-AI control; all four values carry the chapter's [verify against published paper] flag.</text>
+  <text x="64" y="393" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The unguarded tutor's exam result lands below the control; the guardrailed tutor matches — never beats — it.</text>
+  <text x="64" y="411" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">SOURCE: BASTANI ET AL. 2025</text>
+</svg>

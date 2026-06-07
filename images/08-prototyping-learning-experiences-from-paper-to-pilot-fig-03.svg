@@ -1,0 +1,62 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 08-prototyping-learning-experiences-from-paper-to-pilot - Figure 03
+  The Prototype-Test Cycle - cycle diagram with demotion chord - priority: Important
+  Generated 2026-06-07 - source: pantry/08-prototyping-learning-experiences-from-paper-to-pilot-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-03">
+  <title id="fig-title-03">The Prototype–Test Cycle — 08-prototyping-learning-experiences-from-paper-to-pilot</title>
+  <desc>Six stations in a clockwise loop: name the riskiest unknown, choose the lowest sufficient rung, build cheap, run the four-channel test, classify findings, revise — then back to a new unknown. A dashed interior chord from classification to rung choice marks demotion down the ladder.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="08-prototyping-learning-experiences-from-paper-to-pilot" figure-number="03" figure-title="The Prototype–Test Cycle" figure-slug="prototype-test-cycle" figure-type="cycle-diagram" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/08-prototyping-learning-experiences-from-paper-to-pilot-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 8.3 · The Prototype–Test Cycle</text>
+
+  <text x="350" y="66" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">entry — and re-entry — point</text>
+
+  <!-- cycle arcs, clockwise -->
+  <path d="M381.5,98.9 A130,130 0 0 1 443.5,134.7" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M474.9,189.1 A130,130 0 0 1 474.9,260.9" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M443.5,315.3 A130,130 0 0 1 381.5,351.1" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M318.5,351.1 A130,130 0 0 1 256.5,315.3" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M225.1,260.9 A130,130 0 0 1 225.1,189.1" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M256.5,134.7 A130,130 0 0 1 318.5,98.9" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- demotion chord (exceptional but legitimate; structural, not color-coded) -->
+  <path d="M296,272 L404,184" fill="none" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+  <text x="350" y="252" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">demotion: the build</text>
+  <text x="350" y="266" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">outran the question</text>
+
+  <!-- station 1: riskiest unknown (highlighted driver) -->
+  <rect x="288" y="75" width="124" height="40" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="350" y="92" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">name the riskiest</text>
+  <text x="350" y="106" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">unknown</text>
+
+  <!-- station 2 -->
+  <rect x="400" y="140" width="124" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="462" y="157" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">choose the lowest</text>
+  <text x="462" y="171" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">sufficient rung</text>
+
+  <!-- station 3 -->
+  <rect x="400" y="270" width="124" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="462" y="294" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">build cheap</text>
+
+  <!-- station 4 -->
+  <rect x="288" y="335" width="124" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="352" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">run the four-</text>
+  <text x="350" y="366" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">channel test</text>
+
+  <!-- station 5 -->
+  <rect x="176" y="270" width="124" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="238" y="287" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">classify: usability</text>
+  <text x="238" y="301" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">vs learning findings</text>
+
+  <!-- station 6 -->
+  <rect x="176" y="140" width="124" height="40" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="238" y="164" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">revise</text>
+
+  <text x="32" y="398" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The loop has no exit node — each revision produces the next riskiest unknown.</text>
+  <text x="32" y="412" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The dashed chord is demotion: shelving a built artifact to re-ask the question at a lower rung is progress, not failure.</text>
+</svg>

@@ -1,0 +1,97 @@
+<!--
+  Figure: The Experience as the Unit of Design: Five Simultaneous Dimensions
+  Book: Experience Design for EdTech
+  Chapter: 02-learning-experience-design-the-discipline-and-its-borders
+  Figure number: 03 | Type: conceptual map | Priority: Important
+  Date generated: 2026-06-07
+  Source: pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md
+-->
+<svg viewBox="0 0 700 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch02-03">
+  <title id="fig-title-ch02-03">The Experience as the Unit of Design: Five Simultaneous Dimensions — 02-learning-experience-design-the-discipline-and-its-borders</title>
+  <desc>The LXD unit of design is the experience — temporal, social, affective, cognitive, and infrastructural at once — and any one dimension left unaddressed can defeat the others.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="02-learning-experience-design-the-discipline-and-its-borders" figure-number="03" figure-title="The Experience as the Unit of Design: Five Simultaneous Dimensions" figure-slug="experience-as-unit-of-design-five-dimensions" figure-type="conceptual-map" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Experience as the Unit of Design: Five Simultaneous Dimensions</text>
+
+  <!-- ===== Temporal band ===== -->
+  <rect x="200" y="72" width="460" height="56" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="32" y="96" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">temporal</text>
+  <text x="32" y="112" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">anticipation, pacing, decay</text>
+  <line x1="216" y1="92" x2="216" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="248" y1="92" x2="248" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="284" y1="92" x2="284" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="326" y1="92" x2="326" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="374" y1="92" x2="374" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="428" y1="92" x2="428" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="488" y1="92" x2="488" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="554" y1="92" x2="554" y2="108" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="626" y1="92" x2="626" y2="108" stroke="#ADADAD" stroke-width="1"/>
+
+  <!-- ===== Social band ===== -->
+  <rect x="200" y="138" width="460" height="56" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="32" y="162" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">social</text>
+  <text x="32" y="178" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">who else is in the room</text>
+  <circle cx="243" cy="166" r="5" fill="#ADADAD"/><circle cx="257" cy="166" r="5" fill="#ADADAD"/>
+  <circle cx="343" cy="166" r="5" fill="#ADADAD"/><circle cx="357" cy="166" r="5" fill="#ADADAD"/>
+  <circle cx="443" cy="166" r="5" fill="#ADADAD"/><circle cx="457" cy="166" r="5" fill="#ADADAD"/>
+  <circle cx="543" cy="166" r="5" fill="#ADADAD"/><circle cx="557" cy="166" r="5" fill="#ADADAD"/>
+
+  <!-- ===== The learner arc (the unit of design) ===== -->
+  <text x="32" y="232" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">the learner arc</text>
+  <text x="32" y="248" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the unit of design</text>
+  <circle cx="208" cy="246" r="4" fill="#2a1a0e"/>
+  <path d="M208,246 C280,220 330,266 400,240 C470,214 520,256 590,230 L632,222" fill="none" stroke="#2a1a0e" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="424" y="278" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the learner&#8217;s experience, moment to moment</text>
+
+  <!-- ===== Affective band ===== -->
+  <rect x="200" y="296" width="460" height="56" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="32" y="320" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">affective</text>
+  <text x="32" y="336" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">motivation, anxiety</text>
+  <path d="M216,324 Q246,304 276,324 T336,324 T396,324 T456,324 T516,324 T576,324 T636,324" fill="none" stroke="#ADADAD" stroke-width="1.5"/>
+
+  <!-- ===== Cognitive band (the book's spine: highlighted) ===== -->
+  <rect x="200" y="362" width="460" height="56" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="32" y="386" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#C8102E">cognitive</text>
+  <text x="32" y="402" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">load, difficulty, schemas</text>
+  <circle cx="280" cy="390" r="5" fill="none" stroke="#C8102E" stroke-width="1.5"/>
+  <line x1="285" y1="390" x2="300" y2="382" stroke="#C8102E" stroke-width="1"/><circle cx="303" cy="381" r="2.5" fill="#C8102E"/>
+  <line x1="285" y1="393" x2="300" y2="400" stroke="#C8102E" stroke-width="1"/><circle cx="303" cy="401" r="2.5" fill="#C8102E"/>
+  <circle cx="430" cy="390" r="5" fill="none" stroke="#C8102E" stroke-width="1.5"/>
+  <line x1="435" y1="390" x2="450" y2="382" stroke="#C8102E" stroke-width="1"/><circle cx="453" cy="381" r="2.5" fill="#C8102E"/>
+  <line x1="435" y1="393" x2="450" y2="400" stroke="#C8102E" stroke-width="1"/><circle cx="453" cy="401" r="2.5" fill="#C8102E"/>
+  <circle cx="580" cy="390" r="5" fill="none" stroke="#C8102E" stroke-width="1.5"/>
+  <line x1="585" y1="390" x2="600" y2="382" stroke="#C8102E" stroke-width="1"/><circle cx="603" cy="381" r="2.5" fill="#C8102E"/>
+  <line x1="585" y1="393" x2="600" y2="400" stroke="#C8102E" stroke-width="1"/><circle cx="603" cy="401" r="2.5" fill="#C8102E"/>
+
+  <!-- ===== Infrastructural band (the base) ===== -->
+  <rect x="200" y="428" width="460" height="56" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="32" y="452" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">infrastructural</text>
+  <text x="32" y="468" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">devices, clicks, log-ins</text>
+  <rect x="216" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="260" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="304" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="348" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="392" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="436" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="480" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="524" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="568" y="442" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="612" y="442" width="32" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="238" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="282" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="326" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="370" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="414" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="458" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="502" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="546" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="590" y="458" width="36" height="12" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+
+  <!-- Caption -->
+  <text x="32" y="508" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">All five dimensions run the full length of the arc &#8212; they are co-extensive with the experience, not</text>
+  <text x="32" y="524" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">phases of it. Any one left unaddressed can defeat the other four.</text>
+</svg>

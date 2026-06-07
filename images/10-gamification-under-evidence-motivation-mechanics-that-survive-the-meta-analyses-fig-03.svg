@@ -1,0 +1,49 @@
+<!-- Figure 03 — The leaderboard redistributes motivation rather than adding it · Chapter 10: Gamification Under Evidence · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-10-03">
+  <title id="fig-title-10-03">The leaderboard redistributes motivation rather than adding it — 10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses</title>
+  <desc>A leaderboard glyph sends a solid path to a small top-decile cluster receiving a competence signal, and a dashed path to a larger bottom-half cluster of hollow circles receiving a public deficit signal; a tilted balance at right marks the ambiguous net aggregate.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses" figure-number="03" figure-title="The leaderboard redistributes motivation rather than adding it" figure-slug="leaderboard-redistribution" figure-type="comparison" priority="important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrowGray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#787878"/></marker>
+  </defs>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The leaderboard redistributes motivation rather than adding it</text>
+
+  <!-- leaderboard glyph -->
+  <rect x="80" y="140" width="120" height="150" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <rect x="92" y="158" width="96" height="12" fill="#ADADAD"/>
+  <rect x="92" y="184" width="80" height="12" fill="#ADADAD"/>
+  <rect x="92" y="210" width="64" height="12" fill="#ADADAD"/>
+  <rect x="92" y="236" width="50" height="12" fill="#ADADAD"/>
+  <rect x="92" y="262" width="36" height="12" fill="#ADADAD"/>
+  <text x="140" y="312" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">one leaderboard</text>
+
+  <!-- upper path: competence fed (solid, filled cluster, up arrow) -->
+  <path d="M200 170 C 280 140, 330 128, 400 126" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <circle cx="427" cy="120" r="9" fill="#2a1a0e"/>
+  <circle cx="452" cy="132" r="9" fill="#2a1a0e"/>
+  <line x1="488" y1="142" x2="488" y2="106" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="445" y="84" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">top decile</text>
+  <text x="445" y="98" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">competence signal — need fed</text>
+
+  <!-- lower path: competence starved (dashed, hollow cluster, down arrow — structural negative) -->
+  <path d="M200 260 C 280 290, 330 300, 392 302" fill="none" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+  <circle cx="424" cy="292" r="9" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="449" cy="284" r="9" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="446" cy="310" r="9" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="471" cy="300" r="9" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="423" cy="318" r="9" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <line x1="505" y1="288" x2="505" y2="324" stroke="#787878" stroke-width="1.5" marker-end="url(#arrowGray)"/>
+  <text x="447" y="346" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">bottom half</text>
+  <text x="447" y="360" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">public deficit signal — need starved</text>
+
+  <!-- net aggregate: tilted balance -->
+  <line x1="560" y1="228" x2="640" y2="212" stroke="#787878" stroke-width="1.5"/>
+  <polygon points="600,221 590,238 610,238" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <text x="600" y="198" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">net aggregate</text>
+  <text x="600" y="258" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">can still read positive</text>
+
+  <text x="64" y="390" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">One mechanic, two simultaneous effects: a competence signal for the few, a public deficit measure for the many —</text>
+  <text x="64" y="405" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">so a positive aggregate can mask harm to the learners the design was built for.</text>
+</svg>

@@ -1,0 +1,42 @@
+<!-- Figure 05 — Fading: support contracts as competence grows · Chapter 12: AI in the Learning Experience · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-12-05">
+  <title id="fig-title-12-05">Fading: support contracts as competence grows — 12-ai-in-the-learning-experience-scaffold-or-crutch</title>
+  <desc>Timeline anchored at zero: a gray support band steps down three times at demonstrated-competence triggers (open circles on the rising red competence line), contracting to a thin residual sliver that never quite reaches zero.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="12-ai-in-the-learning-experience-scaffold-or-crutch" figure-number="05" figure-title="Fading: support contracts as competence grows" figure-slug="fading-schedule" figure-type="timeline" priority="important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/12-ai-in-the-learning-experience-scaffold-or-crutch-cajal.md"/></metadata>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Fading: support contracts as competence grows</text>
+
+  <!-- plot region -->
+  <rect x="64" y="64" width="596" height="266" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- support band: stepped contraction, anchored at zero -->
+  <path d="M64 150 L230 150 L230 210 L400 210 L400 268 L545 268 L545 316 L660 316 L660 330 L64 330 Z" fill="#D4D4D4"/>
+  <path d="M64 150 L230 150 L230 210 L400 210 L400 268 L545 268 L545 316 L660 316" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <text x="84" y="178" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">support envelope</text>
+  <text x="84" y="193" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454">steps down at each trigger</text>
+  <text x="600" y="308" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454" text-anchor="middle">never quite zero</text>
+
+  <!-- trigger alignment hairlines -->
+  <line x1="230" y1="210" x2="230" y2="330" stroke="#ADADAD" stroke-width="0.75" stroke-dasharray="4 3"/>
+  <line x1="400" y1="268" x2="400" y2="330" stroke="#ADADAD" stroke-width="0.75" stroke-dasharray="4 3"/>
+  <line x1="545" y1="316" x2="545" y2="330" stroke="#ADADAD" stroke-width="0.75" stroke-dasharray="4 3"/>
+
+  <!-- unassisted competence line (highlighted series, red) -->
+  <path d="M64 316 C 130 302, 180 288, 230 272 C 290 252, 350 228, 400 206 C 450 186, 500 168, 545 150 C 585 136, 625 120, 660 108" fill="none" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="656" y="96" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#C8102E" text-anchor="end">unassisted competence</text>
+
+  <!-- demonstrated-competence triggers -->
+  <circle cx="230" cy="272" r="5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <circle cx="400" cy="206" r="5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <circle cx="545" cy="150" r="5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="400" y="188" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454" text-anchor="middle">demonstrated-competence triggers</text>
+
+  <!-- zero baseline -->
+  <line x1="64" y1="330" x2="660" y2="330" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="56" y="334" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+  <text x="362" y="348" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">time</text>
+  <text x="32" y="197" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle" transform="rotate(-90 32 197)">support / capability</text>
+
+  <text x="64" y="380" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Mechanism sketch, not data: each open circle is a demonstrated-competence trigger that steps the band down —</text>
+  <text x="64" y="395" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">a band that never narrows is a crutch with paperwork; the residual sliver reflects the argued-permanence clause.</text>
+</svg>

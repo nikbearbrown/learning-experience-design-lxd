@@ -1,0 +1,62 @@
+<!--
+  Experience Design for EdTech — Chapter 15, Figure 04
+  Anatomy of a defensible "no": steelman, evidence, criterion, open door
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-15-04">
+  <title id="fig-title-15-04">Anatomy of a defensible &#8220;no&#8221;: steelman, evidence, criterion, open door — 15-the-full-redesign-one-experience-every-decision</title>
+  <desc>Four ordered moves defend a declined feature: the steelman at full strength, the specific countervailing evidence, the criterion that decided, and a door left open with a scheduled re-test. A half-height dashed strawman below move one is refused.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="15-the-full-redesign-one-experience-every-decision" figure-number="04" figure-title="Anatomy of a defensible &#8220;no&#8221;: steelman, evidence, criterion, open door" figure-slug="defensible-no-anatomy" figure-type="annotated example" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/15-the-full-redesign-one-experience-every-decision-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Anatomy of a defensible &#8220;no&#8221;: steelman, evidence, criterion, open door</text>
+
+  <!-- move 1: steelman -->
+  <rect x="40" y="104" width="152" height="80" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="100" cy="132" r="3" fill="#787878"/>
+  <circle cx="112" cy="124" r="3" fill="#787878"/>
+  <circle cx="124" cy="116" r="3" fill="#787878"/>
+  <line x1="94" y1="138" x2="130" y2="112" stroke="#787878" stroke-width="0.75"/>
+  <text x="116" y="156" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Steelman</text>
+  <text x="116" y="172" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">its case, full strength</text>
+
+  <line x1="192" y1="144" x2="208" y2="144" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- move 2: countervailing evidence -->
+  <rect x="212" y="104" width="152" height="80" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <path d="M 268 114 q 10 18 40 20" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <text x="288" y="156" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Countervailing evidence</text>
+  <text x="288" y="172" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">decay + crowding-out</text>
+
+  <line x1="364" y1="144" x2="380" y2="144" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- move 3: criterion (highlighted decision) -->
+  <polygon points="384,144 428,108 472,144 428,180" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="428" y="148" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">Criterion</text>
+  <text x="428" y="202" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">durable learning for these learners</text>
+
+  <line x1="472" y1="144" x2="488" y2="144" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- move 4: open door -->
+  <rect x="492" y="104" width="172" height="80" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="552" y="112" width="28" height="36" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <line x1="580" y1="112" x2="594" y2="106" stroke="#787878" stroke-width="1.5"/>
+  <path d="M 580 120 a 16 16 0 0 1 14 -14" fill="none" stroke="#787878" stroke-width="0.75" stroke-dasharray="3 3"/>
+  <rect x="602" y="130" width="14" height="14" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <line x1="602" y1="134" x2="616" y2="134" stroke="#787878" stroke-width="0.75"/>
+  <text x="578" y="160" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Door left open</text>
+  <text x="578" y="176" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">re-test scheduled</text>
+
+  <!-- worked example: the declined leaderboard -->
+  <text x="40" y="232" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the declined leaderboard: real short-run engagement gains &#8594; novelty decay and crowded-out mastery goals &#8594; &#8220;no,&#8221; re-tested next cohort</text>
+
+  <!-- refused strawman: structural negation (half height, dashed, terminator) -->
+  <line x1="116" y1="184" x2="116" y2="252" stroke="#787878" stroke-width="0.75" stroke-dasharray="3 3"/>
+  <line x1="64" y1="258" x2="64" y2="286" stroke="#2a1a0e" stroke-width="1.5"/>
+  <rect x="76" y="252" width="120" height="40" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="136" y="269" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">strawman version</text>
+  <text x="136" y="283" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">refused</text>
+  <text x="212" y="276" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">a &#8220;no&#8221; that skips the steelman is decoration, not discipline</text>
+
+  <text x="32" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Four ordered moves, steelman first &#8212; and the door stays ajar, reopenable by a scheduled test.</text>
+</svg>

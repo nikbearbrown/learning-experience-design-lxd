@@ -1,0 +1,59 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 07-co-design-learners-as-design-partners - Figure 01
+  The Three-Layer Decision-Rights Split - layered hierarchy diagram - priority: Critical
+  Generated 2026-06-07 - source: pantry/07-co-design-learners-as-design-partners-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-01">
+  <title id="fig-title-01">The Three-Layer Decision-Rights Split — 07-co-design-learners-as-design-partners</title>
+  <desc>Three equal horizontal bands — experience, learning mechanism, ethics and constraints. Learner authority markers shrink from large to absent down the stack; evidence authority grows from small square to large square to a padlock. One learner request splits into all three layers at once.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="07-co-design-learners-as-design-partners" figure-number="01" figure-title="The Three-Layer Decision-Rights Split" figure-slug="three-layer-decision-rights-split" figure-type="layered-hierarchy-diagram" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/07-co-design-learners-as-design-partners-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="44" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 7.1 · The Three-Layer Decision-Rights Split</text>
+
+  <!-- request token -->
+  <polygon points="104,68 121,78 121,98 104,108 87,98 87,78" fill="#C8102E"/>
+  <text x="132" y="84" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">one learner request</text>
+  <text x="132" y="99" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">“drop the spaced quizzes” — it touches every layer</text>
+
+  <!-- distribution arrows: one per band, equal weight -->
+  <path d="M104,110 V160 H164" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M104,110 V240 H164" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M104,110 V320 H164" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- authority axis headers -->
+  <text x="200" y="118" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">learner authority</text>
+  <text x="612" y="118" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">evidence &amp; constraint authority</text>
+
+  <!-- band 1: experience layer -->
+  <rect x="170" y="128" width="450" height="64" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="210" cy="160" r="13" fill="#2a1a0e"/>
+  <text x="245" y="152" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">EXPERIENCE LAYER</text>
+  <text x="245" y="168" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">pacing, examples, tone, format —</text>
+  <text x="245" y="181" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">learners hold presumptive authority</text>
+  <rect x="580" y="155" width="10" height="10" fill="#2a1a0e"/>
+
+  <!-- band 2: learning-mechanism layer -->
+  <rect x="170" y="208" width="450" height="64" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="210" cy="240" r="5" fill="#2a1a0e"/>
+  <text x="245" y="232" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">LEARNING-MECHANISM LAYER</text>
+  <text x="245" y="248" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">retrieval, spacing, difficulty —</text>
+  <text x="245" y="261" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">published evidence holds authority</text>
+  <rect x="574" y="229" width="22" height="22" fill="#2a1a0e"/>
+
+  <!-- band 3: ethics and constraints layer -->
+  <rect x="170" y="288" width="450" height="64" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="210" cy="320" r="10" fill="none" stroke="#ADADAD" stroke-width="1" stroke-dasharray="3 3"/>
+  <text x="245" y="312" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">ETHICS &amp; CONSTRAINTS LAYER</text>
+  <text x="245" y="328" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">privacy, budget, accreditation —</text>
+  <text x="245" y="341" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">disclosed, not negotiated</text>
+  <!-- padlock: disclosed, not negotiated -->
+  <rect x="576" y="316" width="18" height="14" fill="#2a1a0e"/>
+  <path d="M580,316 v-4 a5,5 0 0 1 10,0 v4" fill="none" stroke="#2a1a0e" stroke-width="2"/>
+
+  <text x="32" y="388" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">One request distributes across all three layers at once; who decides differs by layer. Dashed circle = learner authority absent.</text>
+  <text x="32" y="402" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Marker size shows inferred emphasis from the chapter’s “presumptive authority” language, not a measured quantity.</text>
+</svg>

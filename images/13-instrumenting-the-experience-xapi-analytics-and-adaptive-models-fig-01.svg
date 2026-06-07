@@ -1,0 +1,82 @@
+<!--
+  Experience Design for EdTech — Chapter 13, Figure 01
+  Two dashboards, one course: SCORM vs. xAPI data visibility
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-13-01">
+  <title id="fig-title-13-01">Two dashboards, one course: SCORM vs. xAPI data visibility — 13-instrumenting-the-experience-xapi-analytics-and-adaptive-models</title>
+  <desc>Side-by-side comparison: a SCORM report of three inert summary tiles (completion, score, time) versus an xAPI event timeline of the same course, where dots reveal repeated attempts, help requested before a first attempt, and a skipped activity.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="13-instrumenting-the-experience-xapi-analytics-and-adaptive-models" figure-number="01" figure-title="Two dashboards, one course: SCORM vs. xAPI data visibility" figure-slug="scorm-vs-xapi-data-visibility" figure-type="comparison panels" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/13-instrumenting-the-experience-xapi-analytics-and-adaptive-models-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Two dashboards, one course: SCORM vs. xAPI data visibility</text>
+
+  <!-- Left panel: SCORM -->
+  <rect x="32" y="64" width="306" height="292" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="185" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">SCORM report</text>
+
+  <rect x="56" y="104" width="258" height="64" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="92" cy="136" r="12" fill="#787878"/>
+  <text x="120" y="132" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Completion</text>
+  <text x="120" y="150" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">one status word per learner</text>
+
+  <rect x="56" y="184" width="258" height="64" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <path d="M 76 226 A 16 16 0 0 1 108 226" fill="none" stroke="#787878" stroke-width="3"/>
+  <line x1="92" y1="226" x2="101" y2="214" stroke="#787878" stroke-width="1.5"/>
+  <text x="120" y="212" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Final score</text>
+  <text x="120" y="230" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">one number, no context</text>
+
+  <rect x="56" y="264" width="258" height="64" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="92" cy="296" r="13" fill="#FFFFFF" stroke="#787878" stroke-width="2"/>
+  <line x1="92" y1="296" x2="92" y2="287" stroke="#787878" stroke-width="1.5"/>
+  <line x1="92" y1="296" x2="99" y2="299" stroke="#787878" stroke-width="1.5"/>
+  <text x="120" y="292" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Time in module</text>
+  <text x="120" y="310" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">minutes, summed</text>
+
+  <!-- Right panel: xAPI -->
+  <rect x="362" y="64" width="306" height="292" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="515" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">xAPI event stream</text>
+
+  <line x1="386" y1="248" x2="644" y2="248" stroke="#2a1a0e" stroke-width="1"/>
+  <!-- regular events -->
+  <circle cx="394" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="408" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="422" cy="248" r="3" fill="#C8102E"/>
+  <!-- dense cluster: repeated attempts -->
+  <circle cx="438" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="444" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="450" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="456" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="462" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="468" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="484" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="498" cy="248" r="3" fill="#C8102E"/>
+  <!-- help (hollow) before first attempt (filled) -->
+  <circle cx="514" cy="248" r="4" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <circle cx="530" cy="248" r="3" fill="#C8102E"/>
+  <!-- skipped segment -->
+  <rect x="548" y="238" width="52" height="20" rx="0" fill="none" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <circle cx="614" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="628" cy="248" r="3" fill="#C8102E"/>
+  <circle cx="642" cy="248" r="3" fill="#C8102E"/>
+
+  <!-- callouts -->
+  <text x="453" y="128" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">repeated attempts</text>
+  <text x="453" y="142" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">on one activity</text>
+  <line x1="453" y1="148" x2="453" y2="242" stroke="#787878" stroke-width="0.75"/>
+
+  <text x="534" y="168" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">help requested</text>
+  <text x="534" y="182" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">before first attempt</text>
+  <line x1="532" y1="186" x2="518" y2="241" stroke="#787878" stroke-width="0.75"/>
+
+  <line x1="574" y1="260" x2="574" y2="300" stroke="#787878" stroke-width="0.75"/>
+  <text x="574" y="314" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">activity skipped</text>
+
+  <text x="515" y="336" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">each dot: one recorded statement</text>
+
+  <!-- connecting arrow -->
+  <text x="350" y="380" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the same learners, republished with richer instrumentation</text>
+  <line x1="140" y1="392" x2="560" y2="392" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="32" y="448" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">SCORM&#8217;s fixed vocabulary reports three aggregates; the xAPI stream reveals the patterns beneath them.</text>
+</svg>

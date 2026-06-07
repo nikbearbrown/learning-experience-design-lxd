@@ -1,0 +1,63 @@
+<!--
+  Experience Design for EdTech — Chapter 13, Figure 04
+  The IRT logistic curve: ability, difficulty, discrimination
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+  Axis note: y-axis is probability 0–1 with zero shown; x-axis is the latent
+  ability-minus-difficulty scale, anchored at its substantive reference point
+  (θ = b, the 0.5 crossing) — the documented exception to zero-origin.
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-13-04">
+  <title id="fig-title-13-04">The IRT logistic curve: ability, difficulty, discrimination — 13-instrumenting-the-experience-xapi-analytics-and-adaptive-models</title>
+  <desc>Two logistic curves: probability of a correct answer rises with ability minus difficulty, crossing 0.5 where ability equals difficulty. A steep curve (a = 1.5) discriminates sharply; a shallow curve (a = 0.5) discriminates weakly.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="13-instrumenting-the-experience-xapi-analytics-and-adaptive-models" figure-number="04" figure-title="The IRT logistic curve: ability, difficulty, discrimination" figure-slug="irt-logistic-curve" figure-type="statistical-quantitative" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/13-instrumenting-the-experience-xapi-analytics-and-adaptive-models-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The IRT logistic curve: ability, difficulty, discrimination</text>
+
+  <!-- plot region -->
+  <rect x="64" y="64" width="596" height="328" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- y ticks -->
+  <line x1="58" y1="392" x2="64" y2="392" stroke="#787878" stroke-width="0.75"/>
+  <line x1="58" y1="310" x2="64" y2="310" stroke="#787878" stroke-width="0.75"/>
+  <line x1="58" y1="228" x2="64" y2="228" stroke="#787878" stroke-width="0.75"/>
+  <line x1="58" y1="146" x2="64" y2="146" stroke="#787878" stroke-width="0.75"/>
+  <line x1="58" y1="64" x2="64" y2="64" stroke="#787878" stroke-width="0.75"/>
+  <text x="54" y="396" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="54" y="314" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0.25</text>
+  <text x="54" y="232" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0.50</text>
+  <text x="54" y="150" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0.75</text>
+  <text x="54" y="68" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">1.00</text>
+  <text x="24" y="228" transform="rotate(-90 24 228)" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">P(correct)</text>
+
+  <!-- x ticks -->
+  <line x1="123.6" y1="392" x2="123.6" y2="398" stroke="#787878" stroke-width="0.75"/>
+  <line x1="242.8" y1="392" x2="242.8" y2="398" stroke="#787878" stroke-width="0.75"/>
+  <line x1="362" y1="392" x2="362" y2="398" stroke="#787878" stroke-width="0.75"/>
+  <line x1="481.2" y1="392" x2="481.2" y2="398" stroke="#787878" stroke-width="0.75"/>
+  <line x1="600.4" y1="392" x2="600.4" y2="398" stroke="#787878" stroke-width="0.75"/>
+  <text x="123.6" y="412" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">-4</text>
+  <text x="242.8" y="412" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">-2</text>
+  <text x="362" y="412" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="481.2" y="412" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">2</text>
+  <text x="600.4" y="412" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">4</text>
+  <text x="362" y="432" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">ability &#8722; difficulty (&#952; &#8722; b), latent scale</text>
+
+  <!-- reference lines -->
+  <line x1="64" y1="228" x2="660" y2="228" stroke="#787878" stroke-width="0.75" stroke-dasharray="5 4"/>
+  <line x1="362" y1="228" x2="362" y2="392" stroke="#787878" stroke-width="0.75" stroke-dasharray="5 4"/>
+
+  <!-- shallow curve, a = 0.5 -->
+  <polyline points="64,367.1 123.6,352.9 183.2,332.2 242.8,303.8 302.4,268.2 362,228 421.6,187.8 481.2,152.2 540.8,123.8 600.4,103.1 660,88.9" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <!-- steep curve, a = 1.5 (highlighted) -->
+  <polyline points="64,391.8 123.6,391.2 183.2,388.4 213,384.5 242.8,376.5 272.6,360.7 302.4,332.2 332.2,286.7 362,228 391.8,169.3 421.6,123.8 451.4,95.3 481.2,79.5 511,71.5 540.8,67.6 600.4,64.8 660,64.2" fill="none" stroke="#C8102E" stroke-width="1.5"/>
+
+  <!-- shared crossing: hollow marker -->
+  <circle cx="362" cy="228" r="4.5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+
+  <text x="470" y="104" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#C8102E">a = 1.5 &#8212; high discrimination</text>
+  <text x="500" y="172" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">a = 0.5 &#8212; low discrimination</text>
+  <text x="374" y="252" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">P(correct) = 0.5 where &#952; = b</text>
+
+  <text x="32" y="460" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Both items cross 0.5 where ability meets difficulty; the discrimination parameter a sets the steepness.</text>
+</svg>

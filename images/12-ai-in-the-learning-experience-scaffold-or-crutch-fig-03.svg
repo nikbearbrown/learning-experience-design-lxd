@@ -1,0 +1,51 @@
+<!-- Figure 03 — The evidence map: strong where AI adds, thin where it substitutes · Chapter 12: AI in the Learning Experience · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-12-03">
+  <title id="fig-title-12-03">The evidence map: strong where AI adds, thin where it substitutes — 12-ai-in-the-learning-experience-scaffold-or-crutch</title>
+  <desc>Two-zone map: solid markers stand on a thick evidential ground band (formative feedback at scale, adaptive difficulty); hollow markers float over a thin band that dips below the baseline at its far end. An inset rectangle shows the causal fraction, about 20 of 800-plus studies.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="12-ai-in-the-learning-experience-scaffold-or-crutch" figure-number="03" figure-title="The evidence map: strong where AI adds, thin where it substitutes" figure-slug="evidence-map-strong-vs-thin" figure-type="conceptual-map" priority="important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/12-ai-in-the-learning-experience-scaffold-or-crutch-cajal.md"/></metadata>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The evidence map: strong where AI adds, thin where it substitutes</text>
+
+  <!-- proportional inset: the causal fraction (~2.5%) -->
+  <rect x="64" y="56" width="132" height="64" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <rect x="65" y="109" width="19" height="10.5" fill="#C8102E"/>
+  <text x="206" y="76" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">≈ 20 of 800+</text>
+  <text x="206" y="92" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454">studies in the field meet</text>
+  <text x="206" y="104" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454">causal-evidence standards (red area ≈ 2.5%)</text>
+
+  <!-- zone divider and headers -->
+  <line x1="340" y1="138" x2="340" y2="300" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="4 3"/>
+  <text x="72" y="150" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">ADDS LEARNING EVENTS</text>
+  <text x="352" y="150" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">SUBSTITUTES FOR COGNITIVE WORK</text>
+
+  <!-- ground bands -->
+  <rect x="64" y="272" width="276" height="28" fill="#787878"/>
+  <polygon points="340,290 600,295 600,300 340,300" fill="#ADADAD"/>
+  <!-- negative dip below baseline (structural negative) -->
+  <polygon points="600,300 655,300 655,318" fill="#ADADAD"/>
+  <text x="652" y="332" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454" text-anchor="end">tested harm: unguarded tutoring</text>
+
+  <!-- baseline -->
+  <line x1="64" y1="300" x2="660" y2="300" stroke="#2a1a0e" stroke-width="1"/>
+
+  <!-- evidenced use cases: solid, standing on thick ground -->
+  <circle cx="140" cy="265" r="7" fill="#2a1a0e"/>
+  <text x="140" y="236" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e" text-anchor="middle">formative feedback</text>
+  <text x="140" y="248" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e" text-anchor="middle">at scale</text>
+  <circle cx="255" cy="265" r="7" fill="#2a1a0e"/>
+  <text x="255" y="242" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e" text-anchor="middle">adaptive difficulty</text>
+
+  <!-- assumed use cases: hollow, floating above thin ground -->
+  <circle cx="385" cy="205" r="7" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <text x="385" y="178" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">tutoring as</text>
+  <text x="385" y="190" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">practice substitute</text>
+  <circle cx="465" cy="232" r="7" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <text x="465" y="258" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">AI curricula</text>
+  <circle cx="540" cy="196" r="7" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <text x="540" y="180" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">study companions</text>
+  <circle cx="622" cy="240" r="7" fill="#FFFFFF" stroke="#787878" stroke-width="1.5"/>
+  <text x="622" y="266" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">agentic frontier</text>
+
+  <text x="64" y="368" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Solid markers are evidenced use cases standing on thick ground; hollow markers are assumed ones floating over</text>
+  <text x="64" y="383" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">thin ground (marker count illustrative). The inset's red area honestly approximates the ≈2.5% causal fraction.</text>
+</svg>

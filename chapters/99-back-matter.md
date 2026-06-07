@@ -76,3 +76,9 @@
      (e.g., indexd, Word indexing tools) or a professional indexer. -->
 
 [INDEX PLACEHOLDER — omit for online release]
+
+---
+
+## References
+
+No references added by fact-check pass. (2026-06-07) The back matter is a template skeleton; all sections are placeholders and contain no factual assertions to verify. See `factchecks/99-back-matter-assertions.md`. When the References section is populated, re-run fact-check and propagate the Ch15 correction: *Transdisciplinary Learning Experience Design* (2025) is published by **Springer**, not Purdue University Press.

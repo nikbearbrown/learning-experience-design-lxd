@@ -1,0 +1,61 @@
+<!--
+  Experience Design for EdTech — Chapter 14, Figure 05
+  The satisfaction–learning dissociation: the Forward case in two charts
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+  Note: the right panel's whisker is schematic — the case reports
+  "statistically indistinguishable" with no interval; no effect size is drawn.
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-14-05">
+  <title id="fig-title-14-05">The satisfaction&#8211;learning dissociation: the Forward case in two charts — 14-evaluating-learning-experience-quality-beyond-the-smile-sheet</title>
+  <desc>Two panels with aligned zero lines: Forward's Net Promoter Score bar rises to 71 on the full -100 to +100 scale, while the 90-day performance difference is a flat bar on zero with a schematic uncertainty whisker — statistically indistinguishable from nothing.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="14-evaluating-learning-experience-quality-beyond-the-smile-sheet" figure-number="05" figure-title="The satisfaction&#8211;learning dissociation: the Forward case in two charts" figure-slug="satisfaction-learning-dissociation" figure-type="comparison panels" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/14-evaluating-learning-experience-quality-beyond-the-smile-sheet-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The satisfaction&#8211;learning dissociation: the Forward case in two charts</text>
+
+  <text x="200" y="62" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Satisfaction &#8212; Net Promoter Score</text>
+  <text x="500" y="62" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Learning &#8212; 90-day performance difference</text>
+
+  <!-- Panel A: NPS on full -100..+100 scale -->
+  <rect x="88" y="72" width="224" height="272" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <g stroke="#787878" stroke-width="0.75">
+    <line x1="82" y1="80" x2="88" y2="80"/>
+    <line x1="82" y1="144" x2="88" y2="144"/>
+    <line x1="82" y1="208" x2="88" y2="208"/>
+    <line x1="82" y1="272" x2="88" y2="272"/>
+    <line x1="82" y1="336" x2="88" y2="336"/>
+  </g>
+  <text x="78" y="84" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">+100</text>
+  <text x="78" y="148" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">+50</text>
+  <text x="78" y="212" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="78" y="276" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">-50</text>
+  <text x="78" y="340" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">-100</text>
+  <line x1="88" y1="208" x2="312" y2="208" stroke="#787878" stroke-width="1"/>
+  <rect x="168" y="117.1" width="64" height="90.9" fill="#C8102E"/>
+  <text x="200" y="109" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">NPS 71</text>
+
+  <!-- Panel B: difference scale centered at zero; no fabricated magnitude -->
+  <rect x="388" y="72" width="224" height="272" rx="0" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <g stroke="#787878" stroke-width="0.75">
+    <line x1="382" y1="80" x2="388" y2="80"/>
+    <line x1="382" y1="144" x2="388" y2="144"/>
+    <line x1="382" y1="208" x2="388" y2="208"/>
+    <line x1="382" y1="272" x2="388" y2="272"/>
+    <line x1="382" y1="336" x2="388" y2="336"/>
+  </g>
+  <text x="378" y="212" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <line x1="388" y1="208" x2="612" y2="208" stroke="#787878" stroke-width="1"/>
+  <!-- flat cap on zero -->
+  <rect x="468" y="205" width="64" height="3" fill="#2a1a0e"/>
+  <!-- schematic whisker straddling zero -->
+  <line x1="500" y1="178" x2="500" y2="238" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="494" y1="178" x2="506" y2="178" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="494" y1="238" x2="506" y2="238" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="500" y="262" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">indistinguishable from zero</text>
+
+  <text x="200" y="366" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">what was measured loudly</text>
+  <text x="500" y="366" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">what was measured honestly</text>
+
+  <text x="32" y="398" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">NPS 71 is beloved-brand territory; 90-day performance is indistinguishable from the old program&#8217;s.</text>
+  <text x="32" y="412" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The whisker is schematic &#8212; the case reports no interval.</text>
+</svg>

@@ -1,0 +1,95 @@
+<!--
+  Experience Design for EdTech — Chapter 15, Figure 03
+  Portfolio anatomy: how the dossier assembles into one argument
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-15-03">
+  <title id="fig-title-15-03">Portfolio anatomy: how the dossier assembles into one argument — 15-the-full-redesign-one-experience-every-decision</title>
+  <desc>Schematic: brief at top, a central decision spine of seven traces (one a defended "no" with a blocking terminator), artifacts attached left, open ledger and Evidence Disclosure attached right, and two conclusion registers at the bottom.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="15-the-full-redesign-one-experience-every-decision" figure-number="03" figure-title="Portfolio anatomy: how the dossier assembles into one argument" figure-slug="portfolio-anatomy" figure-type="structural schematic" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/15-the-full-redesign-one-experience-every-decision-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Portfolio anatomy: how the dossier assembles into one argument</text>
+
+  <!-- brief -->
+  <rect x="258" y="64" width="184" height="40" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="82" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Brief</text>
+  <text x="350" y="97" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the problem + constraints</text>
+
+  <line x1="350" y1="104" x2="350" y2="124" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <text x="480" y="140" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">decision spine &#8212; six to ten traces</text>
+
+  <!-- decision spine: seven trace segments, diamonds = decisions (highlighted) -->
+  <g fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1">
+    <rect x="280" y="132" width="104" height="16" rx="0"/>
+    <rect x="280" y="162" width="104" height="16" rx="0"/>
+    <rect x="280" y="192" width="104" height="16" rx="0"/>
+    <rect x="280" y="252" width="104" height="16" rx="0"/>
+    <rect x="280" y="282" width="104" height="16" rx="0"/>
+    <rect x="280" y="312" width="104" height="16" rx="0"/>
+  </g>
+  <polygon points="398,133 405,140 398,147 391,140" fill="#C8102E"/>
+  <polygon points="398,163 405,170 398,177 391,170" fill="#C8102E"/>
+  <polygon points="398,193 405,200 398,207 391,200" fill="#C8102E"/>
+  <polygon points="398,253 405,260 398,267 391,260" fill="#C8102E"/>
+  <polygon points="398,283 405,290 398,297 391,290" fill="#C8102E"/>
+  <polygon points="398,313 405,320 398,327 391,320" fill="#C8102E"/>
+  <!-- the required "no": ochre decorative border, blocking terminator -->
+  <rect x="280" y="222" width="104" height="16" rx="0" fill="#FFFFFF" stroke="#C8860E" stroke-width="1.5"/>
+  <line x1="396" y1="218" x2="396" y2="242" stroke="#2a1a0e" stroke-width="1.5"/>
+  <line x1="404" y1="230" x2="468" y2="230" stroke="#787878" stroke-width="0.75"/>
+  <text x="474" y="234" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">at least one defended &#8220;no&#8221;</text>
+
+  <!-- artifacts (left) -->
+  <rect x="96" y="132" width="56" height="56" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <line x1="106" y1="148" x2="142" y2="148" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="106" y1="160" x2="142" y2="160" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="106" y1="172" x2="132" y2="172" stroke="#ADADAD" stroke-width="2"/>
+  <rect x="96" y="216" width="56" height="56" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <line x1="106" y1="232" x2="142" y2="232" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="106" y1="244" x2="142" y2="244" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="106" y1="256" x2="132" y2="256" stroke="#ADADAD" stroke-width="2"/>
+  <rect x="96" y="288" width="56" height="56" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <line x1="106" y1="304" x2="142" y2="304" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="106" y1="316" x2="142" y2="316" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="106" y1="328" x2="132" y2="328" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="152" y1="160" x2="280" y2="170" stroke="#787878" stroke-width="0.75"/>
+  <line x1="152" y1="244" x2="280" y2="260" stroke="#787878" stroke-width="0.75"/>
+  <line x1="152" y1="316" x2="280" y2="320" stroke="#787878" stroke-width="0.75"/>
+  <text x="124" y="368" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">artifacts &#8212; captioned by</text>
+  <text x="124" y="382" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the decision they served</text>
+
+  <!-- open ledger (right) -->
+  <line x1="404" y1="180" x2="480" y2="180" stroke="#787878" stroke-width="0.75"/>
+  <rect x="480" y="148" width="172" height="64" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="496" y="166" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Open ledger</text>
+  <line x1="496" y1="178" x2="560" y2="178" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="496" y1="186" x2="560" y2="186" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="496" y1="194" x2="560" y2="194" stroke="#ADADAD" stroke-width="2" stroke-dasharray="3 3"/>
+  <rect x="576" y="176" width="16" height="16" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <line x1="576" y1="181" x2="592" y2="181" stroke="#787878" stroke-width="1"/>
+  <text x="496" y="206" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">tests scheduled, not hoped</text>
+
+  <!-- evidence disclosure (right) -->
+  <line x1="404" y1="276" x2="480" y2="276" stroke="#787878" stroke-width="0.75"/>
+  <rect x="480" y="244" width="172" height="64" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="496" y="262" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Evidence Disclosure</text>
+  <rect x="496" y="270" width="64" height="18" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <rect x="520" y="270" width="12" height="18" fill="#ADADAD"/>
+  <text x="496" y="302" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the argument&#8217;s spine, exposed</text>
+
+  <!-- flow to conclusion registers -->
+  <line x1="350" y1="328" x2="350" y2="348" stroke="#2a1a0e" stroke-width="1.5"/>
+  <line x1="350" y1="348" x2="254" y2="368" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="350" y1="348" x2="446" y2="368" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <rect x="170" y="372" width="160" height="60" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="250" y="396" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Technical conclusion</text>
+  <text x="250" y="414" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">for the methodologist</text>
+  <rect x="370" y="372" width="160" height="60" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="450" y="396" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Stakeholder conclusion</text>
+  <text x="450" y="414" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">for the decision meeting</text>
+
+  <text x="32" y="504" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The dossier assembles around the decision spine, not the artifact pile &#8212; and the spine must contain a &#8220;no.&#8221;</text>
+</svg>

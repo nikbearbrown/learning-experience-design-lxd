@@ -1,0 +1,60 @@
+<!--
+  Experience Design for EdTech — Chapter 15, Figure 06
+  The book's arc: from the trap to the redesign and back
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-15-06">
+  <title id="fig-title-15-06">The book&#8217;s arc: from the trap to the redesign and back — 15-the-full-redesign-one-experience-every-decision</title>
+  <desc>Open conceptual cycle: trap, diagnose, design, instrument, evaluate, defend — joined by clockwise arrows, with a dashed bridge running backward from the defense to the trap, which the reader can now diagnose. The circle stays open.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="15-the-full-redesign-one-experience-every-decision" figure-number="06" figure-title="The book&#8217;s arc: from the trap to the redesign and back" figure-slug="book-arc" figure-type="conceptual map" priority="Supplementary" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/15-the-full-redesign-one-experience-every-decision-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrowRed" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#C8102E"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The book&#8217;s arc: from the trap to the redesign and back</text>
+
+  <!-- n1: the trap -->
+  <rect x="88" y="96" width="160" height="56" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="168" y="118" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">The trap</text>
+  <text x="168" y="136" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">five stars, flat learning</text>
+
+  <!-- n2: diagnose -->
+  <rect x="270" y="64" width="160" height="56" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="86" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Diagnose</text>
+  <text x="350" y="104" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">what do ratings measure?</text>
+
+  <!-- n3: design -->
+  <rect x="452" y="96" width="160" height="56" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="532" y="118" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Design</text>
+  <text x="532" y="136" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">decided against evidence</text>
+
+  <!-- n4: instrument -->
+  <rect x="480" y="248" width="160" height="56" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="560" y="270" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Instrument</text>
+  <text x="560" y="288" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">events &#8594; record store</text>
+
+  <!-- n5: evaluate -->
+  <rect x="270" y="312" width="160" height="56" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="334" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Evaluate</text>
+  <text x="350" y="352" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">three layers, two registers</text>
+
+  <!-- n6: defend -->
+  <rect x="60" y="248" width="160" height="56" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="140" y="270" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Defend</text>
+  <text x="140" y="288" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">a spine with one &#8220;no&#8221;</text>
+
+  <!-- clockwise arc arrows -->
+  <line x1="248" y1="110" x2="264" y2="100" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="430" y1="100" x2="446" y2="110" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="538" y1="156" x2="556" y2="242" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="498" y1="308" x2="438" y2="330" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="264" y1="334" x2="226" y2="300" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- the arc stays open between defend and the trap; only the dashed bridge crosses -->
+  <path d="M 150 244 C 230 210 230 192 176 158" fill="none" stroke="#C8102E" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowRed)"/>
+  <text x="262" y="196" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the bridge runs backward:</text>
+  <text x="262" y="210" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the reader can now diagnose the trap</text>
+
+  <text x="32" y="448" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">One arc &#8212; trap, diagnosis, design, instrumentation, evaluation, defense &#8212; and a bridge running backward.</text>
+</svg>

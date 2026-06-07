@@ -1,0 +1,80 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 07-co-design-learners-as-design-partners - Figure 02
+  The Participation Spectrum: Theater, Extraction, Partnership - three-panel comparison - priority: Important
+  Generated 2026-06-07 - source: pantry/07-co-design-learners-as-design-partners-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">The Participation Spectrum: Theater, Extraction, Partnership — 07-co-design-learners-as-design-partners</title>
+  <desc>Three identical panels — focus-group theater, requirements-gathering, co-design — each with a designer diamond, a central decision circle, and four learner circles. Only the co-design panel shows an open decision that arrows from both designer and learners can reach.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="07-co-design-learners-as-design-partners" figure-number="02" figure-title="The Participation Spectrum: Theater, Extraction, Partnership" figure-slug="participation-spectrum-theater-extraction-partnership" figure-type="three-panel-comparison" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/07-co-design-learners-as-design-partners-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrow-gray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#787878"/></marker>
+    <marker id="arrow-red" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#C8102E"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 7.2 · The Participation Spectrum: Theater, Extraction, Partnership</text>
+
+  <!-- panel 1: focus-group theater -->
+  <rect x="32" y="58" width="200" height="290" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="132" y="78" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">FOCUS-GROUP THEATER</text>
+  <polygon points="132,100 144,112 132,124 120,112" fill="#2a1a0e"/>
+  <circle cx="132" cy="196" r="26" fill="#ADADAD" stroke="#787878" stroke-width="1"/>
+  <rect x="124" y="194" width="16" height="12" fill="#2a1a0e"/>
+  <path d="M127,194 v-4 a5,5 0 0 1 10,0 v4" fill="none" stroke="#2a1a0e" stroke-width="2"/>
+  <path d="M144,116 Q200,196 180,266" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <circle cx="87" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="117" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="147" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="177" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="132" y="316" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">decision closed before</text>
+  <text x="132" y="330" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">learners enter the room</text>
+
+  <!-- panel 2: requirements-gathering -->
+  <rect x="250" y="58" width="200" height="290" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="78" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">REQUIREMENTS-GATHERING</text>
+  <polygon points="350,100 362,112 350,124 338,112" fill="#2a1a0e"/>
+  <circle cx="350" cy="196" r="26" fill="#ADADAD" stroke="#787878" stroke-width="1"/>
+  <rect x="342" y="194" width="16" height="12" fill="#2a1a0e"/>
+  <path d="M345,194 v-4 a5,5 0 0 1 10,0 v4" fill="none" stroke="#2a1a0e" stroke-width="2"/>
+  <path d="M305,272 Q288,180 340,118" fill="none" stroke="#787878" stroke-width="1" marker-end="url(#arrow-gray)"/>
+  <path d="M335,272 Q300,190 342,122" fill="none" stroke="#787878" stroke-width="1" marker-end="url(#arrow-gray)"/>
+  <path d="M365,272 Q400,190 358,122" fill="none" stroke="#787878" stroke-width="1" marker-end="url(#arrow-gray)"/>
+  <path d="M395,272 Q412,180 360,118" fill="none" stroke="#787878" stroke-width="1" marker-end="url(#arrow-gray)"/>
+  <circle cx="305" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="335" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="365" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="395" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="350" y="316" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">learner input flows up;</text>
+  <text x="350" y="330" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the decision stays closed</text>
+
+  <!-- panel 3: co-design -->
+  <rect x="468" y="58" width="200" height="290" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="568" y="78" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">CO-DESIGN</text>
+  <polygon points="568,100 580,112 568,124 556,112" fill="#2a1a0e"/>
+  <circle cx="568" cy="196" r="26" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <path d="M568,126 L568,164" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M523,272 L549,221" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M553,272 L560,227" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M583,272 L576,227" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <path d="M613,272 L587,221" fill="none" stroke="#C8102E" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+  <circle cx="523" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="553" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="583" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="613" cy="282" r="8" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="568" y="316" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the decision is open —</text>
+  <text x="568" y="330" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">contributions can move it</text>
+
+  <!-- legend -->
+  <polygon points="150,358 158,366 150,374 142,366" fill="#2a1a0e"/>
+  <text x="166" y="370" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">designer</text>
+  <circle cx="252" cy="366" r="6" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="264" y="370" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">learners</text>
+  <circle cx="350" cy="366" r="8" fill="#ADADAD" stroke="#787878" stroke-width="1"/>
+  <text x="364" y="370" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">decision (gray + lock = closed)</text>
+  <circle cx="552" cy="366" r="8" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="566" y="370" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">decision open</text>
+
+  <text x="32" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The structural test: is any design decision still open when learners enter, and can their contributions move it? Only the right panel passes.</text>
+</svg>

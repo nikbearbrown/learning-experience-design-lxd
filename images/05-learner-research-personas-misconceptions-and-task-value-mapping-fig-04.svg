@@ -1,0 +1,50 @@
+<!-- Experience Design for EdTech · Chapter 05: Learner Research — Figure 04: The Procedural–Conceptual Gap · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">The Procedural–Conceptual Gap — 05-learner-research-personas-misconceptions-and-task-value-mapping</title>
+  <desc>Schematic scatter, both axes from zero: procedural accuracy across, conceptual accuracy up, with a dashed identity diagonal. Three highlighted dots cluster far below the diagonal at high procedure and low concept; one mid dot sits slightly below; one hollow dot is low on both. The off-diagonal zone is hatched.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="05-learner-research-personas-misconceptions-and-task-value-mapping" figure-number="04" figure-title="The Procedural–Conceptual Gap" figure-slug="procedural-conceptual-gap" figure-type="statistical-quantitative-scatter" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/05-learner-research-personas-misconceptions-and-task-value-mapping-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <pattern id="hatch-zone" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#D4D4D4" stroke-width="1"/></pattern>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Procedural–Conceptual Gap</text>
+
+  <!-- plot region -->
+  <rect x="96" y="56" width="544" height="284" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- discordance zone below the diagonal (structural: hatched) -->
+  <path d="M 96 340 L 612 84 L 612 340 Z" fill="url(#hatch-zone)"/>
+
+  <!-- identity diagonal -->
+  <line x1="96" y1="340" x2="612" y2="84" stroke="#787878" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="510" y="116" transform="rotate(-27 510 116)" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">procedure = concept</text>
+
+  <!-- honesty marker -->
+  <text x="104" y="74" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#545454">n = 5 · positions qualitative, not scored</text>
+
+  <!-- dots: low-both (hollow), mid (gray), cluster (highlighted) -->
+  <circle cx="180" cy="312" r="7" fill="#F5F5F5" stroke="#787878" stroke-width="1.5"/>
+  <circle cx="410" cy="212" r="7" fill="#787878"/>
+  <circle cx="500" cy="270" r="7" fill="#C8102E"/>
+  <circle cx="532" cy="288" r="7" fill="#C8102E"/>
+  <circle cx="508" cy="302" r="7" fill="#C8102E"/>
+
+  <!-- cluster annotation -->
+  <text x="332" y="232" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">3 of 5: flawless test execution,</text>
+  <text x="332" y="246" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">p-value = “the chance you’re wrong”</text>
+  <line x1="472" y1="252" x2="494" y2="266" stroke="#D4D4D4" stroke-width="1"/>
+
+  <!-- zone label -->
+  <text x="430" y="330" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">correct execution conceals wrong understanding</text>
+
+  <!-- axes from zero with arrowheads -->
+  <line x1="96" y1="340" x2="648" y2="340" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="96" y1="340" x2="96" y2="48" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="88" y="352" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="368" y="368" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">procedural accuracy (hypothesis-test execution)</text>
+  <text x="70" y="198" text-anchor="middle" transform="rotate(-90 70 198)" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">conceptual accuracy (p-value explanation)</text>
+
+  <!-- caption -->
+  <text x="32" y="404" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Executing the procedure and understanding the concept are different constructs — an assessment that cannot separate them misses the cluster.</text>
+</svg>

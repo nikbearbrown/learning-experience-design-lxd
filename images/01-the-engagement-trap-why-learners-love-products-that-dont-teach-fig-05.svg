@@ -1,0 +1,61 @@
+<!--
+  Figure: The Market Selection Loop
+  Book: Experience Design for EdTech
+  Chapter: 01-the-engagement-trap-why-learners-love-products-that-dont-teach
+  Figure number: 05 | Type: cycle diagram | Priority: Supplementary
+  Date generated: 2026-06-07
+  Source: pantry/01-the-engagement-trap-why-learners-love-products-that-dont-teach-cajal.md
+-->
+<svg viewBox="0 0 700 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch01-05">
+  <title id="fig-title-ch01-05">The Market Selection Loop — 01-the-engagement-trap-why-learners-love-products-that-dont-teach</title>
+  <desc>Iterated A/B testing on observable engagement metrics selects for fluent, pleasant designs and against evidence-backed difficulty, producing products that don't teach without anyone intending it — learning sits outside the loop's measurement.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="01-the-engagement-trap-why-learners-love-products-that-dont-teach" figure-number="05" figure-title="The Market Selection Loop" figure-slug="the-market-selection-loop" figure-type="cycle-diagram" priority="Supplementary" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/01-the-engagement-trap-why-learners-love-products-that-dont-teach-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <!-- Title + subtitle -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Market Selection Loop</text>
+  <text x="32" y="58" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">iterated A/B optimization selects for what it can measure</text>
+
+  <!-- Cycle nodes -->
+  <rect x="200" y="133" width="140" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="270" y="159" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">generate variants</text>
+
+  <rect x="338" y="233" width="140" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="408" y="259" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">run the A/B test</text>
+
+  <rect x="300" y="395" width="140" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="370" y="413" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">engagement</text>
+  <text x="370" y="429" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">metrics rise</text>
+
+  <rect x="100" y="395" width="140" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="170" y="421" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">ship the winner</text>
+
+  <rect x="62" y="233" width="140" height="44" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="132" y="259" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">iterate on the winner</text>
+
+  <!-- Cycle arrows (clockwise, unbroken) -->
+  <line x1="302" y1="180" x2="372" y2="228" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="402" y1="281" x2="375" y2="391" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="296" y1="417" x2="244" y2="417" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="165" y1="391" x2="138" y2="282" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="165" y1="231" x2="236" y2="180" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Center note -->
+  <text x="270" y="292" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">the loop optimizes</text>
+  <text x="270" y="308" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">what it can see</text>
+
+  <!-- The gap: nothing connects the loop to learning -->
+  <line x1="444" y1="421" x2="477" y2="421" stroke="#ADADAD" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="483" y1="413" x2="483" y2="429" stroke="#2a1a0e" stroke-width="1.5"/>
+
+  <!-- Learning outcomes: outside the loop, touched by nothing -->
+  <polygon points="500,425 537,380 613,380 650,425 613,470 537,470" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="575" y="423" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">learning outcomes</text>
+  <text x="575" y="441" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">unmeasured</text>
+
+  <!-- Caption -->
+  <text x="32" y="508" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Each cycle ships whichever variant moves the observable metrics; learning, unmeasured, never touches</text>
+  <text x="32" y="524" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the loop. Nobody intends the outcome &#8212; selection on visible signals produces it (stages inferred).</text>
+</svg>

@@ -231,7 +231,7 @@ The competitive landscape is clean:
 - *Make It Stick* teaches the science with no design method.
 - Cohn & Greer apply UX to online courses only — one delivery mode,
   no measurement layer.
-- The Purdue 2025 edited volume is a research reader, not a
+- The Springer 2025 edited volume is a research reader, not a
   teachable arc.
 
 The gap this book fills: no course textbook teaches the
@@ -271,8 +271,8 @@ apps, simulations, XR, AI tutors) and adds the evidence and
 measurement layers — for programs training designers of learning
 products, not only online courses."
 
-**vs. *Transdisciplinary Learning Experience Design* (Purdue UP, 2025):**
-"Unlike the Purdue edited volume, which collects research treating
+**vs. *Transdisciplinary Learning Experience Design* (Springer, 2025):**
+"Unlike the Springer edited volume, which collects research treating
 LXD as an emerging canonical discipline, this book converts that
 research into a teachable 15-week capability arc with a studio
 thread and graded deliverables — the course the research volume
@@ -846,10 +846,11 @@ novelty distraction — including the touch-tank counterfinding.
 4. (Evaluate / Track B) Make and disclose the modality decision for
    their studio project.
 
-**Opening:** Live touch tanks versus 360° VR of the same habitat:
-the hands-on lesson outperforms the VR lesson by 31% — and the
-mechanism analysis explains exactly why the more impressive medium
-taught less.
+**Opening:** A hands-on oyster-reef lesson (live touch tanks) versus
+a headset 360° video of the same habitat (Walters et al. 2026):
+both teach, but hands-on outscores the video by 31% — the chapter
+supplies the load-and-novelty mechanism theory the gap demands, and
+carries the study's own conclusion that combining the media is best.
 
 **Core content:** The XR evidence (moderate average effects, strong
 moderators); embodied cognition — functionally aligned action vs.
@@ -1133,7 +1134,7 @@ primary literature in the Evidence Boxes.
 | LXD is a distinct discipline | Disputed | Honest framing: emerging, borrowing without consolidation; the rebranding critique presented fairly (Week 2) |
 | UDL improves learning outcomes | Contested | Accessibility as obligation regardless; UDL learning claims labeled by evidence status; complements named (Week 9) |
 | Gamification works | Heterogeneous | g = 0.782 average WITH negative-effect studies named; SDT-alignment as the moderator (Week 10) |
-| Immersion improves learning | Conditional | Moderate effects with strong moderators; the 31% counterfinding taught, not buried (Week 11) |
+| Immersion improves learning | Conditional | Moderate effects with strong moderators; the 31% hands-on-vs-360°-video counterfinding (Walters et al. 2026: single study, n = 79, whose authors recommend combining the media) taught, not buried (Week 11) |
 | AI tutoring helps learning | Cautionary | The 17%-worse RCT as benchmark; "currently" qualifier on all AI claims; scaffold/crutch as the design frame (Week 12) |
 | Enjoyable ≠ effective is resolvable by measurement | Open | Cognitive vs. behavioral engagement as best current practice; measurement frameworks not yet standardized — stated as an open problem (Weeks 13–14) |
 
@@ -1188,7 +1189,7 @@ Five comparable texts analyzed in Part 4. The competitive position
 is clean: Floor has the philosophy without the evidence; Dirksen
 has heuristics without the process or the post-2024 findings;
 *Make It Stick* has science without design; Cohn & Greer have one
-delivery mode; the Purdue volume is a reader, not a course.
+delivery mode; the Springer volume is a reader, not a course.
 
 **Market size estimate:**
 Graduate LXD/learning design/EdTech programs across the three lanes:

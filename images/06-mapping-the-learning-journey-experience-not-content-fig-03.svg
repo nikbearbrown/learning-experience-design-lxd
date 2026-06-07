@@ -1,0 +1,56 @@
+<!-- Experience Design for EdTech · Chapter 06: Mapping the Learning Journey — Figure 03: Where Budgets Cross: The Stacking Mechanism · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-03">
+  <title id="fig-title-03">Where Budgets Cross: The Stacking Mechanism — 06-mapping-the-learning-journey-experience-not-content</title>
+  <desc>Schematic, no measured data: three budget lines — working memory, motivational reserve, cost tolerance — decline over eight weeks and dip below a dashed depletion threshold together only in week 3, marked by a vertical band continuing into a lower plot where an attrition step-line drops in the same segment.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="06-mapping-the-learning-journey-experience-not-content" figure-number="03" figure-title="Where Budgets Cross: The Stacking Mechanism" figure-slug="where-budgets-cross-stacking-mechanism" figure-type="statistical-conceptual-mechanism" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/06-mapping-the-learning-journey-experience-not-content-cajal.md"/></metadata>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Where Budgets Cross: The Stacking Mechanism</text>
+
+  <!-- joint-crossing band (structural, spans both plots) -->
+  <text x="266" y="58" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">week 3: the joint crossing</text>
+  <rect x="232" y="64" width="68" height="336" fill="#2a1a0e" opacity="0.05"/>
+  <rect x="232" y="64" width="68" height="336" fill="none" stroke="#2a1a0e" stroke-width="1" stroke-dasharray="6 4"/>
+
+  <!-- upper plot: the three budgets -->
+  <rect x="96" y="64" width="544" height="186" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75" fill-opacity="0.6"/>
+  <text x="632" y="80" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#545454">schematic — no measured data</text>
+
+  <!-- depletion threshold -->
+  <line x1="96" y1="228" x2="640" y2="228" stroke="#787878" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="100" y="222" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">depletion threshold</text>
+
+  <!-- budget lines (distinguished by stroke treatment, direct-labeled) -->
+  <path d="M 96 100 C 150 105 190 115 225 150 C 245 185 252 235 266 240 C 282 243 300 210 330 190 C 400 165 540 160 640 160" fill="none" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="636" y="153" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e">working memory</text>
+
+  <path d="M 96 120 C 160 128 200 140 230 170 C 248 200 258 232 272 238 C 290 242 310 215 340 207 C 420 195 560 193 640 192" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <text x="636" y="188" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#787878">motivational reserve</text>
+
+  <path d="M 96 135 C 160 140 200 150 235 175 C 250 200 252 238 260 242 C 275 245 300 226 330 221 C 380 215 430 224 470 231 C 510 237 580 228 640 224" fill="none" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="636" y="217" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">cost tolerance</text>
+
+  <!-- upper axes: y at zero -->
+  <line x1="96" y1="64" x2="96" y2="250" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="96" y1="250" x2="640" y2="250" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="88" y="254" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="70" y="157" text-anchor="middle" transform="rotate(-90 70 157)" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">remaining budget</text>
+
+  <!-- lower plot: the attrition consequence -->
+  <rect x="96" y="290" width="544" height="110" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75" fill-opacity="0.6"/>
+  <path d="M 96 312 L 240 312 C 258 312 262 358 285 361 L 640 365" fill="none" stroke="#2a1a0e" stroke-width="2"/>
+  <text x="320" y="344" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">dropout concentrates at the crossing</text>
+
+  <!-- lower axes: y at zero -->
+  <line x1="96" y1="290" x2="96" y2="400" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="96" y1="400" x2="640" y2="400" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="88" y="404" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="70" y="345" text-anchor="middle" transform="rotate(-90 70 345)" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">active learners</text>
+
+  <!-- shared week axis -->
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#545454" text-anchor="middle">
+    <text x="130" y="416">W1</text><text x="198" y="416">W2</text><text x="266" y="416">W3</text><text x="334" y="416">W4</text><text x="402" y="416">W5</text><text x="470" y="416">W6</text><text x="538" y="416">W7</text><text x="606" y="416">W8</text>
+  </g>
+
+  <!-- caption -->
+  <text x="32" y="462" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Dropout tracks the joint crossing — not one budget emptying, but all three depleted in the same week; a single dip elsewhere is survivable.</text>
+</svg>

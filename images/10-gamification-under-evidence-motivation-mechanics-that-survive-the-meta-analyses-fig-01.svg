@@ -1,0 +1,80 @@
+<!-- Figure 01 — The distribution behind the average: 22 studies around g = 0.782 · Chapter 10: Gamification Under Evidence · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-10-01">
+  <title id="fig-title-10-01">The distribution behind the average: 22 studies around g = 0.782 — 10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses</title>
+  <desc>Twenty-two study-level effect dots around a vertical zero line: twenty filled dots to the right of zero, two hollow dots to the left, and a red diamond on a baseline row marking the pooled effect g = 0.782. Dot positions other than sign are illustrative.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses" figure-number="01" figure-title="The distribution behind the average: 22 studies around g = 0.782" figure-slug="distribution-behind-the-average" figure-type="statistical" priority="critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/10-gamification-under-evidence-motivation-mechanics-that-survive-the-meta-analyses-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The distribution behind the average: 22 studies around g = 0.782</text>
+
+  <!-- plot region -->
+  <rect x="64" y="48" width="596" height="264" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- legend row -->
+  <circle cx="170" cy="70" r="5" fill="#787878"/>
+  <text x="182" y="74" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">individual study (n = 22)</text>
+  <circle cx="318" cy="70" r="5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="330" y="74" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">negative result</text>
+  <polygon points="438,63 445,70 438,77 431,70" fill="#C8102E"/>
+  <text x="452" y="74" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">pooled effect g = 0.782</text>
+
+  <!-- zero reference line -->
+  <line x1="191.7" y1="48" x2="191.7" y2="312" stroke="#2a1a0e" stroke-width="1"/>
+
+  <!-- row separator between dot field and pooled row -->
+  <line x1="64" y1="248" x2="660" y2="248" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="4 3"/>
+
+  <!-- 20 positive study dots -->
+  <circle cx="217.2" cy="150" r="5" fill="#787878"/>
+  <circle cx="236.4" cy="190" r="5" fill="#787878"/>
+  <circle cx="255.6" cy="120" r="5" fill="#787878"/>
+  <circle cx="272.6" cy="210" r="5" fill="#787878"/>
+  <circle cx="287.5" cy="165" r="5" fill="#787878"/>
+  <circle cx="302.4" cy="135" r="5" fill="#787878"/>
+  <circle cx="319.4" cy="200" r="5" fill="#787878"/>
+  <circle cx="332.2" cy="110" r="5" fill="#787878"/>
+  <circle cx="345.0" cy="175" r="5" fill="#787878"/>
+  <circle cx="357.7" cy="225" r="5" fill="#787878"/>
+  <circle cx="370.5" cy="140" r="5" fill="#787878"/>
+  <circle cx="383.3" cy="185" r="5" fill="#787878"/>
+  <circle cx="400.3" cy="115" r="5" fill="#787878"/>
+  <circle cx="415.2" cy="205" r="5" fill="#787878"/>
+  <circle cx="436.5" cy="160" r="5" fill="#787878"/>
+  <circle cx="464.1" cy="130" r="5" fill="#787878"/>
+  <circle cx="493.9" cy="195" r="5" fill="#787878"/>
+  <circle cx="528.0" cy="170" r="5" fill="#787878"/>
+  <circle cx="566.3" cy="145" r="5" fill="#787878"/>
+  <circle cx="606.7" cy="210" r="5" fill="#787878"/>
+
+  <!-- 2 negative-tail studies: hollow, left of zero (structural negative encoding) -->
+  <circle cx="117.2" cy="170" r="5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <circle cx="153.4" cy="200" r="5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="135" y="142" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" text-anchor="middle">2 studies below zero</text>
+
+  <!-- pooled effect diamond on baseline row -->
+  <polygon points="358.2,264 370,276 358.2,288 346.4,276" fill="#C8102E"/>
+  <text x="380" y="280" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">pooled g = 0.782</text>
+
+  <!-- axis -->
+  <line x1="64" y1="312" x2="660" y2="312" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="85.3" y1="312" x2="85.3" y2="317" stroke="#545454" stroke-width="0.75"/>
+  <line x1="191.7" y1="312" x2="191.7" y2="317" stroke="#545454" stroke-width="0.75"/>
+  <line x1="298.1" y1="312" x2="298.1" y2="317" stroke="#545454" stroke-width="0.75"/>
+  <line x1="404.6" y1="312" x2="404.6" y2="317" stroke="#545454" stroke-width="0.75"/>
+  <line x1="511.0" y1="312" x2="511.0" y2="317" stroke="#545454" stroke-width="0.75"/>
+  <line x1="617.4" y1="312" x2="617.4" y2="317" stroke="#545454" stroke-width="0.75"/>
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">
+    <text x="85.3" y="330">-0.5</text>
+    <text x="191.7" y="330">0</text>
+    <text x="298.1" y="330">0.5</text>
+    <text x="404.6" y="330">1.0</text>
+    <text x="511.0" y="330">1.5</text>
+    <text x="617.4" y="330">2.0</text>
+  </g>
+  <text x="362" y="350" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">effect size (Hedges g)</text>
+
+  <text x="64" y="380" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Dot positions are illustrative dispersion (signs and counts as reported); the diamond marks the pooled effect, g = 0.782.</text>
+  <text x="64" y="402" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454" letter-spacing="0.08em">SOURCE: ZENG ET AL. 2024</text>
+</svg>

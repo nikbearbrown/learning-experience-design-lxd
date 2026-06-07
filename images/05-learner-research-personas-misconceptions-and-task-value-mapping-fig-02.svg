@@ -1,0 +1,59 @@
+<!-- Experience Design for EdTech · Chapter 05: Learner Research — Figure 02: Predict, Explain, Confront · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-02">
+  <title id="fig-title-02">Predict, Explain, Confront — 05-learner-research-personas-misconceptions-and-task-value-mapping</title>
+  <desc>Three-step interview flow — predict, explain with a nested explanation layer, confront with contradicting evidence — forking into two equal terminals: a shallow model that updates (broken circle re-forming) and a load-bearing model that deflects the evidence (ringed circle). Both outcomes are research findings.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="05-learner-research-personas-misconceptions-and-task-value-mapping" figure-number="02" figure-title="Predict, Explain, Confront" figure-slug="predict-explain-confront" figure-type="process-flowchart" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/05-learner-research-personas-misconceptions-and-task-value-mapping-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Predict, Explain, Confront</text>
+
+  <!-- step 1: predict -->
+  <rect x="240" y="52" width="220" height="52" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="74" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">1 · PREDICT</text>
+  <text x="350" y="90" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">pose a concrete scenario (the hospital-births item)</text>
+
+  <line x1="350" y1="104" x2="350" y2="124" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- step 2: explain, with nested explanation layer (the key insight, highlighted) -->
+  <rect x="230" y="128" width="240" height="64" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="242" y="136" width="216" height="48" fill="none" stroke="#C8102E" stroke-width="1"/>
+  <text x="350" y="156" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">2 · EXPLAIN</text>
+  <text x="350" y="172" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#C8102E">the model lives in the explanation, not the answer</text>
+
+  <line x1="350" y1="192" x2="350" y2="212" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- step 3: confront -->
+  <rect x="240" y="216" width="220" height="52" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="238" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">3 · CONFRONT</text>
+  <text x="350" y="254" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">present a contradicting result</text>
+
+  <!-- fork: the learner's response, no decision diamond -->
+  <path d="M 350 268 L 350 290 L 190 290 L 190 312" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M 350 268 L 350 290 L 510 290 L 510 312" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- left terminal: shallow model updates -->
+  <rect x="70" y="316" width="240" height="104" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="190" y="338" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Model is shallow</text>
+  <text x="190" y="354" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">the learner updates</text>
+  <circle cx="142" cy="388" r="13" fill="none" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <line x1="162" y1="388" x2="190" y2="388" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <circle cx="212" cy="388" r="13" fill="none" stroke="#2a1a0e" stroke-width="1.5"/>
+
+  <!-- right terminal: load-bearing model deflects -->
+  <rect x="390" y="316" width="240" height="104" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="510" y="338" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">Model is load-bearing</text>
+  <text x="510" y="354" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">the evidence is explained away</text>
+  <circle cx="530" cy="390" r="13" fill="none" stroke="#2a1a0e" stroke-width="1.5"/>
+  <circle cx="530" cy="390" r="20" fill="none" stroke="#787878" stroke-width="2"/>
+  <line x1="468" y1="372" x2="505" y2="383" stroke="#2a1a0e" stroke-width="1.5"/>
+  <line x1="505" y1="383" x2="494" y2="400" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- both outcomes are findings (equal underlines) -->
+  <text x="190" y="442" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">— a research finding —</text>
+  <text x="510" y="442" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">— a research finding —</text>
+
+  <!-- caption -->
+  <text x="32" y="464" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Neither branch is failure: an updating model and a defending model are both findings about how the misconception is held.</text>
+</svg>

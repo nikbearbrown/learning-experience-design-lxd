@@ -1,0 +1,54 @@
+<!--
+  Experience Design for EdTech — Chapter 15, Figure 02
+  The decision trace: believed → evidence → decided → still open
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-15-02">
+  <title id="fig-title-15-02">The decision trace: believed &#8594; evidence &#8594; decided &#8594; still open — 15-the-full-redesign-one-experience-every-decision</title>
+  <desc>Four-stage chain: what we believed, what evidence bore on it (with the artifact attached as evidence for that step), what we decided, and what we are still waiting to learn. A dashed arrow exits the final stage — the trace remains live.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="15-the-full-redesign-one-experience-every-decision" figure-number="02" figure-title="The decision trace: believed &#8594; evidence &#8594; decided &#8594; still open" figure-slug="decision-trace" figure-type="process flowchart" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/15-the-full-redesign-one-experience-every-decision-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The decision trace: believed &#8594; evidence &#8594; decided &#8594; still open</text>
+
+  <!-- stage 1: belief -->
+  <rect x="48" y="144" width="128" height="80" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="112" y="178" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">What we believed</text>
+  <text x="112" y="198" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">assumption, stated</text>
+
+  <line x1="176" y1="184" x2="212" y2="184" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- stage 2: evidence -->
+  <rect x="216" y="144" width="128" height="80" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="280" y="170" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">What evidence</text>
+  <text x="280" y="186" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">bore on it</text>
+  <text x="280" y="206" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">research, pilot data</text>
+
+  <line x1="344" y1="184" x2="364" y2="184" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- stage 3: decision (highlighted) -->
+  <polygon points="372,184 412,152 452,184 412,216" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="412" y="180" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">What we</text>
+  <text x="412" y="194" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">decided</text>
+
+  <line x1="452" y1="184" x2="488" y2="184" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- stage 4: still open (dashed) -->
+  <rect x="492" y="144" width="148" height="80" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="566" y="170" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">What we are still</text>
+  <text x="566" y="186" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">waiting to learn</text>
+  <text x="566" y="206" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">reopening test, dated</text>
+
+  <!-- live end: dashed exit into white space -->
+  <line x1="640" y1="184" x2="666" y2="184" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+
+  <!-- attached artifact -->
+  <line x1="280" y1="224" x2="280" y2="260" stroke="#787878" stroke-width="0.75"/>
+  <rect x="258" y="260" width="44" height="56" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <line x1="266" y1="274" x2="294" y2="274" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="266" y1="286" x2="294" y2="286" stroke="#ADADAD" stroke-width="2"/>
+  <line x1="266" y1="298" x2="286" y2="298" stroke="#ADADAD" stroke-width="2"/>
+  <text x="316" y="292" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the artifact, attached as evidence for one step</text>
+
+  <text x="32" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Every artifact is evidence for one step of a trace; the dashed end marks the question still open.</text>
+</svg>

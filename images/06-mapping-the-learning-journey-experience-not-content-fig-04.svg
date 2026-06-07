@@ -1,0 +1,69 @@
+<!-- Experience Design for EdTech · Chapter 06: Mapping the Learning Journey — Figure 04: The Line of Visibility · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">The Line of Visibility — 06-mapping-the-learning-journey-experience-not-content</title>
+  <desc>Service-blueprint cross-section: learner timeline, learner actions, and frontstage rows sit above a heavy dashed line of visibility; backstage actions and a policy strip sit below. In week 3 one arrow rises from a TA-handoff event across the line to a hollow marker where learners appear to go quiet.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="06-mapping-the-learning-journey-experience-not-content" figure-number="04" figure-title="The Line of Visibility" figure-slug="line-of-visibility" figure-type="structural-schematic-cross-section" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/06-mapping-the-learning-journey-experience-not-content-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Line of Visibility</text>
+
+  <!-- unlit backstage zone -->
+  <rect x="190" y="240" width="470" height="104" fill="#F5F5F5"/>
+
+  <!-- row 1: learner timeline -->
+  <rect x="190" y="64" width="470" height="22" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <g stroke="#D4D4D4" stroke-width="1"><line x1="307.5" y1="64" x2="307.5" y2="86"/><line x1="425" y1="64" x2="425" y2="86"/><line x1="542.5" y1="64" x2="542.5" y2="86"/></g>
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="10" fill="#545454" text-anchor="middle">
+    <text x="248.75" y="79">W1</text><text x="366.25" y="79">W2</text><text x="483.75" y="79">W3</text><text x="601.25" y="79">W4</text>
+  </g>
+  <text x="182" y="79" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">learner timeline</text>
+
+  <!-- row 2: learner actions -->
+  <rect x="190" y="100" width="470" height="50" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="182" y="129" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">learner actions</text>
+  <rect x="234.75" y="106" width="28" height="28" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <rect x="352.25" y="106" width="28" height="28" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <rect x="587.25" y="106" width="28" height="28" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="483.75" cy="120" r="10" fill="none" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="483.75" y="145" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">“learners go quiet”</text>
+
+  <!-- row 3: frontstage -->
+  <rect x="190" y="164" width="470" height="50" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="182" y="186" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">frontstage</text>
+  <text x="182" y="200" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">systems &amp; actors</text>
+  <rect x="234.75" y="175" width="28" height="28" fill="#F5F5F5" stroke="#787878" stroke-width="1"/>
+  <rect x="352.25" y="175" width="28" height="28" fill="#F5F5F5" stroke="#787878" stroke-width="1"/>
+  <rect x="587.25" y="175" width="28" height="28" fill="#F5F5F5" stroke="#787878" stroke-width="1"/>
+
+  <!-- the line of visibility (the figure's one red, heaviest stroke) -->
+  <line x1="190" y1="232" x2="660" y2="232" stroke="#C8102E" stroke-width="2" stroke-dasharray="8 5"/>
+  <text x="182" y="236" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#C8102E">line of visibility</text>
+  <text x="412" y="226" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">the failure crosses here</text>
+
+  <!-- row 4: backstage -->
+  <rect x="190" y="250" width="470" height="50" fill="none" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="182" y="279" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">backstage actions</text>
+  <rect x="234.75" y="256" width="28" height="28" fill="#ADADAD" stroke="#787878" stroke-width="1"/>
+  <rect x="352.25" y="256" width="28" height="28" fill="#ADADAD" stroke="#787878" stroke-width="1"/>
+  <rect x="587.25" y="256" width="28" height="28" fill="#ADADAD" stroke="#787878" stroke-width="1"/>
+  <rect x="469.75" y="256" width="28" height="28" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <line x1="466.75" y1="288" x2="500.75" y2="252" stroke="#2a1a0e" stroke-width="1.25"/>
+  <text x="483.75" y="297" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454">TA handoff (8–10 days)</text>
+
+  <!-- row 5: supporting policies -->
+  <rect x="190" y="314" width="470" height="22" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <text x="182" y="329" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">supporting policies</text>
+  <text x="425" y="329" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">TA staffing schedule · feedback-turnaround policy · grading rules</text>
+
+  <!-- the single crossing arrow: backstage cause to frontstage effect -->
+  <line x1="483.75" y1="254" x2="483.75" y2="136" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- annotation -->
+  <text x="32" y="376" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Below the line, a staffing handoff stretches feedback turnaround to 8–10 days in week 3;</text>
+  <text x="32" y="392" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">above the line, the only visible signal is learners going quiet.</text>
+
+  <!-- caption -->
+  <text x="32" y="462" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Backstage failures surface as what looks like learner disengagement — the blueprint makes the crossing visible.</text>
+</svg>

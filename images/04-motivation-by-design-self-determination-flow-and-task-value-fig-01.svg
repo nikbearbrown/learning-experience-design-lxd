@@ -1,0 +1,49 @@
+<!-- Experience Design for EdTech · Chapter 04: Motivation by Design — Figure 01: The Overjustification Displacement Curve · CAJAL brutalist static SVG · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-01">
+  <title id="fig-title-01">The Overjustification Displacement Curve — 04-motivation-by-design-self-determination-flow-and-task-value</title>
+  <desc>Line chart over twelve weeks: module completions run flat at a dashed baseline, spike after a reward-mechanic launch to roughly 240 percent above baseline by week five, decay through weeks eight to twelve, and settle below the pre-launch baseline. A hatched zone marks the below-baseline displacement.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="04-motivation-by-design-self-determination-flow-and-task-value" figure-number="01" figure-title="The Overjustification Displacement Curve" figure-slug="overjustification-displacement-curve" figure-type="statistical-quantitative-timeline" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/04-motivation-by-design-self-determination-flow-and-task-value-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <pattern id="hatch-displace" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#ADADAD" stroke-width="1"/></pattern>
+  </defs>
+
+  <!-- title -->
+  <text x="32" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Overjustification Displacement Curve</text>
+
+  <!-- plot region -->
+  <rect x="96" y="56" width="564" height="290" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+
+  <!-- displacement zone (structural: hatched, below baseline) -->
+  <path d="M 495 240 C 515 258 540 273 575 277 L 660 277 L 660 240 Z" fill="url(#hatch-displace)" stroke="none"/>
+
+  <!-- pre-launch baseline (dashed reference) -->
+  <line x1="96" y1="240" x2="660" y2="240" stroke="#787878" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="102" y="232" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">pre-launch baseline</text>
+
+  <!-- launch event marker (reference line) -->
+  <line x1="190" y1="64" x2="190" y2="346" stroke="#2a1a0e" stroke-width="0.75" stroke-dasharray="5 4"/>
+  <text x="196" y="74" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">launch</text>
+
+  <!-- behavioral curve: the single highlighted data series -->
+  <path d="M 96 240 L 184 240 C 200 240 212 226 222 196 C 238 118 254 90 286 90 L 318 90 C 372 94 420 150 480 218 C 510 252 540 273 575 277 L 660 277" fill="none" stroke="#C8102E" stroke-width="2"/>
+
+  <!-- annotations -->
+  <text x="330" y="82" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">peak: ~240% above baseline (week 5)</text>
+  <text x="654" y="302" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">settles below where it started</text>
+
+  <!-- axes: y at zero, visible zero line -->
+  <line x1="96" y1="56" x2="96" y2="346" stroke="#2a1a0e" stroke-width="1"/>
+  <line x1="96" y1="346" x2="660" y2="346" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="88" y="350" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">0</text>
+  <text x="70" y="200" text-anchor="middle" transform="rotate(-90 70 200)" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">module completions</text>
+
+  <!-- x ticks: weeks -->
+  <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="middle">
+    <text x="96" y="362">0</text><text x="190" y="362">2</text><text x="284" y="362">4</text><text x="378" y="362">6</text><text x="472" y="362">8</text><text x="566" y="362">10</text><text x="660" y="362">12</text>
+  </g>
+  <text x="378" y="378" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">weeks</text>
+
+  <!-- caption -->
+  <text x="32" y="404" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">A reward on an already-meaningful activity spikes, decays, and lands below baseline: the reward displaced the internal reasons for acting.</text>
+</svg>

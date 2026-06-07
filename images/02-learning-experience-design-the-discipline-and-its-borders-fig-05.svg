@@ -1,0 +1,62 @@
+<!--
+  Figure: The Portfolio Danger Zone
+  Book: Experience Design for EdTech
+  Chapter: 02-learning-experience-design-the-discipline-and-its-borders
+  Figure number: 05 | Type: conceptual map (two-axis quadrant) | Priority: Supplementary
+  Date generated: 2026-06-07
+  Source: pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch02-05">
+  <title id="fig-title-ch02-05">The Portfolio Danger Zone — 02-learning-experience-design-the-discipline-and-its-borders</title>
+  <desc>Plotted on axes of artifact quality versus evidence of learning outcomes, the characteristic LXD failure mode — beautiful artifacts, no learning evidence — occupies a nameable region: the engagement trap at portfolio level.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="02-learning-experience-design-the-discipline-and-its-borders" figure-number="05" figure-title="The Portfolio Danger Zone" figure-slug="the-portfolio-danger-zone" figure-type="conceptual-map-quadrant" priority="Supplementary" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0,10 L10,0" stroke="#D4D4D4" stroke-width="0.75"/></pattern>
+  </defs>
+
+  <!-- Title + subtitle -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Portfolio Danger Zone</text>
+  <text x="32" y="58" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">a conceptual map, not a measured population</text>
+
+  <!-- Field -->
+  <rect x="88" y="80" width="552" height="280" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="0.75"/>
+  <line x1="364" y1="80" x2="364" y2="360" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="4 3"/>
+  <line x1="88" y1="220" x2="640" y2="220" stroke="#D4D4D4" stroke-width="0.75" stroke-dasharray="4 3"/>
+
+  <!-- Danger quadrant: structural encoding (hatch + dashed border) -->
+  <rect x="364" y="220" width="276" height="140" fill="url(#hatch)" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="502" y="248" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">the danger zone</text>
+  <text x="502" y="264" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">beautiful artifacts,</text>
+  <text x="502" y="278" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">no learning evidence</text>
+
+  <!-- Aspiration quadrant -->
+  <text x="502" y="110" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">the goal</text>
+  <text x="502" y="126" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">strong craft, with evidence</text>
+
+  <!-- Hypothetical portfolio population (hollow circles) -->
+  <circle cx="180" cy="140" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="280" cy="185" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="450" cy="160" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="560" cy="185" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="160" cy="300" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="260" cy="330" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <!-- the frequent failure: concentration in the lower right -->
+  <circle cx="420" cy="300" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="465" cy="322" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="500" cy="295" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="545" cy="330" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="585" cy="305" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+  <circle cx="530" cy="342" r="5.5" fill="#FFFFFF" stroke="#787878" stroke-width="1.25"/>
+
+  <!-- Axes from a shared zero origin -->
+  <line x1="88" y1="360" x2="88" y2="84" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="88" y1="360" x2="636" y2="360" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="78" y="374" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">0</text>
+  <text x="364" y="388" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">quality of experience-design artifacts &#8594;</text>
+  <text x="60" y="220" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle" transform="rotate(-90 60 220)">evidence of learning outcomes &#8594;</text>
+
+  <!-- Caption -->
+  <text x="32" y="428" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Axes and the danger region come from the chapter; the dot population is hypothetical &#8212; no portfolio survey</text>
+  <text x="32" y="444" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">exists. The concentration encodes a qualitative claim: this is the engagement trap at portfolio scale.</text>
+</svg>

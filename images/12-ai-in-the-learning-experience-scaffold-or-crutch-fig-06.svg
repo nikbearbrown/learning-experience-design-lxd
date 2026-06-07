@@ -1,0 +1,44 @@
+<!-- Figure 06 — The equity inversion: who reaches the unguarded mode · Chapter 12: AI in the Learning Experience · Experience Design for EdTech · Nik Bear Brown · Generated 2026-06-07 -->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-12-06">
+  <title id="fig-title-12-06">The equity inversion: who reaches the unguarded mode — 12-ai-in-the-learning-experience-scaffold-or-crutch</title>
+  <desc>Two parallel lanes with identical gates: the high self-regulation learner winds through the guarded corridor to durable learning; the executive-function-challenged learner exits through a gap around the corridor onto a dashed line ending at a hollow crutch-mode terminal.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="12-ai-in-the-learning-experience-scaffold-or-crutch" figure-number="06" figure-title="The equity inversion: who reaches the unguarded mode" figure-slug="equity-inversion" figure-type="comparison" priority="supplementary" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/12-ai-in-the-learning-experience-scaffold-or-crutch-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrowGray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#787878"/></marker>
+  </defs>
+
+  <text x="64" y="28" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The equity inversion: who reaches the unguarded mode</text>
+
+  <!-- upper lane: high self-regulation -->
+  <text x="64" y="92" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">high self-regulation — persists inside the guardrail</text>
+  <rect x="185" y="122" width="375" height="56" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="90" cy="150" r="16" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <line x1="150" y1="126" x2="150" y2="174" stroke="#2a1a0e" stroke-width="2"/>
+  <line x1="160" y1="126" x2="160" y2="174" stroke="#2a1a0e" stroke-width="2"/>
+  <path d="M106 150 L185 150 C 230 130, 260 170, 305 150 C 350 130, 380 170, 425 150 C 470 132, 500 166, 552 150 L 584 150" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <rect x="594" y="134" width="32" height="32" fill="#C8102E"/>
+  <text x="610" y="188" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e" text-anchor="middle">durable learning</text>
+
+  <!-- same-gate annotation -->
+  <line x1="155" y1="184" x2="155" y2="278" stroke="#ADADAD" stroke-width="0.75" stroke-dasharray="4 3"/>
+  <text x="168" y="234" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454">identical gate, opposite trajectories</text>
+
+  <!-- lower lane: executive-function-challenged -->
+  <text x="64" y="258" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#545454">executive-function-challenged — routes around it</text>
+  <text x="64" y="272" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9" fill="#545454">(perceives the shortcut as most valuable — higher pressure)</text>
+  <rect x="185" y="282" width="375" height="56" fill="#F5F5F5"/>
+  <path d="M280 338 L560 338 L560 282 L185 282 L185 338 L230 338" fill="none" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="90" cy="310" r="16" fill="#FFFFFF" stroke="#787878" stroke-width="2.5"/>
+  <line x1="150" y1="286" x2="150" y2="334" stroke="#2a1a0e" stroke-width="2"/>
+  <line x1="160" y1="286" x2="160" y2="334" stroke="#2a1a0e" stroke-width="2"/>
+  <!-- bypass: exits through the gap in the corridor's edge, around the rail -->
+  <path d="M106 310 L200 310 C 235 310, 252 322, 256 338" fill="none" stroke="#787878" stroke-width="1.5"/>
+  <path d="M256 338 L256 366 Q256 380 276 380 L578 380" fill="none" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrowGray)"/>
+  <text x="300" y="360" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="9.5" fill="#545454">out through the gap — around the rail, not through the gate</text>
+  <rect x="590" y="364" width="32" height="32" fill="#FFFFFF" stroke="#787878" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="606" y="414" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="10" fill="#2a1a0e" text-anchor="middle">unguarded crutch mode</text>
+
+  <text x="64" y="446" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Mechanism inference read through single-source perception data (Klarin et al.): the gate holds in both lanes —</text>
+  <text x="64" y="461" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">it is circumvented, not broken — and the learners who need the struggle most are the likeliest to route around it.</text>
+</svg>

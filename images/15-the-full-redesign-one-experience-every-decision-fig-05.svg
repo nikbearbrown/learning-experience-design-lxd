@@ -1,0 +1,57 @@
+<!--
+  Experience Design for EdTech — Chapter 15, Figure 05
+  The overclaim invitation: accept vs. pass with precise qualifier
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-15-05">
+  <title id="fig-title-15-05">The overclaim invitation: accept vs. pass with precise qualifier — 15-the-full-redesign-one-experience-every-decision</title>
+  <desc>Binary decision tree: the reviewer asks whether the redesign improved learning. Accepting the causal frame leaves every later claim vulnerable — the reviewer has the thread. Passing with a precise qualifier keeps claims intact, replication scheduled.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="15-the-full-redesign-one-experience-every-decision" figure-number="05" figure-title="The overclaim invitation: accept vs. pass with precise qualifier" figure-slug="overclaim-invitation" figure-type="process flowchart" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/15-the-full-redesign-one-experience-every-decision-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The overclaim invitation: accept vs. pass with a precise qualifier</text>
+
+  <!-- invitation node -->
+  <rect x="210" y="60" width="280" height="48" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="350" y="80" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">&#8220;So the redesign improved learning?&#8221;</text>
+  <text x="350" y="98" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the natural causal question &#8212; not a trick</text>
+
+  <line x1="300" y1="108" x2="196" y2="144" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="400" y1="108" x2="504" y2="144" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="238" y="128" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">accept the frame</text>
+  <text x="462" y="128" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">pass with a qualifier</text>
+
+  <!-- accept node -->
+  <rect x="64" y="148" width="252" height="56" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="190" y="172" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">&#8220;Yes &#8212; it improved learning.&#8221;</text>
+  <text x="190" y="190" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the causal claim, swallowed whole</text>
+
+  <!-- qualifier node (highlighted) -->
+  <rect x="384" y="148" width="252" height="56" rx="0" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="510" y="170" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">&#8220;Effect observed; attribution</text>
+  <text x="510" y="186" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">withheld; replication scheduled.&#8221;</text>
+
+  <line x1="190" y1="204" x2="190" y2="244" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="510" y1="204" x2="510" y2="244" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- unraveling terminal (structural negation: dashed, scattered, loose thread) -->
+  <rect x="64" y="248" width="252" height="96" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="96" y="264" width="56" height="20" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" transform="rotate(-9 124 274)"/>
+  <rect x="168" y="268" width="56" height="20" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" transform="rotate(4 196 278)"/>
+  <rect x="240" y="266" width="56" height="20" rx="0" fill="#FFFFFF" stroke="#787878" stroke-width="1" transform="rotate(-3 268 276)"/>
+  <path d="M 98 262 C 80 240 116 230 94 212" fill="none" stroke="#787878" stroke-width="1"/>
+  <text x="190" y="314" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">every later claim is vulnerable &#8212;</text>
+  <text x="190" y="328" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the reviewer has the thread</text>
+
+  <!-- intact terminal -->
+  <rect x="384" y="248" width="252" height="96" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="412" y="266" width="56" height="20" rx="0" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <rect x="476" y="266" width="56" height="20" rx="0" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <rect x="540" y="266" width="56" height="20" rx="0" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <rect x="604" y="266" width="16" height="18" rx="0" fill="none" stroke="#787878" stroke-width="1"/>
+  <line x1="604" y1="272" x2="620" y2="272" stroke="#787878" stroke-width="1"/>
+  <text x="510" y="314" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">claims intact &#8212; calibration signaled,</text>
+  <text x="510" y="328" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">replication already on the calendar</text>
+
+  <text x="32" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Accepting the causal frame hands the reviewer the thread; the precise qualifier keeps every claim standing.</text>
+</svg>

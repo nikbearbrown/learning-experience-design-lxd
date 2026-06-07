@@ -1,0 +1,81 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 07-co-design-learners-as-design-partners - Figure 04
+  From Matrix to Disposition: Co-Design Made Auditable - process flow - priority: Supplementary
+  Generated 2026-06-07 - source: pantry/07-co-design-learners-as-design-partners-cajal.md
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-04">
+  <title id="fig-title-04">From Matrix to Disposition: Co-Design Made Auditable — 07-co-design-learners-as-design-partners</title>
+  <desc>Seven session contributions scatter on the left, land in a four-quadrant feedback matrix in the middle, and route to exactly one of three dispositions on the right — accepted (3), rejected with grounds recorded (2), deferred (2). No contribution vanishes.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="07-co-design-learners-as-design-partners" figure-number="04" figure-title="From Matrix to Disposition: Co-Design Made Auditable" figure-slug="matrix-to-disposition-pipeline" figure-type="process-flow" priority="Supplementary" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/07-co-design-learners-as-design-partners-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+    <marker id="arrow-gray" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#787878"/></marker>
+  </defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 7.4 · From Matrix to Disposition: Co-Design Made Auditable</text>
+
+  <!-- stage headers -->
+  <text x="105" y="96" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">SESSION CONTRIBUTIONS</text>
+  <text x="330" y="96" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">FEEDBACK MATRIX</text>
+  <text x="560" y="96" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">DISPOSITION</text>
+
+  <!-- stage 1: raw scatter (7 contributions) -->
+  <circle cx="78" cy="150" r="5" fill="#C8102E"/>
+  <circle cx="120" cy="135" r="5" fill="#C8102E"/>
+  <circle cx="98" cy="190" r="5" fill="#C8102E"/>
+  <circle cx="140" cy="175" r="5" fill="#C8102E"/>
+  <circle cx="82" cy="235" r="5" fill="#C8102E"/>
+  <circle cx="128" cy="222" r="5" fill="#C8102E"/>
+  <circle cx="105" cy="265" r="5" fill="#C8102E"/>
+
+  <path d="M168,200 L222,200" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- stage 2: four-quadrant matrix, all 7 dots placed -->
+  <rect x="232" y="110" width="196" height="196" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="330" y1="110" x2="330" y2="306" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="232" y1="208" x2="428" y2="208" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="270" cy="150" r="5" fill="#C8102E"/>
+  <circle cx="300" cy="176" r="5" fill="#C8102E"/>
+  <circle cx="360" cy="140" r="5" fill="#C8102E"/>
+  <circle cx="396" cy="168" r="5" fill="#C8102E"/>
+  <circle cx="372" cy="190" r="5" fill="#C8102E"/>
+  <circle cx="282" cy="256" r="5" fill="#C8102E"/>
+  <circle cx="386" cy="262" r="5" fill="#C8102E"/>
+  <text x="330" y="326" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">every contribution gets a visible home</text>
+
+  <!-- routing arrows -->
+  <path d="M428,150 L466,140" fill="none" stroke="#787878" stroke-width="1" marker-end="url(#arrow-gray)"/>
+  <path d="M428,208 L466,210" fill="none" stroke="#787878" stroke-width="1" marker-end="url(#arrow-gray)"/>
+  <path d="M428,266 L466,278" fill="none" stroke="#787878" stroke-width="1" marker-end="url(#arrow-gray)"/>
+
+  <!-- stage 3: three disposition channels (3 + 2 + 2 = 7) -->
+  <rect x="470" y="118" width="180" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="482" y="138" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">ACCEPTED</text>
+  <text x="482" y="154" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">into the next build</text>
+  <circle cx="598" cy="138" r="5" fill="#C8102E"/>
+  <circle cx="616" cy="138" r="5" fill="#C8102E"/>
+  <circle cx="607" cy="152" r="5" fill="#C8102E"/>
+
+  <rect x="470" y="186" width="180" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="482" y="206" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">REJECTED</text>
+  <text x="482" y="222" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">grounds recorded</text>
+  <circle cx="614" cy="206" r="5" fill="#C8102E"/>
+  <circle cx="632" cy="206" r="5" fill="#C8102E"/>
+  <!-- grounds tag attached to the rejection channel -->
+  <line x1="650" y1="210" x2="656" y2="212" stroke="#2a1a0e" stroke-width="1"/>
+  <polygon points="656,206 666,206 666,218 656,218 651,212" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <circle cx="655" cy="212" r="1.2" fill="#2a1a0e"/>
+
+  <rect x="470" y="254" width="180" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="482" y="274" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">DEFERRED</text>
+  <text x="482" y="290" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">revisit date set</text>
+  <circle cx="614" cy="274" r="5" fill="#C8102E"/>
+  <circle cx="632" cy="274" r="5" fill="#C8102E"/>
+
+  <!-- conservation note -->
+  <text x="560" y="326" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">7 in → 7 placed → 7 dispositioned</text>
+
+  <text x="32" y="386" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Every contribution lands in one matrix quadrant, then routes to exactly one disposition — the record that separates co-design from theater.</text>
+  <text x="32" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">No voice vanishes; rejection carries named grounds (tag). Dot counts are illustrative.</text>
+</svg>

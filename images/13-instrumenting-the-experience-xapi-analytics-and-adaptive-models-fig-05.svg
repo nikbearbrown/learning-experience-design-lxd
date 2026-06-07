@@ -1,0 +1,59 @@
+<!--
+  Experience Design for EdTech — Chapter 13, Figure 05
+  Bayesian at-risk updating with the intervention gate
+  Generated 2026-06-07 · CAJAL SVG Generator · Brutalist D3 SVG style
+-->
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-13-05">
+  <title id="fig-title-13-05">Bayesian at-risk updating with the intervention gate — 13-instrumenting-the-experience-xapi-analytics-and-adaptive-models</title>
+  <desc>Flowchart: a prior risk bar from the historical base rate is revised by behavioral evidence (missed deadlines, error patterns, declining activity) into a posterior, then meets a gate — flag plus named intervention if a path exists; otherwise the model is cut.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="13-instrumenting-the-experience-xapi-analytics-and-adaptive-models" figure-number="05" figure-title="Bayesian at-risk updating with the intervention gate" figure-slug="bayesian-at-risk-intervention-gate" figure-type="process flowchart" priority="Important" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/13-instrumenting-the-experience-xapi-analytics-and-adaptive-models-cajal.md"/></metadata>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker></defs>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Bayesian at-risk updating with the intervention gate</text>
+
+  <!-- evidence -->
+  <text x="72" y="78" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">behavioral evidence arrives</text>
+  <rect x="72" y="88" width="112" height="36" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="128" y="110" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">missed deadlines</text>
+  <rect x="200" y="88" width="112" height="36" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="256" y="110" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">error patterns</text>
+  <rect x="328" y="88" width="112" height="36" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="384" y="110" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">declining activity</text>
+
+  <line x1="128" y1="124" x2="198" y2="208" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="256" y1="124" x2="241" y2="208" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="384" y1="124" x2="282" y2="208" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- prior bar -->
+  <rect x="48" y="208" width="112" height="32" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="48" y="208" width="30" height="32" rx="0" fill="#ADADAD"/>
+  <text x="48" y="262" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">prior &#8212; historical base rate</text>
+
+  <line x1="160" y1="224" x2="314" y2="224" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- posterior bar (highlighted) -->
+  <rect x="320" y="208" width="128" height="32" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="320" y="208" width="80" height="32" rx="0" fill="#C8102E"/>
+  <text x="320" y="262" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">posterior &#8212; revised risk</text>
+
+  <line x1="448" y1="224" x2="484" y2="224" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- intervention gate -->
+  <polygon points="488,224 532,188 576,224 532,260" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="532" y="220" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">intervention</text>
+  <text x="532" y="234" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e">path?</text>
+
+  <!-- accepted exit -->
+  <polyline points="532,260 532,300 556,300" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="524" y="296" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">path exists</text>
+  <rect x="564" y="276" width="108" height="48" rx="0" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <text x="618" y="296" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">flag + named</text>
+  <text x="618" y="312" text-anchor="middle" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">intervention</text>
+
+  <!-- refused exit: dashed, terminator bar -->
+  <line x1="576" y1="224" x2="638" y2="224" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="642" y1="208" x2="642" y2="240" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="660" y="192" text-anchor="end" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">no path &#8212; model cut</text>
+
+  <text x="32" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Evidence revises the prior; a flag enters the experience only if a named intervention exists &#8212; otherwise cut.</text>
+</svg>

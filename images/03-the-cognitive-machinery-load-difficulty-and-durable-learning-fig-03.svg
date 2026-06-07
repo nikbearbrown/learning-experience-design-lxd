@@ -1,0 +1,81 @@
+<!--
+  Figure: The Four-Question Friction Diagnostic
+  Book: Experience Design for EdTech
+  Chapter: 03-the-cognitive-machinery-load-difficulty-and-durable-learning
+  Figure number: 03 | Type: process flowchart | Priority: Critical
+  Date generated: 2026-06-07
+  Source: pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md
+-->
+<svg viewBox="0 0 700 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch03-03">
+  <title id="fig-title-ch03-03">The Four-Question Friction Diagnostic — 03-the-cognitive-machinery-load-difficulty-and-durable-learning</title>
+  <desc>Any point of friction can be classified by four sequential questions, terminating in extraneous (remove), desirable difficulty (keep and instrument), or undesirable difficulty (scaffold or fade in).</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="03-the-cognitive-machinery-load-difficulty-and-durable-learning" figure-number="03" figure-title="The Four-Question Friction Diagnostic" figure-slug="four-question-friction-diagnostic" figure-type="process-flowchart" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/03-the-cognitive-machinery-load-difficulty-and-durable-learning-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="36" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">The Four-Question Friction Diagnostic</text>
+
+  <!-- Entry node -->
+  <rect x="216" y="56" width="168" height="40" fill="#F5F5F5" stroke="#787878" stroke-width="1"/>
+  <text x="300" y="80" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">a point of friction</text>
+  <line x1="300" y1="96" x2="300" y2="114" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Q1 -->
+  <polygon points="196,164 300,118 404,164 300,210" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="300" y="160" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">friction in the content,</text>
+  <text x="300" y="174" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">or in the container?</text>
+  <line x1="300" y1="210" x2="300" y2="234" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="308" y="228" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">content</text>
+  <text x="412" y="156" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">container</text>
+
+  <!-- Q2 -->
+  <polygon points="196,284 300,238 404,284 300,330" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="300" y="272" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">demands retrieval,</text>
+  <text x="300" y="286" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">generation, or discrimination</text>
+  <text x="300" y="300" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">of target material?</text>
+  <line x1="300" y1="330" x2="300" y2="354" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="308" y="348" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">yes</text>
+  <text x="412" y="276" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">no</text>
+
+  <!-- Q3 -->
+  <polygon points="196,404 300,358 404,404 300,450" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="300" y="400" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">can this learner succeed,</text>
+  <text x="300" y="414" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">with feedback?</text>
+  <line x1="300" y1="450" x2="300" y2="474" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="308" y="468" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">yes</text>
+  <text x="188" y="396" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454" text-anchor="end">no</text>
+
+  <!-- Q4 (the decisive question) -->
+  <polygon points="196,524 300,478 404,524 300,570" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1"/>
+  <text x="300" y="520" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">would removing it change</text>
+  <text x="300" y="534" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#2a1a0e" text-anchor="middle">what is practiced?</text>
+  <line x1="300" y1="570" x2="300" y2="594" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="308" y="588" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">yes</text>
+  <text x="412" y="516" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" fill="#545454">no</text>
+
+  <!-- Pass terminal: the friction is the curriculum -->
+  <rect x="192" y="598" width="216" height="48" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+  <text x="300" y="618" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">desirable difficulty</text>
+  <text x="300" y="634" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">keep it &#8212; and instrument it</text>
+
+  <!-- Extraneous terminal (right): Q1-container, Q2-no, Q4-no -->
+  <rect x="524" y="270" width="144" height="116" fill="#FFFFFF" stroke="#787878" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="596" y="318" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">extraneous load</text>
+  <text x="596" y="336" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">remove it</text>
+  <polyline points="404,164 596,164 596,262" fill="none" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="404" y1="284" x2="516" y2="284" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+  <polyline points="404,524 596,524 596,394" fill="none" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- Undesirable terminal (left): abandonment dressed as rigor -->
+  <rect x="32" y="356" width="132" height="96" fill="#FFFFFF" stroke="#787878" stroke-width="1"/>
+  <text x="98" y="392" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">undesirable</text>
+  <text x="98" y="408" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e" text-anchor="middle">difficulty</text>
+  <text x="98" y="428" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">scaffold or fade in</text>
+  <line x1="196" y1="404" x2="172" y2="404" stroke="#2a1a0e" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- Caption -->
+  <text x="32" y="680" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Question four is decisive: friction is kept only if removing it would change what is practiced. Routing</text>
+  <text x="32" y="696" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">question two&#8217;s &#8220;no&#8221; to the remove pile is an inferred compression &#8212; the chapter names no destination.</text>
+</svg>

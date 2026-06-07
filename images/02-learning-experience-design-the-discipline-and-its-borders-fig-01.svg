@@ -1,0 +1,94 @@
+<!--
+  Figure: Four Briefs, One Problem: Optimization Targets Compared
+  Book: Experience Design for EdTech
+  Chapter: 02-learning-experience-design-the-discipline-and-its-borders
+  Figure number: 01 | Type: comparison panels | Priority: Critical
+  Date generated: 2026-06-07
+  Source: pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md
+-->
+<svg viewBox="0 0 700 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-ch02-01">
+  <title id="fig-title-ch02-01">Four Briefs, One Problem: Optimization Targets Compared — 02-learning-experience-design-the-discipline-and-its-borders</title>
+  <desc>Given the identical hospital problem, instructional design, UX design, service design, and LXD each foreground a different slice of the situation — and only the LXD brief terminates in a delayed learning measure.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="02-learning-experience-design-the-discipline-and-its-borders" figure-number="01" figure-title="Four Briefs, One Problem: Optimization Targets Compared" figure-slug="four-briefs-one-problem" figure-type="comparison-panels" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/02-learning-experience-design-the-discipline-and-its-borders-cajal.md"/></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#2a1a0e"/></marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Four Briefs, One Problem: Optimization Targets Compared</text>
+
+  <!-- ===== Panel 1: Instructional design ===== -->
+  <rect x="44" y="64" width="300" height="196" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <!-- shared problem anchor -->
+  <circle cx="68" cy="88" r="9" fill="none" stroke="#545454" stroke-width="1.25"/>
+  <line x1="68" y1="82" x2="68" y2="94" stroke="#545454" stroke-width="1.25"/>
+  <line x1="62" y1="88" x2="74" y2="88" stroke="#545454" stroke-width="1.25"/>
+  <text x="84" y="92" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">the same problem</text>
+  <text x="68" y="124" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">instructional design</text>
+  <text x="68" y="140" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">optimizes: performance-gap closure</text>
+  <!-- gap-closure glyph: current bar, target bar, objective line -->
+  <line x1="136" y1="166" x2="252" y2="166" stroke="#ADADAD" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="150" y="196" width="28" height="40" fill="#ADADAD"/>
+  <rect x="210" y="168" width="28" height="68" fill="#787878"/>
+  <line x1="164" y1="192" x2="164" y2="172" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- ===== Panel 2: UX design ===== -->
+  <rect x="356" y="64" width="300" height="196" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="380" cy="88" r="9" fill="none" stroke="#545454" stroke-width="1.25"/>
+  <line x1="380" y1="82" x2="380" y2="94" stroke="#545454" stroke-width="1.25"/>
+  <line x1="374" y1="88" x2="386" y2="88" stroke="#545454" stroke-width="1.25"/>
+  <text x="380" y="124" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">UX design</text>
+  <text x="380" y="140" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">optimizes: usability &amp; satisfaction</text>
+  <!-- artifact glyph: screen with a smoothed path through it -->
+  <rect x="446" y="156" width="120" height="84" fill="#F5F5F5" stroke="#787878" stroke-width="1"/>
+  <path d="M458,224 C480,188 510,208 530,180" fill="none" stroke="#787878" stroke-width="2"/>
+  <circle cx="530" cy="180" r="4" fill="#787878"/>
+
+  <!-- ===== Panel 3: Service design ===== -->
+  <rect x="44" y="276" width="300" height="196" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="68" cy="300" r="9" fill="none" stroke="#545454" stroke-width="1.25"/>
+  <line x1="68" y1="294" x2="68" y2="306" stroke="#545454" stroke-width="1.25"/>
+  <line x1="62" y1="300" x2="74" y2="300" stroke="#545454" stroke-width="1.25"/>
+  <text x="68" y="336" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">service design</text>
+  <text x="68" y="352" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">optimizes: the whole service journey</text>
+  <!-- network glyph; one node (the training) hollow -->
+  <line x1="130" y1="384" x2="180" y2="372" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="180" y1="372" x2="240" y2="386" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="180" y1="372" x2="210" y2="414" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="130" y1="384" x2="152" y2="420" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="152" y1="420" x2="210" y2="414" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="210" y1="414" x2="252" y2="430" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="152" y1="420" x2="122" y2="444" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="210" y1="414" x2="190" y2="446" stroke="#D4D4D4" stroke-width="1"/>
+  <line x1="240" y1="386" x2="252" y2="430" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="130" cy="384" r="4.5" fill="#ADADAD"/>
+  <circle cx="180" cy="372" r="4.5" fill="#ADADAD"/>
+  <circle cx="240" cy="386" r="4.5" fill="#ADADAD"/>
+  <circle cx="152" cy="420" r="4.5" fill="#ADADAD"/>
+  <circle cx="252" cy="430" r="4.5" fill="#ADADAD"/>
+  <circle cx="122" cy="444" r="4.5" fill="#ADADAD"/>
+  <circle cx="190" cy="446" r="4.5" fill="#ADADAD"/>
+  <circle cx="210" cy="414" r="5.5" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="194" y="462" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454" text-anchor="middle">training is one touchpoint among many</text>
+
+  <!-- ===== Panel 4: Learning experience design ===== -->
+  <rect x="356" y="276" width="300" height="196" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.25"/>
+  <circle cx="380" cy="300" r="9" fill="none" stroke="#545454" stroke-width="1.25"/>
+  <line x1="380" y1="294" x2="380" y2="306" stroke="#545454" stroke-width="1.25"/>
+  <line x1="374" y1="300" x2="386" y2="300" stroke="#545454" stroke-width="1.25"/>
+  <text x="380" y="336" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" fill="#2a1a0e">learning experience design</text>
+  <text x="380" y="352" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">optimizes: durable learning, measured late</text>
+  <!-- learner arc with waypoints, terminating in a delayed measurement -->
+  <path d="M390,424 C450,374 520,404 580,364" fill="none" stroke="#2a1a0e" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <circle cx="390" cy="424" r="4" fill="#2a1a0e"/>
+  <circle cx="448" cy="392" r="4" fill="#2a1a0e"/>
+  <circle cx="516" cy="394" r="4" fill="#2a1a0e"/>
+  <!-- the tell: a measurement taken after time has passed -->
+  <circle cx="606" cy="350" r="11" fill="none" stroke="#C8102E" stroke-width="2"/>
+  <path d="M600,350 l4,5 l8,-10" fill="none" stroke="#C8102E" stroke-width="2"/>
+  <text x="506" y="462" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#C8102E" text-anchor="middle">delayed measure &#8212; day-90 performance</text>
+
+  <!-- Caption -->
+  <text x="32" y="508" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The anchor glyph repeats in every panel: same hospital problem, four competent briefs. Only the LXD</text>
+  <text x="32" y="524" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">brief terminates in a measurement taken after time has passed &#8212; that is the tell.</text>
+</svg>

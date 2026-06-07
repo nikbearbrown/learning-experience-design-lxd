@@ -27,11 +27,13 @@ Three reasons this matters, each backed by something beyond intuition.
 
 *Commitment psychology.* Designers defend what they have invested in. Dow et al. (2010) found that creating multiple prototypes in parallel led to better-rated final designs and more divergent exploration than refining a single prototype serially. One precious prototype becomes an identity. Five cheap ones stay hypotheses.
 
+![Figure 8.5 — One precious prototype vs five cheap hypotheses: serial refinement accretes commitment, while parallel prototypes meet at a comparison point that selects a direction (Dow et al. 2010; count illustrative)](../images/08-prototyping-learning-experiences-from-paper-to-pilot-fig-05.png)
+
 A practical fidelity ladder for learning experiences, from bottom to top: *sketch or storyboard* (the experience as a comic strip — tests sequence and framing); *paper prototype* (hand-operated screens and materials — tests interaction logic and comprehension); *Wizard of Oz* (a human secretly simulates the system's intelligence — tests adaptive behavior before it exists); *clickable mockup* (real navigation, placeholder content — tests flow and orientation); *authoring-tool build* (Storyline, Rise, Genially-class — tests the integrated experience with real content); *pilot module* (real learners, real stakes, instrumented — tests what only deployment can). You will climb this ladder. The discipline is climbing one question at a time.
 
 Before building anything, write one sentence: "The riskiest thing I don't know is ___." Then choose the *lowest* rung that can answer it. If you cannot name the riskiest unknown, you are not ready to prototype — you are decorating.
 
-<!-- → [DIAGRAM: fidelity ladder as vertical sequence — six rungs with estimated build time per rung and the research question each rung can and cannot answer; caption: Fidelity is not quality. A paper prototype is not a degraded authoring-tool build — it is a different research instrument, calibrated to a different class of question. The riskiest unknown determines which rung you start on, not which semester you're in.] -->
+![Figure 8.1 — The fidelity ladder: six rungs from sketch to pilot, cost rising by rung, with the entry rung chosen by the riskiest unknown — not by ambition (entry point shown is illustrative)](../images/08-prototyping-learning-experiences-from-paper-to-pilot-fig-01.png)
 
 ---
 
@@ -49,6 +51,8 @@ Third: **feedback uptake.** When the prototype's feedback fires, what does the l
 
 Fourth: **motivational read.** Does the learner know why this task is worth doing, and does difficulty read as challenge or as judgment? One probe suffices: "If this weren't required, would you do it — and what would make it feel worth it?"
 
+![Figure 8.2 — Four channels beneath the surface: the usability probe stops at observable operation, while the inferred-rule, load-signature, feedback-uptake, and motivational-read probes reach what the learner actually believes, carries, does, and values](../images/08-prototyping-learning-experiences-from-paper-to-pilot-fig-02.png)
+
 The protocol that carries all four channels is the **think-aloud with prediction probes**: the learner narrates continuously, and at each conceptually load-bearing moment the facilitator asks for a *prediction before* the system responds and an *explanation after*. Prediction-before is the trap that catches misconceptions in the act. The moment a learner says "the spread will get wider because more data means more spread," you have captured, on tape, exactly the misconception your Chapter 5 research documented, expressing itself against your design.
 
 Build the test sheet with two ruled columns — **usability findings** and **learning findings** — and force every observation into one. The discipline of the second column is the whole method.
@@ -61,7 +65,7 @@ The design sprint — five days, map Monday through test Friday — is the most 
 
 Monday's map already exists. Your Chapter 6 journey map and Chapter 7 co-design record replace the sprint's mapping day. The "target moment" the sprint selects is your highest-risk journey moment — you have been running a slow-motion sprint for three weeks. Wednesday's decision step needs an evidence seat: a sketch that resolves the journey's dropout cliff by deleting the retrieval practice wins the dot-vote and fails the discipline. Put the Evidence Disclosure inside the sprint, not after it. And Friday tests learners, not customers — the sprint's five-user interview becomes the think-aloud-with-prediction-probes protocol, which is asking a different question than "did you find it intuitive?" The five-user number comes from Nielsen and Landauer's (1993) curve for frequent usability defects; treat it as a budgeting heuristic for learning work, where rare-but-severe failures — often the equity-relevant ones — routinely escape small samples.
 
-Reports on sprint-style methods in curriculum and STEAM education are encouraging but methodologically thin — case studies, no controls [verify]. The sprint container plausibly transfers. Nothing yet shows it outperforms slower iteration on learning-relevant outcomes. Use it for the deadline discipline and the forced learner contact at the end; don't use it as evidence of a method.
+Reports on sprint-style methods in curriculum and STEAM education are encouraging but methodologically thin — case studies, no controls. The sprint container plausibly transfers. Nothing yet shows it outperforms slower iteration on learning-relevant outcomes. Use it for the deadline discipline and the forced learner contact at the end; don't use it as evidence of a method.
 
 For the studio checkpoint, run a compressed two-day version: half-day to storyboard against the co-design record, half-day to build at chosen fidelity, one day to test with three to five learners and write up. The container matters less than its two non-negotiables: a deadline measured in days, and real learners at the end of it.
 
@@ -81,7 +85,7 @@ Choose the medium by the channel you are testing: inferred rule and sequencing �
 
 The last discipline this week is refusing to overclaim. A prototype session — any fidelity, any protocol — observes a learner for an hour. Some of the most important properties of a learning experience are structurally invisible at that timescale.
 
-*Durable retention.* The entire point of the course's thesis, and unmeasurable in a session. Retrieval practice's benefits appear at *delays*; a prototype test happens at *zero delay*, exactly where desirable difficulties look worst and fluent designs look best (Soderstrom & Bjork 2015). A prototype test is, by construction, biased toward the enjoyable side of the enjoyable ≠ effective divide. Never select between a difficulty-rich and a fluency-rich design on session performance alone.
+*Durable retention.* The entire point of the course's thesis, and unmeasurable in a session. Retrieval practice's benefits appear at *delays*; a prototype test happens at *zero delay*, exactly where desirable difficulties look worst and fluent designs look best (Soderstrom & Bjork 2015). A prototype test is, by construction, biased toward the enjoyable side of the enjoyable ≠ effective divide. Never select between a difficulty-rich and a fluency-rich design on session performance alone. In the series' terms, the zero-delay session cannot see the Frictional mechanism working — only its cost.
 
 *Spacing, decay, and habit effects.* Anything whose mechanism operates across days or weeks: spaced schedules, motivation decay after novelty — Chapter 4's leaderboard collapse happened at week twelve, not minute twelve — and the crutch effects from supports that Chapter 12 describes.
 
@@ -89,7 +93,7 @@ The last discipline this week is refusing to overclaim. A prototype session — 
 
 This is not a counsel of despair; it is a division of labor. The prototype test answers comprehension, interaction, load, and immediate misconception questions *now*. Everything above becomes a named assumption that flows into the Week 13 measurement plan. A checkpoint submission that claims its prototype "improved learning" has failed the week's central lesson. One that says "comprehension of the mechanic rose; retention effects unknown, measurement planned" has learned it.
 
-<!-- → [CHART: timeline of what each evaluation type can and cannot measure — x-axis: time from first encounter (session, day, week, month), y-axis: evaluation method (prototype test, pilot module, delayed assessment, instrumented deployment); show which row is populated at each timescale; caption: The prototype test occupies the leftmost column. Everything to its right requires time the session cannot produce. Name the empty cells explicitly rather than leaving them to be quietly overclaimed.] -->
+![Figure 8.4 — Evaluation-timescale coverage: the prototype test occupies the zero-delay column alone — the empty cells are claims a session cannot make and must be named as assumptions (middle-row coverage schematic)](../images/08-prototyping-learning-experiences-from-paper-to-pilot-fig-04.png)
 
 ---
 
@@ -110,6 +114,8 @@ The first revision instinct was an animated explainer of sampling variability �
 The actual revision forced the misconception into the open: the prediction step now presents *two labeled candidate histograms* — one narrower (correct), one wider-but-smoother (the misconception's signature, drawn from the learners' own recorded explanations) — and requires choosing *and typing one sentence of why* before the reveal. Three fresh learners: the wrong-reason-right-answer pattern now surfaces visibly in the choice itself, and the scripted feedback addresses it directly.
 
 Fidelity decision for the next iteration: a medium-fidelity interactive build is now warranted — the reveal's pacing and the slider's feel are genuinely open questions paper cannot answer — but voice-over, illustration, and adaptive difficulty remain unjustified spends until the pilot.
+
+![Figure 8.3 — The prototype–test cycle: name the riskiest unknown, choose the lowest sufficient rung, build cheap, run the four-channel test, classify findings, revise and re-enter — with demotion down the ladder as a legitimate move, not an error](../images/08-prototyping-learning-experiences-from-paper-to-pilot-fig-03.png)
 
 The limit deserves naming explicitly. Eight short sessions established comprehension and trapped a misconception; they established nothing about whether the redesign improves retention, transfer, or Unit 4 completion. Those claims now sit in the assumptions-awaiting-measurement register until Week 13 instruments them. And the five-then-three sample was drawn from volunteers; the learners the cliff actually claims were not in the room.
 
@@ -161,20 +167,146 @@ Attach to the Prototype Checkpoint:
 
 ---
 
-## LLM Exercise: Stress-Test the Test
+## Chapter 8 Exercises: Prototyping Learning Experiences — From Paper to Pilot
 
-*Productive-struggle guardrail: the LLM critiques your protocol; it does not run your test. It must never simulate learner responses, invent findings, or substitute for the n ≥ 3 real learners the checkpoint requires — an LLM roleplaying a confused student tells you about the model's training data, not about your learners' misconceptions.*
+**Project:** The Redesign Dossier
+**This chapter adds:** `dossier/08-prototype-test-report.md` — the PROTOTYPE CHECKPOINT artifact: your riskiest-unknown sentence, the prototype at its justified fidelity, the four-channel test protocol, two-column findings from n ≥ 3 real learners, and the fidelity decision for the next iteration. This is the dossier's track-switch point: the file ends with your stay-or-switch call.
 
-After drafting your Prototype Checkpoint test protocol (Exercise 4), and before running it, paste your riskiest-unknown sentence, your prototype description, and your full protocol into an LLM with this prompt:
+### Exercise 1 — When to Use AI
+
+The fidelity ladder's whole argument is that cheap variants beat one precious build — and generating cheap variants is the thing AI is fastest at. Use it where parallel options and mechanical conversion are the work.
+
+**Task 1 — Generate prototype variants in parallel.** Dow et al. (2010) found parallel prototyping beats serial refinement, partly because five cheap prototypes stay hypotheses while one becomes an identity. Paste your riskiest-unknown sentence and the relevant segment of `dossier/06-journey-map.md`, and ask for three structurally different paper-prototype concepts that could answer the unknown — different mechanics, not different decorations — each as a screen-by-screen script you could hand-operate with index cards.
+*Why AI works here:* **parallel option generation.** Divergence is cheap for the model and psychologically expensive for you, and you hold the single evaluation criterion that matters: can this rung answer my riskiest unknown?
+
+**Task 2 — Draft the Wizard-of-Oz scripts and branching copy.** The wizard needs more prepared responses than you expect: elaborated-feedback scripts for the operator to read aloud, varied per condition; candidate wordings for the prediction prompt; branching copy for each path a learner might take. Generate the full set from your protocol's spec, then trim.
+*Why AI works here:* **drafting at volume against a specification.** You wrote the spec — which feedback move fires at which moment — so every script is checkable against it, and over-generation costs nothing when the operator is a human with a stack of cards.
+
+**Task 3 — Convert raw test notes into the report structure.** After your sessions, AI turns messy observation notes into the two-column findings sheet and the Evidence Disclosure skeleton (this is Exercise 3, Phase 2, below).
+*Why AI works here:* **reformatting.** Your notes hold the content; the chapter holds the structure; the AI moves one into the other, and you can trace every line back to its source.
+
+**The tell:** You know you are using AI appropriately when you can evaluate the output — when you have independent criteria to judge whether it is correct, complete, and fit for purpose.
+
+### Exercise 2 — When NOT to Use AI
+
+**Task 1 — Simulating learner test sessions.** "Roleplay a confused first-year student using my prototype." An LLM roleplaying a confused student tells you about the model's training data, not about your learners' misconceptions — and the checkpoint requires n ≥ 3 real learners for exactly this reason.
+*Why AI fails here:* **synthetic data substituting for observation.** The chapter's worked example caught the wrong-reason-right-answer pattern because real learners generated real explanations against a real probe — "you'd have fewer weird values with more people" is not a sentence a simulation of your learners would have supplied, because it came from a specific person's specific wrong model. A simulated test session produces findings with the texture of evidence and the provenance of fiction.
+
+**Task 2 — Deciding the next iteration's fidelity.** Do not ask AI what fidelity to build next.
+*Why AI fails here:* **context-blind calibration.** The fidelity decision weighs your budget, your deadline, your stakes, and your team's tolerance for being wrong — none of which the model knows and all of which it will cheerfully assume. It will recommend the respectable middle rung every time. The chapter's rule — when in doubt, go one rung lower than feels respectable — exists precisely because fluent advisers, human and machine, pull upward.
+
+**Task 3 — Interpreting why a learner misread the mechanic.** When your notes show a learner deliberating over a screen she believed was paused, the causal question — what inference did she make about what kind of object this is? — cannot be answered by a model that was not in the room.
+*Why AI fails here:* **causal explanation from thin observation.** Given two lines of notes, a model will produce a confident, coherent causal story; producing coherent stories is what it is for. Whether the story is true of your learner is undeterminable from the input, and a wrong-but-fluent diagnosis sends the revision in the wrong direction with full conviction. The fix is in the protocol, not the post-hoc chat: a generative probe at the moment of confusion, asked by you.
+
+**The tell:** If your test report contains a finding no learner produced, a fidelity call you cannot defend in budget terms, or a causal diagnosis that arrived faster than the observation supposedly behind it — the report exists, but the test did not, because the AI did the work that should have been yours.
+
+**Series connection:** Tier 4 (Metacognitive). The checkpoint's central skill is knowing what your test can and cannot tell you — that completion is not comprehension, that zero-delay sessions flatter fluency, that "comprehension rose; retention unknown, measurement planned" is the passing answer. Delegate the interpretation and you delete exactly the knowing-about-your-knowing this tier trains.
+
+### Exercise 3 — LLM Exercise: Stress-Test the Test, Then Write It Up
+
+**Builds:** `dossier/08-prototype-test-report.md`
+**Tool:** Claude Project "Redesign Dossier," with `dossier/01` through `dossier/07` in project knowledge.
+
+Two phases wrap around the live sessions, which run AI-free. The LLM critiques your protocol and formats your findings; it never runs your test, simulates a learner, or substitutes for the n ≥ 3 real learners the checkpoint requires.
+
+**Phase 1 — Red-team the protocol (before testing).** Draft the protocol yourself first (application exercise 4 above): think-aloud instruction, prediction probes targeted at your documented misconceptions, a feedback-uptake probe, a motivational read, and the two-column test sheet. Then:
+
+> You are a methods reviewer for a learning-experience prototype test. Read dossier/05-learner-research.md for my documented misconceptions, dossier/06-journey-map.md for my predicted load spikes, and dossier/07-codesign-record.md for the redesign direction under test. Here are my riskiest unknown, my prototype description, and my full test protocol, including every probe question:
+>
+> [PASTE YOUR ARTIFACTS]
+>
+> Audit, in order: (1) Can my protocol actually answer my riskiest unknown — or does it only test whether the interface is operable? Point to the specific probes that do learning-channel work (inferred rule, load signature, feedback uptake, motivational read), and name any channel I have left unprobed. (2) Find every probe that is recognition-based where it should be generative, and explain what each will fail to catch — do not rewrite them for me. (3) Given the misconceptions in dossier/05, identify the one observation my protocol is most likely to misclassify as a success: a completed task hiding a wrong rule. (4) List three claims I might be tempted to make from this test that the zero-delay structure of a prototype session cannot support.
+>
+> Ask me questions where my protocol is ambiguous rather than assuming answers. Do not generate sample learner responses or findings. If I have pasted no protocol above, refuse and tell me to draft one first.
+
+Rewrite the weak probes yourself, then run the sessions: three to five real learners, think-aloud with prediction probes, two-column sheet. Record in the dossier file: the unprobed channel the audit identified (or its hardest critique), the probe you rewrote in response, and one sentence on what the audit changed.
+
+**Phase 2 — Structure the report (after testing).**
+
+> Convert my raw test notes into a prototype test report, using the Chapter 8 Evidence Disclosure template in this project for structure: (1) Riskiest unknown and fidelity justification — copy my wording, do not improve it. (2) Protocol as run, including deviations. (3) Two-column findings sheet — every observation classified as usability finding or learning finding with its fix-class, exactly as my notes classify it; where my notes do not classify an observation, place it in an "unclassified — designer decision required" list rather than deciding. (4) Prediction-probe transcript excerpts, verbatim from my notes. (5) Assumptions awaiting measurement — every claim my zero-delay sessions cannot support, stated as testable assumptions addressed to the Chapter 13 measurement plan. (6) Empty sections headed "designer only" for: the revision decision, the fidelity decision for the next iteration, and the track stay-or-switch call.
+>
+> Rules: use only my notes. Do not interpret why a learner did something unless my notes record the learner's own stated reason. Do not soften findings — "three of five completed the task while holding the wrong rule" must not become "most learners completed the task successfully." Do not write any retention, learning-gain, or completion-effect claim anywhere in the report.
+>
+> My raw test notes: [PASTE YOUR NOTES]
+
+Then write the three designer-only sections yourself and attach the Evidence Disclosure.
+
+**What this produces:** the checkpoint file — `dossier/08-prototype-test-report.md` — with a red-teamed protocol, findings traceable to real sessions, an honest assumptions register, and the three judgment calls (revision, fidelity, track) in your hand alone.
+
+**How to adapt:**
+- *Own project:* for workplace training, your three learners are three people from the target audience — never your design team; the wizard can be the colleague at the next desk and the prototype a stack of index cards.
+- *ChatGPT / Gemini:* paste short summaries of `dossier/05`, `06`, and `07` plus the Evidence Disclosure template directly into each prompt; the audit logic is identical.
+- *Claude Project:* upload the finished `08` file to project knowledge — Chapter 9 audits this exact prototype, and Chapter 13 instruments its assumptions register.
+
+**Connection to previous chapters:** the misconceptions from `dossier/05` write your prediction probes; the journey map from `dossier/06` predicts where the load spikes should cluster — the test checks the prediction; the co-design record from `dossier/07` chose what got prototyped at all.
+
+**Preview of next:** Chapter 9 walks this same prototype as the learners who were not in your test room. Your volunteers were sighted, fluent, on laptops, with time to spare — a sliver of the audience. The variability audit covers the rest.
+
+### Exercise 4 — CLI Exercise: The Test-Session Kit
+
+**Tool:** Claude Code or Cowork — Cowork if your prototype lives as documents and printables (most paper prototypes do); Claude Code if your prototype includes a clickable or HTML form and you want the kit generated alongside it. Justification: this is a multi-file scaffolding job with a self-reporting verification step — the four-channel coverage check — which is exactly the shape agentic tools handle better than a chat window.
+**Skill level:** Intermediate — run Chapter 7's session-kit builder first if you have not.
+
+**Setup checklist:**
+- [ ] Dossier folder accessible with `05`, `06`, and `07`
+- [ ] Prototype description and post-red-team protocol saved at `dossier/working/ch8-protocol.md`
+- [ ] Session logistics decided: how many learners (3–5), how long (~30 minutes), wizard or no wizard
+
+**Paste-ready task:**
+
+> Read dossier/05-learner-research.md, dossier/06-journey-map.md, dossier/07-codesign-record.md, and dossier/working/ch8-protocol.md. Do not modify any of them. Create a test-session kit inside dossier/working/ch8-test-kit/ and nowhere else:
+>
+> 1. facilitator-script.md — the session script from my protocol: think-aloud instruction, warm-up, each probe at its planned moment, closing debrief. Copy probe wording from my protocol verbatim; do not improve it.
+> 2. probe-cards.md — one card per prediction probe, each stating the probe, the misconception from dossier/05 it targets, what a misconception-revealing answer sounds like in general terms (do not script specific expected learner answers), and the follow-up "say why" wording.
+> 3. wizard-script.md — if my protocol includes Wizard-of-Oz elements, the operator's response script with variations per condition; otherwise create the file containing only "Not applicable — no WoZ element."
+> 4. observation-sheets.md — printable two-column sheets (usability finding / learning finding, each with a fix-class line), pre-populated with my protocol's planned observation moments plus blank rows for the unplanned.
+> 5. consent-debrief.md — consent text (recording, purpose, right to stop) and, if a wizard is used, a debrief script that discloses the simulation: deceive about the system, never about the stakes.
+> 6. coverage-check.md — REQUIRED FINAL STEP: a table mapping every probe and observation moment in this kit to one of the four channels (inferred rule, load signature, feedback uptake, motivational read). If any channel has zero probes, flag it in capital letters at the top of the file and stop — do not invent a probe to fill the gap.
+>
+> Constraints: write only inside dossier/working/ch8-test-kit/; never simulate learner responses or generate sample findings; never write to dossier/08-prototype-test-report.md; if a probe's channel is ambiguous, list it as UNMAPPED rather than guessing. Finish by printing the coverage table and anything UNMAPPED or flagged.
+
+**Expected output:** a runnable session kit, and a coverage check that makes the chapter's four-channel discipline inspectable at a glance.
+
+**What to inspect:** open `coverage-check.md` first — an empty channel that went unflagged means the agent failed its own stopping condition, and your session would have run with a hole in it. Then `probe-cards.md`: confirm every probe is still generative ("explain," "predict and say why"), because agents sometimes helpfully convert generative probes into cleaner multiple-choice — and that conversion silently deletes the method. Check the UNMAPPED list: classifying a moment's channel is a judgment, and the agent was right to leave you the ambiguous ones.
+
+**If it goes wrong:** sample learner answers in the kit → delete them; that is Exercise 2, Task 1 sneaking back in through the toolchain. A usability check mapped to "inferred rule" → remap it yourself and treat the whole coverage table as draft, not verdict. Kit files written outside the target folder → restore the touched files and re-run with constraints first.
+
+**CLAUDE.md / AGENTS.md note:** add to the dossier folder's `CLAUDE.md` (or `AGENTS.md`): *"Prototype test data comes only from live sessions with real learners. Never generate, simulate, or extrapolate learner responses, findings, or transcripts."*
+
+### Exercise 5 — AI Validation Exercise: The Completion-Inflation Audit
+
+**What you validate:** the Phase 2 output of Exercise 3 — the AI-structured test report — against your raw notes and, if you recorded, the session audio. Your own output, because the ground truth is in your hands.
+**Type:** synthesis and classification validation.
+**Risk level:** Medium-High. This is a graded checkpoint and the dossier's track-switch point; a report that inflates completions into successes can flip your stay-or-switch call.
+
+**The checklist:**
+1. **Correctness** — trace every transcript excerpt to your notes verbatim; trace five findings to their source observations.
+2. **Completeness** — every session represented; every channel either reported or explicitly marked unprobed; your genuinely ambiguous observations sitting in the "unclassified — designer decision required" list rather than silently resolved.
+3. **Scope** — designer-only sections still empty; no retention, learning-gain, or completion-effect claims anywhere; the assumptions register present and addressed to Chapter 13.
+4. **Column discipline** *(chapter-specific)* — for every learning finding in your notes, confirm it was not reassigned to the usability column. The chapter names the wishful move: a learning failure relabeled "needs clearer instructions." Search the report for instruction-fix language and check what each instance is covering.
+5. **Zero-delay claims audit** *(chapter-specific)* — read every sentence containing "learned," "understood," "improved," or "worked." Each must be scoped to the session ("explained the rule correctly at the end of the session"), never beyond it.
+6. **Failure-mode check** — *completion inflation.* Find every completed task in the report and ask: does the report carry the learner's explanation, or just the completion? The chapter's most dangerous test result was a completed task; the most dangerous report is one that records the completion and drops the wrong reason underneath it.
+
+**Findings protocol:** All checks pass → write the designer-only sections, attach the Evidence Disclosure, finalize. One check fails → repair from your notes, note the repair, re-run that check. Multiple checks fail → a When-NOT moment: the structuring pass was interpretive, not clerical. Rebuild the findings sheet yourself from your notes, and log the failure in the dossier — the log itself demonstrates the checkpoint's central lesson.
+
+**AI Use Disclosure:** generate the draft with this prompt, then edit until both sentences are true:
+
+> Draft a two-sentence AI Use Disclosure for my prototype test report. Sentence one states what AI did: red-teamed my test protocol, scaffolded the session kit, and structured my raw notes into the report format. Sentence two states what I did and verified: ran every session with real learners, traced all findings to my notes, audited the two-column classification and zero-delay claims, and made the revision, fidelity, and track decisions without AI input.
+
+**Series connection:** Tier 4 (Metacognitive). This exercise is the tier in miniature: the checkpoint does not just test whether your prototype works — it tests whether you know what your evidence can and cannot say. A validated report that reads "comprehension of the mechanic rose; retention effects unknown, measurement planned" is the week's passing grade, and no AI can earn it for you.
 
 ---
 
-You are a methods reviewer for a learning-experience prototype test. Here are my riskiest unknown, my prototype description, and my test protocol, including every probe question: [PASTE YOUR OWN ARTIFACTS].
+## References
 
-Audit, in order: (1) Can my protocol actually answer my riskiest unknown — or does it only test whether the interface is operable? Point to the specific probes that do learning-channel work (inferred rule, load, feedback uptake, motivation), and name any channel I have left unprobed. (2) Find every probe that is recognition-based where it should be generative, and explain what each will fail to catch — do not rewrite them for me. (3) Identify the one observation my protocol is most likely to misclassify as a success (a completed task hiding a wrong rule). (4) List three claims I might be tempted to make from this test that the zero-delay structure of a prototype session cannot support.
+*The following sources cited in this chapter were verified as real and accurately characterized during fact-checking (2026-06-07). See `factchecks/08-prototyping-learning-experiences-from-paper-to-pilot-assertions.md` for full findings.*
 
-Ask me questions where my protocol is ambiguous rather than assuming answers. Do not generate sample learner responses or findings. If I have pasted no protocol above, refuse and tell me to draft one first.
+1. Gould, J. D., & Lewis, C. (1985). Designing for usability: Key principles and what designers think. *Communications of the ACM*, 28(3), 300–311. — CONFIRMED.
+2. Dow, S. P., Glassco, A., Kass, J., Schwarz, M., Schwartz, D. L., & Klemmer, S. R. (2010). Parallel prototyping leads to better design results, more divergence, and increased self-efficacy. *ACM Transactions on Computer-Human Interaction*, 17(4), Article 18. — CONFIRMED.
+3. Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. *Proceedings of INTERCHI '93 (CHI '93)*, 206–213. — CONFIRMED (five-user finding; chapter correctly preserves its limitation for rare/severe defects).
+4. Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integrative review. *Perspectives on Psychological Science*, 10(2), 176–199. — CONFIRMED (grounds the zero-delay bias).
+5. Kelley, J. F. (1984). An iterative design methodology for user-friendly natural language office information applications. *ACM Transactions on Office Information Systems*, 2(1), 26–41. — CONFIRMED (origin of the Wizard-of-Oz method).
+6. Buxton, B. (2007). *Sketching User Experiences: Getting the Design Right and the Right Design*. Morgan Kaufmann. — Standard reference, not independently re-fetched; characterization accurate.
+7. Knapp, J., Zeratsky, J., & Kowitz, B. (2016). *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*. Simon & Schuster. — Standard reference, not independently re-fetched; characterization accurate.
 
----
-
-*Submit with your checkpoint: the unprobed channel the LLM identified (or its hardest critique), the probe you rewrote yourself in response, and one sentence on what the audit changed.*
+*Note on the design-sprint-in-education claim ("case studies, no controls"): the fact-check pass confirmed the hedge as accurate — the locatable education design-sprint literature is case-study/descriptive, with no controlled evidence that the sprint outperforms slower iteration on learning outcomes.*

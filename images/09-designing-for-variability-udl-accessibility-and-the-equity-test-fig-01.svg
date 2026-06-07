@@ -1,0 +1,50 @@
+<!--
+  CAJAL figure - Experience Design for EdTech
+  Chapter: 09-designing-for-variability-udl-accessibility-and-the-equity-test - Figure 01
+  The Three Justification Logics - equal-tier stack with two blocked moves - priority: Critical
+  Generated 2026-06-07 - source: pantry/09-designing-for-variability-udl-accessibility-and-the-equity-test-cajal.md
+-->
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-title-01">
+  <title id="fig-title-01">The Three Justification Logics — 09-designing-for-variability-udl-accessibility-and-the-equity-test</title>
+  <desc>Three equal tiers — obligated, evidence-supported, contested (a documented bet) — drawn the same size: kinds of justification, not a confidence ranking. Two dashed arrows ending in flat bars mark the blocked errors: demoting an obligation downward, promoting a bet upward.</desc>
+  <metadata><cajal:figure xmlns:cajal="https://bearbrown.ai/cajal/1.0" book="Experience Design for EdTech" book-slug="experience-design-for-edtech" chapter="09-designing-for-variability-udl-accessibility-and-the-equity-test" figure-number="01" figure-title="The Three Justification Logics" figure-slug="three-justification-logics" figure-type="equal-tier-stack-with-blocked-arrows" priority="Critical" author="Nik Bear Brown" date-generated="2026-06-07" source-file="pantry/09-designing-for-variability-udl-accessibility-and-the-equity-test-cajal.md"/></metadata>
+
+  <text x="32" y="40" font-family="'EB Garamond', 'Garamond', Georgia, serif" font-size="14" fill="#2a1a0e">Figure 9.1 · The Three Justification Logics</text>
+
+  <!-- tier 1: obligated (equal size to the others — load-bearing) -->
+  <rect x="72" y="78" width="528" height="84" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <path d="M110,102 l16,7 v10 c0,12 -8,18 -16,22 c-8,-4 -16,-10 -16,-22 v-10 z" fill="none" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="150" y="110" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">OBLIGATED — ACCESS</text>
+  <text x="150" y="128" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">captions, contrast, keyboard navigation: standards apply;</text>
+  <text x="150" y="143" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">no outcome evidence is required before acting</text>
+
+  <!-- blocked move: demotion (structural terminator bar, not color) -->
+  <line x1="110" y1="166" x2="110" y2="194" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="98" y1="197" x2="122" y2="197" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="140" y="187" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">blocked: demoting an obligation to an evidence question</text>
+
+  <!-- tier 2: evidence-supported -->
+  <rect x="72" y="204" width="528" height="84" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <rect x="98" y="226" width="24" height="34" fill="#FFFFFF" stroke="#2a1a0e" stroke-width="1.5"/>
+  <line x1="103" y1="236" x2="117" y2="236" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="103" y1="243" x2="117" y2="243" stroke="#ADADAD" stroke-width="1"/>
+  <line x1="103" y1="250" x2="117" y2="250" stroke="#ADADAD" stroke-width="1"/>
+  <text x="150" y="236" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">EVIDENCE-SUPPORTED</text>
+  <text x="150" y="254" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">a named, checked finding justifies the change</text>
+  <text x="150" y="269" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">(e.g., the spacing effect for a retention goal)</text>
+
+  <!-- blocked move: promotion -->
+  <line x1="110" y1="326" x2="110" y2="298" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="98" y1="295" x2="122" y2="295" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="140" y="313" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">blocked: promoting a contested claim to settled status</text>
+
+  <!-- tier 3: contested / documented bet -->
+  <rect x="72" y="330" width="528" height="84" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+  <circle cx="110" cy="372" r="15" fill="none" stroke="#2a1a0e" stroke-width="1.5"/>
+  <text x="150" y="362" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="12" font-weight="bold" fill="#2a1a0e">CONTESTED — A DOCUMENTED BET</text>
+  <text x="150" y="380" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">decided under disclosed uncertainty, recorded as a bet,</text>
+  <text x="150" y="395" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">with the trigger that would revisit it</text>
+
+  <text x="32" y="446" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">Three kinds of justification, drawn as equal tiers — different in kind, not a confidence pyramid.</text>
+  <text x="32" y="460" font-family="'Inter', -apple-system, 'Helvetica Neue', sans-serif" font-size="11" fill="#545454">The dashed, barred moves (⊣) are the chapter’s two central errors; the bar marks a blocked move, not a flow.</text>
+</svg>
