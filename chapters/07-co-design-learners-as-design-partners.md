@@ -47,6 +47,8 @@ Unstructured co-design collapses into either a complaint session or a referendum
 
 **The feedback matrix.** Borrowed from service design practice (Stickdorn et al. 2018), a four-quadrant matrix — what works, what should change, questions raised, new ideas — separates evaluation from generation and gives every contribution a placed, visible home. After the session, every matrix item gets a disposition: accepted (and what changed), rejected (and on what grounds — evidence, constraint, or judgment), or deferred (awaiting what information). That accepted/rejected/why record is what separates co-design from theater made auditable.
 
+When reviewing session notes, distinguish contributions that carry personal encounter texture — specific confusions, references to actual moments of struggle, position changes during the session — from contributions that are generic talking points. The GLP framework's social knowledge texture component makes this distinction measurable: genuine engagement leaves a signature that performed participation does not.
+
 ![Figure 7.4 — From matrix to disposition: every session contribution gets a quadrant home and exactly one recorded disposition — accepted, rejected with grounds, or deferred](../images/07-co-design-learners-as-design-partners-fig-04.png)
 
 <!-- → [TABLE: Feedback matrix four-quadrant layout with example items from the pharmacology case — each cell shows sample learner contributions and their dispositions (accepted/rejected/deferred), with grounds column showing evidence citations for rejections] -->

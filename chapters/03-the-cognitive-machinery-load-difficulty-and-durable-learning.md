@@ -97,6 +97,8 @@ The professional form of this chapter is a habit of argument, not a feature list
 
 What load theory cannot tell you is why a learner who *can* keep going *wants* to. The machinery of this chapter is a theory of capacity — of the conditions under which the bottleneck stays clear enough for learning to happen. It says nothing about whether anyone opens the app on day forty. That gap is exactly one chapter wide.
 
+One more bridge before leaving the machinery. The behavioral traces genuine learning leaves — characteristic time-on-task distributions correlated with difficulty (temporal engagement pattern), and response curves to graduated hints that reveal whether partial schema exists (scaffolding response curve) — are the measurement side of what this chapter describes mechanistically. Designing for load is designing for the conditions under which these traces appear.
+
 ---
 
 ## Evidence Box

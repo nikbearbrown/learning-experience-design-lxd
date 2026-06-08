@@ -1,6 +1,12 @@
 # Chapter 14 — Evaluating Learning Experience Quality: Beyond the Smile Sheet
 *A number that answers the wrong question is not evidence — it is a liability with good formatting.*
 
+This chapter has always been necessary. What has changed is the stakes.
+
+When the artifact was causally downstream of the cognitive process, artifact-based evaluation was imperfect but defensible. A course that produced high scores had probably produced some learning. Generative AI has broken this. A learner can now produce an artifact that looks like genuine learning without performing any of the cognitive work that produces durable capability. An AI tutor can produce learner satisfaction, high in-session performance, and positive testimonials while systematically removing the friction that consolidates memory.
+
+The evaluation problem this chapter addresses is now harder: the artifacts themselves are no longer reliable evidence of the process. This is why the two-register discipline matters more now than it did before, and why the confound table must explicitly consider the possibility that the artifact and the process have been decoupled by design.
+
 You are the analyst, and you have until Friday.
 
 A logistics company built "Forward," a six-week onboarding academy, and by every number leadership has seen, it is the most successful thing the learning team has ever shipped. Net Promoter Score: 71 — territory occupied by beloved consumer brands. Completion: 96%. The open comments read like fan mail. The CLO has drafted the expansion announcement: Forward goes global next quarter, budget tripled. The draft is in your inbox for "a quick data sanity check."
@@ -36,6 +42,8 @@ But a scorecard score is not an outcome. A course can satisfy every rubric line 
 Three layers, and the reading rule that goes with them: design quality tells you whether the experience is built to standard; experience and participation tell you whether learners showed up, persisted, and engaged; learning outcomes tell you what changed in capability, with stated uncertainty. No upward substitution. Ever. The 71 NPS is a strong layer-two result. It says nothing about layer three.
 
 ![Figure 14.1 — The three-layer mixed-model evaluation: design quality, experience and participation, and learning outcomes are read together, and no lower layer may substitute for the layer above](../images/14-evaluating-learning-experience-quality-beyond-the-smile-sheet-fig-01.png)
+
+Within layer three, one measure deserves its own sentence. The strongest evidence available in a typical course evaluation is the spacing effect — do learners perform better on spaced retrieval of previously covered material than their immediate post-instruction baseline would predict? This is the GLP framework's Y6 component, and it is the most resistant to common confounds. A program that shows the spacing effect has produced something the artifact alone cannot fake.
 
 ---
 

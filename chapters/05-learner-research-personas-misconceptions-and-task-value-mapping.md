@@ -57,6 +57,8 @@ Each documented misconception becomes a design input with a location: the wrong 
 
 ![Figure 5.2 — Predict, explain, confront: the step-three branch reveals whether the wrong model is shallow (updates) or load-bearing (explains the evidence away) — both outcomes are research findings](../images/05-learner-research-personas-misconceptions-and-task-value-mapping-fig-02.png)
 
+A finding from the GLP measurement framework is useful here: genuine learning produces coherent error trajectories — errors follow conceptually adjacent paths as the mental model develops. Random errors suggest borrowed certainty from an AI explanation that was fluent but not processed. Patterned errors suggest a developing but wrong model. Your misconception finding sheet should note whether the errors have conceptual structure or are scattered.
+
 ---
 
 Raw interviews rot into anecdotes unless structured quickly. Two tools.
@@ -71,7 +73,7 @@ The **empathy map** organizes one learner's data into quadrants: *says* (verbati
 
 A **learner persona** is a composite character that compresses the research into a usable design tool. The format earns its keep only under discipline.
 
-Every load-bearing attribute traces to evidence. A defensible persona footnotes its claims to interview moments: *"believes averages are robust (P2, P4; prediction task 3)."* An attribute with no source is decoration or projection — cut it or label it ASSUMED. The four learning-relevant categories are mandatory: prior knowledge, misconceptions with their structure, motivation type, task-value perception including cost. Demographics enter only where they carry design weight: time poverty, device access, language.
+Every load-bearing attribute traces to evidence. A defensible persona footnotes its claims to interview moments: *"believes averages are robust (P2, P4; prediction task 3)."* An attribute with no source is decoration or projection — cut it or label it ASSUMED. The four learning-relevant categories are mandatory: prior knowledge, misconceptions with their structure, motivation type, task-value perception including cost. A fifth mandatory attribute joins them: calibration pattern — how does this learner respond when wrong? Do they update or explain away? A learner who consistently explains away contradicting evidence has a load-bearing wrong model. This is the error-trajectory signal in behavioral data and requires different design treatment from a surface misconception. Demographics enter only where they carry design weight: time poverty, device access, language.
 
 The test of a persona is whether a designer who has never met your learners can read it and predict where this learner struggles, disengages, or fails — and be right. Apply this test to the two Brenda documents at the top of the chapter. One passes. One doesn't. What separates them is not the visual design, the empathy, or the length. It is whether the variables captured are the ones that predict the failure.
 

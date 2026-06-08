@@ -10,7 +10,7 @@
     git history, not in this file.
 -->
 
-# Experience Design for EdTech
+# Frictional Experience Design for EdTech
 
 **Author:** Nik Bear Brown
 

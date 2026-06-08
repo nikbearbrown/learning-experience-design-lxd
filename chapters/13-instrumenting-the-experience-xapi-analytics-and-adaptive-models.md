@@ -57,6 +57,26 @@ For every metric in your plan, write down its class, what it cannot distinguish,
 
 <!-- → [TABLE: Metric classification examples — columns: metric, class, what it cannot distinguish, co-presence required before treating as meaningful — rows: minutes per session, prediction submitted before simulation runs, score on retrieval quiz two weeks after unit, forum posts, hint requested before answer attempt — designed to model the metric-class honesty the measurement plan requires] -->
 
+## The GLP Friction Traces: A Design-Aligned Measurement Framework
+
+The Genuine Learning Probability framework formalizes seven observable friction traces that genuine cognitive engagement leaves in behavioral data. Each maps onto the metric classes above, and each tests a specific design decision.
+
+| GLP Component | Metric Class | Design decision it tests | Minimum measurement spec |
+|---|---|---|---|
+| Y1 Temporal Engagement Pattern | Cognitive engagement proxy | Is time spend correlated with item difficulty? | Log time-on-task per item; correlate with difficulty rating from load audit |
+| Y2 Error Trajectory Coherence | Cognitive engagement proxy | Do errors follow conceptually adjacent paths? | Log error sequences; note whether errors cluster around related misconceptions |
+| Y3 Cross-Context Transfer | Learning evidence | Can the learner apply the concept in a novel context? | Near-transfer and far-transfer items on delayed assessment |
+| Y4 Uncertainty Calibration | Cognitive engagement proxy | Does confidence track actual performance? | Confidence elicitation before answer reveal; compare to correctness |
+| Y5 Social Knowledge Texture | Cognitive engagement proxy | Does discussion show personal encounter? | Code discussion posts for personal-encounter markers vs. generic talking points |
+| Y6 Retrieval Strength Decay | Learning evidence | Does the spacing effect appear? | Spaced retrieval quiz on previously covered material weeks later |
+| Y7 Scaffolding Response Curve | Cognitive engagement proxy | Does partial hint produce near-full gain? | Log hint-rung depth; compare performance by rung |
+
+Note the connection to Chapter 1's time-on-task warning: time-on-task as a raw count is a Goodhart target, but time-on-task *correlated with item difficulty* (Y1) is a different and more informative signal. If learners spend more time on harder items, the engagement is genuine. If time is flat across difficulty, it is borrowed.
+
+A measurement plan that includes at least Y3 (transfer) and Y6 (spacing effect) has the minimum requirements for a genuine learning claim. A plan with only behavioral metrics cannot make that claim regardless of how many rows it contains.
+
+One warning: GLP traces are subject to Goodhart's law if made visible to learners as targets. Design GLP measurement as invisible infrastructure, not visible gamification.
+
 ---
 
 Adaptive platforms calibrate difficulty using Item Response Theory, a psychometric family with roots in Rasch (1960) and Lord (1980). You will not build these models — that boundary is deliberate. But adaptive products will hand you their outputs, and a designer who cannot read them will either ignore the signal or obey it blindly. Both are design failures.

@@ -53,6 +53,8 @@ Fourth: **motivational read.** Does the learner know why this task is worth doin
 
 ![Figure 8.2 — Four channels beneath the surface: the usability probe stops at observable operation, while the inferred-rule, load-signature, feedback-uptake, and motivational-read probes reach what the learner actually believes, carries, does, and values](../images/08-prototyping-learning-experiences-from-paper-to-pilot-fig-02.png)
 
+Two additional channels from the GLP measurement framework are worth probing when time permits. *Transfer probe:* give a problem using the same concept with different surface features. Does the learner recognize the structural similarity? A learner who cannot transfer has a surface representation, not a schema. *Calibration probe:* ask confidence before and after — "how sure were you before you saw the answer?" A learner whose confidence is high before an incorrect answer and unchanged after is exhibiting borrowed certainty. Both probes take under two minutes and provide information the four-channel test cannot.
+
 The protocol that carries all four channels is the **think-aloud with prediction probes**: the learner narrates continuously, and at each conceptually load-bearing moment the facilitator asks for a *prediction before* the system responds and an *explanation after*. Prediction-before is the trap that catches misconceptions in the act. The moment a learner says "the spread will get wider because more data means more spread," you have captured, on tape, exactly the misconception your Chapter 5 research documented, expressing itself against your design.
 
 Build the test sheet with two ruled columns — **usability findings** and **learning findings** — and force every observation into one. The discipline of the second column is the whole method.
@@ -162,8 +164,9 @@ Attach to the Prototype Checkpoint:
 3. **Evidence-grounded decisions:** which prototype features implement published evidence (name the finding and citation).
 4. **Research-grounded decisions:** which features implement your own learner research or co-design record, with no published evidence either way.
 5. **Findings by column:** at least one usability finding and one learning finding, each with its fix-class.
-6. **Assumptions awaiting measurement:** every claim your test could not establish (durable retention, completion effects, decay), stated as testable assumptions addressed to your Week 13 plan.
-7. **Track decision:** stay or switch, and the rationale in one sentence.
+6. **GLP trace hooks:** which of the seven friction traces does this prototype's design allow you to observe? Which are invisible to your measurement plan? Any trace you cannot measure is an assumption carried forward.
+7. **Assumptions awaiting measurement:** every claim your test could not establish (durable retention, completion effects, decay), stated as testable assumptions addressed to your Week 13 plan.
+8. **Track decision:** stay or switch, and the rationale in one sentence.
 
 ---
 

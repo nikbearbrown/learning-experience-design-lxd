@@ -37,6 +37,8 @@ The lanes are not decorative. Each one tracks a construct with a real evidence b
 
 **Reflection opportunities** is the lane designers most often leave empty, because the outline never contained it. Where does the experience ask learners to consolidate — retrieve, self-explain, connect to prior work? Mark both designed reflection (a prompt, a retrieval quiz) and structural reflection (the gap between sessions that spacing research suggests is doing silent work; anchor the exact systematic-review citation before freeze). A journey map with no entries in this lane is a content delivery schedule. Expect fluency without durability.
 
+A sixth indicator worth tracking alongside the lanes: social knowledge texture — whether learners' engagement with material shows personal encounter markers (specific confusions, connections to prior experience, genuine surprise) rather than surface processing or performed participation. A journey with no designed moments for this texture is a delivery schedule.
+
 ---
 
 Here is the mechanism the opening case illustrates — the closest thing this chapter has to a structural law. **Learners rarely quit over single causes. They quit where causes stack.**
@@ -65,13 +67,15 @@ The course-minimum version of this is three added rows: frontstage actors and sy
 
 The map is now covered in friction marks. The naive next move is the dangerous one: smooth everything. Some friction is the learning. Desirable difficulties feel worse in the moment and produce more durable retention; strip them out and you get Chapter 1's beloved product that taught nothing. The map's final skill is friction *triage* — deciding at each marked point whether to remove, keep, or keep but scaffold — with the evidence status of each call labeled. The remove-versus-keep distinction is the series' Frictional principle in instrument form: extraneous load impedes the mechanism of learning, while germane difficulty *is* the mechanism (see Appendix: The Fundamental Themes).
 
-Three tests, in order.
+Four tests, in order.
 
 **Is the effort directed at the learning or at its packaging?** Struggling to retrieve a sampling concept is germane — the effort and the schema-building are the same act. Struggling to install the statistics software is extraneous, full stop. A simple check: would a domain expert also pay this cost? The expert still installs the software — remove or smooth it. The expert does not struggle on retrieval — that struggle is the point.
 
 **Is the difficulty within reach, with feedback close behind?** A desirable difficulty is desirable only when the learner can eventually succeed and learns from the attempt. The same retrieval task is germane for the prepared learner and a control collapse for the unprepared one. Difficulty is a property of the learner-task pair, not the task in isolation — Chapter 3's expertise caveat in journey clothes. Triage each friction *per persona*. A problem set that is productive struggle for one profile needs scaffolding — not removal — for another.
 
 **Is it stacked?** A keepable difficulty in a pile-up column is still a redesign target — not by removing the difficulty but by *unstacking* it. Move the tool change a week earlier when budgets are slack. Insert a feedback cycle before the assessment. Let the difficulty stand alone where the learner can afford it. The most evidence-disciplined fix on most maps is not subtraction but redistribution.
+
+**Does this difficulty leave a trace in the data?** A difficulty your measurement plan cannot see is a difficulty you cannot improve. Germane difficulties should be designed to leave observable signatures — characteristic error patterns, correlated time spend, differential hint usage. If the difficulty is invisible to your instruments, design in a measurement hook before keeping it.
 
 ![Figure 6.5 — Friction triage: each logged friction runs three ordered tests — packaging or learning, within reach with feedback, stacked — terminating in remove, scaffold, unstack, or keep](../images/06-mapping-the-learning-journey-experience-not-content-fig-05.png)
 

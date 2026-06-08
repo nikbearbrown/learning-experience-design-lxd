@@ -91,6 +91,8 @@ The memo declines the gamification layer. In its place: a private, criterion-ref
 
 The gamification decision is not made about gamification. It is made about the diagnosis, the population, and the needs each mechanic feeds. And "no game, but here is what instead" is a complete, defensible design output — arguably more rigorous than a gamification proposal that does not account for the learners it will leave below baseline.
 
+One observation worth making explicit: every mechanic reviewed in this chapter is a substitute for something a skilled human teacher does naturally — calibrating challenge, providing mastery feedback, creating genuine community. The evidence for these mechanics is heterogeneous and often disappointing precisely because the mechanisms they try to operationalize work best as properties of a relationship, not a system. When app-mediated design cannot provide the teacher relationship that Hattie's synthesis and independent meta-analyses consistently find to be among the highest-leverage educational interventions — though the precise effect sizes in that synthesis are contested on methodological grounds, the directional finding is independently supported — the motivation design ceiling is structurally lower.
+
 ---
 
 ## Exercises

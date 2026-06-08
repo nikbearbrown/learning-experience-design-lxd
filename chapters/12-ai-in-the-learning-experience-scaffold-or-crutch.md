@@ -1,6 +1,16 @@
 # Chapter 12 — AI in the Learning Experience: Scaffold or Crutch
 *What the students who felt they were learning more got wrong.*
 
+## The Landscape: Who Is Building AI Learning Products
+
+The practitioners reading this chapter are increasingly being asked to evaluate AI learning products built by teams with no learning science background. The AI that produced the finding this chapter opens with was not designed to harm learning. It was designed by competent engineers optimizing for a product experience. Google's own engineers have documented the general condition: standard frontier models are tuned to present information and be helpful, which conflicts with learning because helpfulness often means giving direct answers. Achieving pedagogical alignment requires deliberate, separate engineering work — what Google calls "pedagogical instruction following" — that most products never commission.
+
+The Digital Education Council found that 86% of students are already using AI in their studies, with ChatGPT used by 66%. That is the dominant learner-facing reality: a general-purpose consumer chatbot optimized for satisfaction, not a pedagogically designed system. The Bellwether Education Partners report (2025) documents that school systems evaluate EdTech primarily on login rates and screen time rather than learning measures, leaving them vulnerable to adopting platforms that satisfy marketing metrics while failing to improve outcomes.
+
+The LXD practitioner's role in this landscape is not just to build well. It is to be the person who asks: what happens when the AI is off? What happens on the test? What happens to the learner who is most dependent on the tool? These questions do not arise naturally in product pipelines. They are the discipline's contribution.
+
+---
+
 Imagine you are one of roughly a thousand high school students in a mathematics course, and this semester practice sessions come with something new: a GPT-4-based tutor in a chat window (Bastani et al. 2025).
 
 It is, by every standard this course has taught you to distrust, a wonderful experience. The tutor never sighs. It is available at 11 p.m. When a problem refuses to crack, you paste it in and the path appears, patient and clear. You use it heavily — nearly everyone did — and practice scores climb: about 48% better with the basic chat tutor, around 127% better with a safeguarded version. In the surveys, students rated the tutor highly. Many also reported something the final data made poignant: they felt they were learning more.
@@ -71,7 +81,27 @@ A **guardrail** is a designed constraint on what the AI may do, placed to preser
 
 Now the honest label: **in the best causal test we have, guardrails neutralized harm; they did not produce gains.** The guarded condition matched control on the unassisted exam — it did not beat it. Current guardrail design is harm-mitigation with the upside unproven. Still valuable — it buys availability, affect, and feedback reach at zero measured learning cost — but a designer who promises learning *gains* from a guardrailed tutor is writing checks the literature has not cashed.
 
-One structurally different pattern dodges the crutch mechanism entirely: **put the AI behind the human, not between the human and the struggle.** In the Tutor CoPilot RCT, an AI whispered pedagogical suggestions to *human tutors* in live sessions; student mastery rose about 4 percentage points overall and roughly 9 points for students of lower-rated tutors, at approximately $20 per tutor per year. The learner's struggle stayed intact; the AI upgraded the scaffolder. When a stakeholder asks where AI should go in a learning experience, "behind the teacher" is currently one of the best-evidenced answers available.
+## The Alternative Paradigm: AI Behind the Teacher
+
+One structurally different pattern dodges the crutch mechanism entirely: **put the AI behind the human, not between the human and the struggle.**
+
+Wang et al. (2025) built Tutor CoPilot: an AI system that, during live tutoring sessions, whispered pedagogical suggestions to human tutors in real time — proposed Socratic questions, conceptual framings, hints to try. The tutors remained the instructors. The AI informed their judgment without replacing it.
+
+Results from an RCT involving over 700 virtual tutors and 1,013 low-income math students in grades 3–6: student mastery rose 4 percentage points overall (66% vs. 62%, p<0.01). The effect was largest for lower-rated tutors — 9 percentage points (65% vs. 56%) — effectively elevating underperforming tutors to the efficacy level of highly rated educators. Less-experienced tutors gained 7 percentage points (68% vs. 61%). Natural language analysis of over 350,000 session messages confirmed that treated tutors used more Socratic questioning and provided structured hints rather than direct answers. Total API cost: approximately $20 per tutor annually. (Note: this is currently a working paper from the Annenberg Institute at Brown University; peer review is pending.)
+
+Read alongside Bastani, the pattern is informative. The guardrailed AI tutor — constrained not to give answers — matched control. It did not harm; it did not help. AI-assisted human tutors beat control. The difference between "no harm" and "genuine gain" was a human in the loop whose judgment was made better by the AI.
+
+But the picture is more complex than "AI behind teacher always wins." Kestin et al. (2025), a peer-reviewed RCT in *Scientific Reports*, found that a pedagogically engineered autonomous AI tutor outperformed expert-led active learning in physics, with effect sizes of 0.73 to 1.3 SD. Four caveats must travel with that citation: the sample was Harvard and MIT undergraduates — exceptionally high prior knowledge, intrinsic motivation, and self-regulatory capacity; the PS2 Pal tutor was not a chatbot wrapper but a system engineered around seven specific cognitive psychology principles, including cognitive load management, growth mindset framing, and progressive disclosure; the comparator was classroom active learning, not one-to-one expert human tutoring; and the outcome was short-term, with no long-run transfer data. The resolution: that system was not a chatbot wrapper. It was built around seven specific cognitive principles. The variable that explains both the Tutor CoPilot gain and the Kestin gain is the same: pedagogical design was present. The variable that explains the Bastani harm: it was absent.
+
+| Configuration | Evidence status | Notes |
+|---|---|---|
+| Generic AI in front of learner, unguarded | Negative — harms unassisted learning | Bastani GPT Base (RCT, peer-reviewed); Jose et al. (quasi-experimental) |
+| Guardrailed AI in front of learner, not pedagogically engineered | Neutral — harm removed, gain not demonstrated | Bastani GPT Tutor (RCT, peer-reviewed) |
+| Pedagogically engineered AI in front of learner | Positive in specific conditions | Kestin PS2 Pal (RCT, peer-reviewed) — high prior knowledge, structured domain, motivated learners |
+| AI behind teacher/tutor | Positive — especially for lower-quality baseline educators | Wang et al. Tutor CoPilot (RCT, preprint/working paper) |
+| No AI, skilled teacher | Baseline | Hattie directional evidence (precise effect sizes contested on methodological grounds) |
+
+When a stakeholder asks where AI should go in a learning experience, "behind the teacher" is currently one of the best-evidenced answers available — and "in front of the learner" is defensible only when someone has done the pedagogical engineering and can show it.
 
 ---
 
@@ -135,6 +165,8 @@ The AI integration decision is a permission table, not a procurement decision. W
 ## What Would Change My Mind
 
 The crutch-effect interpretation — that unguarded generative help during practice harms learning by substituting for retrieval, generation, error diagnosis, and persistence — rests on one excellent RCT and its mechanistic consilience with the desirable-difficulties literature. It would be overturned by: preregistered, multi-site RCTs in which *unguarded* AI access during practice produces equal or better performance on *delayed, unassisted* tests across more than one domain and age band; a failed replication of Bastani et al. showing the 17% deficit was an artifact of that tutor's interface, the exam format, or a novelty-period effect; or longitudinal evidence that learners spontaneously develop self-regulated AI use over multi-semester exposure, so early deficits wash out without designed guardrails. Symmetrically, the chapter's tolerance for guardrailed AI would need tightening if guarded conditions began showing delayed harms the single-semester benchmark was too short to catch. The Evidence Box's aging notice exists because one of these results may already be in press.
+
+The chapter's larger claim — that pedagogical design, not the delivery channel, is the variable that determines whether AI EdTech produces learning — has its own falsification conditions. Three results would overturn it: if raw model scaling automatically resolved cognitive offloading without guardrails or custom prompting; if frictionless UX designs yielded equivalent or superior delayed retention to designs with productive cognitive struggle; or if unmediated chatbot access consistently generated equivalent learning to pedagogically designed environments. None of these conditions is currently met.
 
 ---
 

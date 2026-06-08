@@ -107,6 +107,8 @@ The lesson, stated plainly: the modality decision is not "is the medium impressi
 
 The limit to name honestly: this resolution is local to a conceptual-statistical domain. An anatomy course, a chemistry-lab-safety module, or a clinical-procedure curriculum running the same five questions could legitimately arrive at *adopt with pre-training* — and the method would deserve equal credit there. Declining here is an output of the framework, not a stance against the medium. The framework also cannot price one real thing: the recruitment and morale value of visible innovation. If the institution needs a lighthouse project, that is a legitimate goal. It just must not be billed as a learning outcome.
 
+One pattern emerges from the immersion evidence that connects to a larger argument in this book: the conditions under which immersive and embodied designs consistently produce learning gains involve a human in the loop — a facilitator, an instructor, a peer. Unattended immersion is where many null results appear. This is consistent with the broader pattern: the delivery medium matters less than the pedagogical design around it, and the pedagogical design that works best usually includes a human who can calibrate, observe, and respond.
+
 ---
 
 ## Exercises

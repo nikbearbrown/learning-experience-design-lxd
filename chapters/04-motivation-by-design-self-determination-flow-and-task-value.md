@@ -93,6 +93,8 @@ Motivated engagement is necessary but not sufficient for learning. Chapter 1's w
 
 The sequence matters: first secure the learning mechanism, then design the motivational support that keeps learners engaged with it. Autonomy-supportive structure. Competence-calibrated challenge. Genuine relatedness. Visible task value. And treat every engagement mechanic beyond those four as an empirical claim with a stated decay risk — a loan, not a fuel source. Motivation by design, not motivation as decoration.
 
+One more calibration, about where the strongest levers actually live. The highest-effect motivational supports in the evidence base are relational — teacher-student relationship, teacher credibility, quality feedback from someone who knows the learner. These are not designed into an app; they are properties of a human teaching relationship. Motivation design in a fully app-mediated experience is operating with the most powerful motivational levers already removed. This does not mean app-mediated experiences cannot motivate — it means their ceiling is lower, and the design must work harder to compensate.
+
 ---
 
 ## Exercises
