@@ -1,4 +1,4 @@
-# Experience Design for EdTech
+# Learning Experience Design
 
 **Author:** Nik Bear Brown
 **Publisher:** Bear Brown, LLC

@@ -138,7 +138,6 @@ For now, the thing to sit with is simpler: that the five stars measured somethin
 8. *(Challenge — heterogeneity)* The Zeng et al. (2024) meta-analysis reports *g* = 0.782 for gamification's effect on academic performance, but two of twenty-two studies found negative effects. You are advising a team about to gamify an onboarding course for a population and context quite different from the meta-analysis sample. Write the two-paragraph briefing you would give — one paragraph on what the evidence supports, one paragraph on what it cannot tell you — that would let the team make a genuinely informed decision rather than a number-laundered one.
 
 ---
-## Chapter 1 Exercises: The Engagement Trap — Why Learners Love Products That Don't Teach
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/01-evidence-brief.md` — an evidence brief for the learning experience you will redesign, separating what its engagement signals actually measure from what would count as evidence of learning.
 ---

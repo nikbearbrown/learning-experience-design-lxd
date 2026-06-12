@@ -185,7 +185,6 @@ Two findings would force revisions in opposite directions — which is what cali
 
 ---
 
-## Chapter 9 Exercises: Designing for Variability — UDL, Accessibility, and the Equity Test
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/09-variability-audit.md` — the barrier-first audit of your prototyped segment: the WCAG sweep, the documented-profile walks, a change table with a justification-logic label on every row, the equity test on anything adaptive, and — if your audit goes the way most honest ones do — at least one decline.

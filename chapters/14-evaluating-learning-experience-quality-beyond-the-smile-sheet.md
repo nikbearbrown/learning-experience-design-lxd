@@ -172,7 +172,6 @@ Attach to Studio Assignment #9:
 
 ---
 
-## Chapter 14 Exercises: Evaluating Learning Experience Quality
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/14-evaluation.md` — the honest evaluation: a three-layer mixed-model summary, a confound table with its timing disclosed, verdicts on every ledger assumption, and the two-register conclusion that survives both the methodologist and the meeting.

@@ -3,7 +3,7 @@
     Tic TOC Phase 2: Learning Architecture.
 -->
 
-# Experience Design for EdTech — Learning Architecture
+# Learning Experience Design — Learning Architecture
 
 **Author:** Nik Bear Brown
 

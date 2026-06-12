@@ -199,7 +199,6 @@ In Week 1, the trap needed a chapter to explain. It just took a paragraph to dia
 
 ---
 
-## Chapter 15 Exercises: The Full Redesign
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/15-portfolio.md` — the finished dossier. A decision spine of six to ten traces, every artifact captioned by the decision it served, the open ledger with scheduled tests, the final Evidence Disclosure, and both conclusion registers. This is the chapter where the dossier stops being a folder and becomes an argument.

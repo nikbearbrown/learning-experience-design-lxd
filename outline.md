@@ -12,7 +12,7 @@
     don't let them drift.
 -->
 
-# Experience Design for EdTech — Outline
+# Learning Experience Design — Outline
 
 **Author:** Nik Bear Brown
 

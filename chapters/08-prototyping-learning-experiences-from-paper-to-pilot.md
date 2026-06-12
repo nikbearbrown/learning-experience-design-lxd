@@ -170,7 +170,6 @@ Attach to the Prototype Checkpoint:
 
 ---
 
-## Chapter 8 Exercises: Prototyping Learning Experiences — From Paper to Pilot
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/08-prototype-test-report.md` — the PROTOTYPE CHECKPOINT artifact: your riskiest-unknown sentence, the prototype at its justified fidelity, the four-channel test protocol, two-column findings from n ≥ 3 real learners, and the fidelity decision for the next iteration. This is the dossier's track-switch point: the file ends with your stay-or-switch call.

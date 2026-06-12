@@ -145,7 +145,6 @@ Chapter 6 maps the journey the syllabus cannot see. You now know Priya's wrong m
 
 ---
 
-## Chapter 5 Exercises: Learner Research
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/05-learner-research.md` — your interview protocol, empathy maps with the knows/wrongly-knows and values/costs lanes, a misconception finding sheet, two or three evidence-based personas with every load-bearing attribute footnoted, and your assumptions page marked survived / overruled / untested. Built from interviews with real learners. Not one learner attribute in this file comes from a model.

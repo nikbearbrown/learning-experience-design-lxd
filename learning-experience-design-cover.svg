@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 1600 2560" role="img" aria-labelledby="title desc">
+  <title id="title">Learning Experience Design — Saul Bass inspired Kindle cover</title>
+  <desc id="desc">A mid-century modern, Saul Bass inspired book cover with bold geometric shapes, black cream and orange-red palette, angular typography, learner head silhouette, connected nodes, staircase, and portal. Title: Learning Experience Design; subtitle: Why Engagement Isn't Learning and How to Design for Both.</desc>
+
+  <defs>
+    <style>
+      .cream { fill: #efe8d6; }
+      .black { fill: #111111; }
+      .red { fill: #d9532f; }
+      .line { stroke: #efe8d6; stroke-width: 12; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .title1 { font-family: Impact, Arial Black, Helvetica, sans-serif; font-weight: 900; font-size: 154px; letter-spacing: 1px; fill: #111111; }
+      .title2 { font-family: Impact, Arial Black, Helvetica, sans-serif; font-weight: 900; font-size: 178px; letter-spacing: 1px; fill: #d9532f; }
+      .title3 { font-family: Impact, Arial Black, Helvetica, sans-serif; font-weight: 900; font-size: 108px; letter-spacing: 1px; fill: #111111; }
+      .title4 { font-family: Impact, Arial Black, Helvetica, sans-serif; font-weight: 900; font-size: 212px; letter-spacing: 1px; fill: #111111; }
+      .author { font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 56px; fill: #efe8d6; letter-spacing: 3px; }
+      .subtitle { font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 50px; fill: #111111; letter-spacing: 1px; }
+    </style>
+
+    <clipPath id="headClip">
+      <path d="M120 1750
+               C120 1550, 260 1440, 430 1440
+               C590 1440, 720 1555, 720 1700
+               L720 1835
+               C760 1885, 790 1940, 790 2010
+               C790 2095, 740 2160, 665 2205
+               L665 2450
+               L205 2450
+               L205 2230
+               C150 2170, 120 2085, 120 1995 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1600" height="2560" class="cream"/>
+
+  <!-- large black wedges -->
+  <polygon class="black" points="0,0 380,0 195,205 0,255"/>
+  <polygon class="black" points="0,2560 0,2215 355,2125 575,2560"/>
+  <polygon class="black" points="1000,2560 1600,2560 1600,2140 1215,2235"/>
+
+  <!-- orange/red framing blocks -->
+  <polygon class="red" points="1045,345 1600,210 1600,1630 1245,1725 965,1505 985,760" opacity="0.98"/>
+  <polygon class="red" points="585,305 1140,255 1085,965 505,980" opacity="0.12"/>
+
+  <!-- title typography -->
+  <g transform="translate(180,295) rotate(-4)">
+    <text x="0" y="0" class="title1">LEARNING</text>
+  </g>
+  <g transform="translate(170,485) rotate(-4)">
+    <text x="0" y="0" class="title1">EXPERIENCE</text>
+  </g>
+  <g transform="translate(160,690) rotate(-4)">
+    <text x="0" y="0" class="title2">DESIGN</text>
+  </g>
+  <!-- subtitle -->
+  <g transform="translate(170,800) rotate(-4)">
+    <text x="0" y="0" class="subtitle">Why Engagement Isn't Learning —</text>
+    <text x="0" y="66" class="subtitle">and How to Design for Both</text>
+  </g>
+
+  <!-- portal / screen -->
+  <g transform="translate(1110,1280) rotate(-6)">
+    <polygon class="black" points="0,0 455,0 455,440 392,388 62,392 0,440"/>
+    <polygon class="cream" points="55,54 400,54 400,334 341,300 118,302 55,334"/>
+  </g>
+
+  <!-- zig-zag stairs/path -->
+  <g>
+    <polygon class="black" points="942,1600 1260,1472 1435,1532 1120,1660"/>
+    <polygon class="cream" points="886,1714 1210,1574 1370,1638 1058,1774"/>
+    <polygon class="black" points="830,1832 1162,1680 1328,1746 1002,1898"/>
+    <polygon class="cream" points="770,1950 1110,1790 1280,1858 945,2020"/>
+    <polygon class="black" points="708,2068 1058,1902 1236,1974 892,2142"/>
+    <polygon class="cream" points="646,2188 1000,2016 1185,2092 836,2266"/>
+    <polygon class="black" points="580,2310 950,2128 1132,2204 770,2388"/>
+    <polygon class="cream" points="520,2438 900,2252 1084,2328 716,2518"/>
+    <!-- central crack -->
+    <polyline points="1260,1472 1218,1526 1264,1570 1216,1620 1266,1668 1220,1722" fill="none" stroke="#111111" stroke-width="10"/>
+    <polyline points="1214,1488 1168,1542 1214,1586 1166,1638 1216,1686 1170,1740" fill="none" stroke="#efe8d6" stroke-width="10"/>
+  </g>
+
+  <!-- head silhouette -->
+  <g>
+    <path class="black" d="M120 1750
+             C120 1550, 260 1440, 430 1440
+             C590 1440, 720 1555, 720 1700
+             L720 1835
+             C760 1885, 790 1940, 790 2010
+             C790 2095, 740 2160, 665 2205
+             L665 2450
+             L205 2450
+             L205 2230
+             C150 2170, 120 2085, 120 1995 Z"/>
+    <circle class="red" cx="425" cy="1798" r="58"/>
+    <circle class="red" cx="515" cy="1608" r="32"/>
+    <circle class="red" cx="605" cy="1746" r="30"/>
+    <circle class="red" cx="571" cy="1955" r="28"/>
+    <circle class="red" cx="454" cy="2052" r="34"/>
+    <circle class="red" cx="248" cy="2142" r="30"/>
+    <circle class="red" cx="80" cy="1964" r="42"/>
+    <circle class="red" cx="620" cy="1848" r="24"/>
+    <g class="line">
+      <line x1="425" y1="1798" x2="515" y2="1608"/>
+      <line x1="515" y1="1608" x2="605" y2="1746"/>
+      <line x1="425" y1="1798" x2="605" y2="1746"/>
+      <line x1="425" y1="1798" x2="571" y2="1955"/>
+      <line x1="425" y1="1798" x2="454" y2="2052"/>
+      <line x1="425" y1="1798" x2="248" y2="2142"/>
+      <line x1="425" y1="1798" x2="80" y2="1964"/>
+      <line x1="425" y1="1798" x2="620" y2="1848"/>
+    </g>
+  </g>
+
+  <!-- author -->
+  <text x="1175" y="2524" class="author" style="font-size:44px; letter-spacing:1px">NIK BEAR BROWN</text>
+</svg>

@@ -227,7 +227,6 @@ The chapter's larger claim — that pedagogical design, not the delivery channel
 
 ---
 
-## Chapter 12 Exercises: AI in the Learning Experience: Scaffold or Crutch
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/12-ai-integration-decision.md` — the AI integration decision for your own redesign: a permission table (what the AI may do, what it is forbidden to do), the guardrail mechanic that enforces each forbidden row, and a fading plan.

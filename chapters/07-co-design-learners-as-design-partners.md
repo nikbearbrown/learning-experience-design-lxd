@@ -135,7 +135,6 @@ What the session cannot settle: whether the practice-attempt redesign actually m
 
 ---
 
-## Chapter 7 Exercises: Co-Design — Learners as Design Partners
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/07-codesign-record.md` — the decision brief, session plan, and accepted/rejected/deferred record of a real co-design session with learners from the experience you are redesigning. By the end of this block you will have planned the session with AI doing the legwork, run it with no AI in the room, and built a record that preserves exactly who said what — including who disagreed.

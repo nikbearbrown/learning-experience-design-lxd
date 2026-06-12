@@ -125,7 +125,6 @@ One more calibration, about where the strongest levers actually live. The highes
 
 ---
 
-## Chapter 4 Exercises: Motivation by Design
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/04-motivation-audit.md` — a mechanic-by-mechanic motivation audit of your chosen experience: which SDT need each mechanic serves, ignores, or starves; a removal-test prediction for each, with a 90-day falsification observable; and a task-value map showing where utility, attainment, intrinsic value, and cost are visible by design versus merely assumed.

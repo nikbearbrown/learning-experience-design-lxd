@@ -152,7 +152,6 @@ Attach to Studio Assignment #6:
 
 ---
 
-## Chapter 11 Exercises: Immersive and Embodied Learning: When the Medium Earns Its Cost
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/11-modality-decision.md` — the modality decision memo for your project: outcome inventory, the five questions run in order with the failing or passing gate shown, the verdict (adopt with pre-training / cheaper embodiment / decline), the cost line, and the mandatory counterfinding line.

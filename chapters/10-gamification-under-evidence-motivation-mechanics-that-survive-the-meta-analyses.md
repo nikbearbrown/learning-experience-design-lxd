@@ -123,7 +123,6 @@ One observation worth making explicit: every mechanic reviewed in this chapter i
 
 ---
 
-## Chapter 10 Exercises: Gamification Under Evidence: Motivation Mechanics That Survive the Meta-Analyses
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/10-motivation-decision.md` — the gamification decision memo for your project: an SDT decomposition of every proposed mechanic, a verdict (design as proposed / redesign / decline), and a mandatory decay-risk disclosure.

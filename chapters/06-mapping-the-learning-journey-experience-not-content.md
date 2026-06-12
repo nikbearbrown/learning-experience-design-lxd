@@ -185,7 +185,6 @@ The chapter's load-bearing claim is the stacking diagnostic: attrition concentra
 
 ---
 
-## Chapter 6 Exercises: Mapping the Learning Journey
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/06-journey-map.md` — your experience on the learner's calendar: touchpoint, load, affect, friction, and reflection lanes with an evidence-status label on every cell; service-blueprint rows with the line of visibility drawn; a pile-up scan; and a friction triage ledger in which every keep / remove / scaffold / unstack call is yours.

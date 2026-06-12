@@ -185,7 +185,6 @@ The chapter's central claim is that working-memory load architecture — minimiz
 - **Liljedahl, P., *Building Thinking Classrooms in Mathematics* (2021)** — what learners actually do with the tasks we design (mimic, stall, fake, think), from fifteen years of classroom observation.
 
 ---
-## Chapter 3 Exercises: The Cognitive Machinery — Load, Difficulty, and Durable Learning
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/03-load-audit.md` — a friction ledger for your chosen experience: every point of friction run through the four-question diagnostic and classified as extraneous, desirable difficulty, or undesirable difficulty, with the assumption and delayed measure each verdict rests on.
 ---

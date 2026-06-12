@@ -3,7 +3,7 @@
     Tic TOC Phase 3: Chapter Specifications.
 -->
 
-# Experience Design for EdTech — Chapter Specifications
+# Learning Experience Design — Chapter Specifications
 
 **Author:** Nik Bear Brown
 

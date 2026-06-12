@@ -185,7 +185,6 @@ The limit: one pilot term, no random assignment. The plan can retire assumptions
 
 ---
 
-## Chapter 13 Exercises: Instrumenting the Experience
 
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/13-measurement-plan.md` — the Measurement Plan Checkpoint. Every open assumption your dossier has accumulated gets mapped to an instrument, a threshold that would actually change a decision, and a data-dignity section with a named accountable human.

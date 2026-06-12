@@ -15,7 +15,8 @@ cat chapters/*.md > "$COMBINED"
 
 # chapter files reference images as ../images/ (relative to the source dir);
 # pandoc runs from the book root, so rewrite to images/
-sed -i 's|](\.\./images/|](images/|g' "$COMBINED"
+sed -i.bak 's|](\.\./images/|](images/|g' "$COMBINED"
+rm -f "$COMBINED.bak"
 
 pandoc "$COMBINED" \
   --from markdown-yaml_metadata_block \

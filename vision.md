@@ -3,7 +3,7 @@
     Tic TOC Phase 1: Vision and Positioning.
 -->
 
-# Experience Design for EdTech — Vision
+# Learning Experience Design — Vision
 
 **Author:** Nik Bear Brown
 

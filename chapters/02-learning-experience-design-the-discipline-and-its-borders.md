@@ -143,7 +143,6 @@ The constraint is the thing. Chapter 3 opens with the cognitive architecture: lo
 9. *(Challenge / open-ended)* The chapter says the disciplinary question — "is LXD a real discipline?" — is partly unsettleable by evidence, because disciplines are sociological facts that haven't finished happening. Design the study that would settle the *empirical* piece: what would you measure, using which participants, in which context, to determine whether LXD-trained designers produce different learning outcomes than ID-trained ones? Name the three hardest methodological problems in running that study and say how you would handle each. You do not need to solve them. You need to see them. *What this tests: ability to translate a theoretical debate into a research design, and to distinguish empirical questions from institutional ones.*
 
 ---
-## Chapter 2 Exercises: Learning Experience Design — The Discipline and Its Borders
 **Project:** The Redesign Dossier
 **This chapter adds:** `dossier/02-project-charter.md` — the formal selection and profile of the experience you will redesign, anchored by an optimization-target statement only LXD would sign and the three constraint-test answers.
 ---
